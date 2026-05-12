@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 155.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-trail-m-3me1011/mens/eclipse-black-shoes-3ME10110264"
+    }
+  ],
+  "image_path": "images/de53f02eaa6f73a7.png",
+  "product_key": "on/cloudsurfer-trail",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsurfer Trail",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-trail-m-3me1011/mens/eclipse-black-shoes-3ME10110264"
+}

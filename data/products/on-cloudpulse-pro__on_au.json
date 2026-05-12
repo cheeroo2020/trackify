@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 270.0,
+      "url": "https://www.on.com/en-au/products/cloudpulse-pro-m-3mf3032/mens/black-rock-shoes-3MF30320080"
+    }
+  ],
+  "image_path": "images/1e61f84d8e153e5c.png",
+  "product_key": "on/cloudpulse-pro",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudpulse Pro",
+  "url": "https://www.on.com/en-au/products/cloudpulse-pro-m-3mf3032/mens/black-rock-shoes-3MF30320080"
+}

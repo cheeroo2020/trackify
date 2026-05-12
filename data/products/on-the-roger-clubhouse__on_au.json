@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:41Z",
+      "price_aud": 160.0,
+      "url": "https://www.on.com/en-au/products/the-roger-clubhouse-3mf1054/mens/white-olive-shoes-3MF10541528"
+    }
+  ],
+  "image_path": "images/c3f68e0b848e8c89.png",
+  "product_key": "on/the-roger-clubhouse",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Clubhouse",
+  "url": "https://www.on.com/en-au/products/the-roger-clubhouse-3mf1054/mens/white-olive-shoes-3MF10541528"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:41Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloudflow-4-distance-3md3034/mens/white-black-shoes-3MD30340462"
+    }
+  ],
+  "image_path": "images/f440e4b282091c79.png",
+  "product_key": "on/cloudflow-4-distance",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudflow 4 DISTANCE",
+  "url": "https://www.on.com/en-au/products/cloudflow-4-distance-3md3034/mens/white-black-shoes-3MD30340462"
+}

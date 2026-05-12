@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 260.0,
+      "url": "https://www.on.com/en-au/products/cloudswift-4-3mf1013/mens/black-eclipse-shoes-3MF10130106"
+    }
+  ],
+  "image_path": "images/7df284b22906aade.png",
+  "product_key": "on/cloudswift-4",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudswift 4",
+  "url": "https://www.on.com/en-au/products/cloudswift-4-3mf1013/mens/black-eclipse-shoes-3MF10130106"
+}

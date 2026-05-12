@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:41Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714"
+    }
+  ],
+  "image_path": "images/301b72bf907a1a37.png",
+  "product_key": "on/cloudzone-moon",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudzone Moon",
+  "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714"
+}

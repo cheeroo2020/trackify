@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 380.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-hyper-paf-m-3mf3093/mens/black-black-shoes-3MF30931043"
+    }
+  ],
+  "image_path": "images/fbe5062ccd1bc9bb.png",
+  "product_key": "on/cloudmonster-hyper-paf",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmonster Hyper PAF",
+  "url": "https://www.on.com/en-au/products/cloudmonster-hyper-paf-m-3mf3093/mens/black-black-shoes-3MF30931043"
+}

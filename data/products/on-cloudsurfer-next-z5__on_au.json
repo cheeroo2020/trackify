@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:40Z",
+      "price_aud": 150.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-next-z5-m-3mf1032/mens/mineral-almond-shoes-3MF10323005"
+    }
+  ],
+  "image_path": "images/4a763947be169460.png",
+  "product_key": "on/cloudsurfer-next-z5",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsurfer Next Z5",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-next-z5-m-3mf1032/mens/mineral-almond-shoes-3MF10323005"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 270.0,
+      "url": "https://www.on.com/en-au/products/cloudrunner-2-waterproof-m-3me1015/mens/magnet-black-shoes-3ME10152130"
+    }
+  ],
+  "image_path": "images/dd2532b76d67ba85.png",
+  "product_key": "on/cloudrunner-2-waterproof",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrunner 2 Waterproof",
+  "url": "https://www.on.com/en-au/products/cloudrunner-2-waterproof-m-3me1015/mens/magnet-black-shoes-3ME10152130"
+}

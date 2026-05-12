@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 340.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-2-paf-m-3me1033/mens/seedling-white-shoes-3ME10331062"
+    }
+  ],
+  "image_path": "images/d6a11283d3df74ff.png",
+  "product_key": "on/cloudmonster-2-paf",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmonster 2 PAF",
+  "url": "https://www.on.com/en-au/products/cloudmonster-2-paf-m-3me1033/mens/seedling-white-shoes-3ME10331062"
+}

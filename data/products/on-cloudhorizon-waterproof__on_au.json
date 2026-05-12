@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 200.0,
+      "url": "https://www.on.com/en-au/products/cloudhorizon-waterproof-m-3me1005/mens/black-black-shoes-3ME10051043"
+    }
+  ],
+  "image_path": "images/ba006adef420e227.png",
+  "product_key": "on/cloudhorizon-waterproof",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudhorizon Waterproof",
+  "url": "https://www.on.com/en-au/products/cloudhorizon-waterproof-m-3me1005/mens/black-black-shoes-3ME10051043"
+}

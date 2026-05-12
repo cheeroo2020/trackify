@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 185.0,
+      "url": "https://www.on.com/en-au/products/cloudhorizon-m-3me1003/mens/fog-desert-shoes-3ME10033311"
+    }
+  ],
+  "image_path": "images/9b542e77631f9c2a.png",
+  "product_key": "on/cloudhorizon",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudhorizon",
+  "url": "https://www.on.com/en-au/products/cloudhorizon-m-3me1003/mens/fog-desert-shoes-3ME10033311"
+}

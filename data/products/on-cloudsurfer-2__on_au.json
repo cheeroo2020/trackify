@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 155.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/black-black-shoes-3MF10121043"
+    }
+  ],
+  "image_path": "images/3c5109fcbbc2e966.png",
+  "product_key": "on/cloudsurfer-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsurfer 2",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/black-black-shoes-3MF10121043"
+}

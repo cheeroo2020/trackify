@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 220.0,
+      "url": "https://www.on.com/en-au/products/cloudpulse-next-m-3mf3060/mens/alloy-malibu-shoes-3MF30604326"
+    }
+  ],
+  "image_path": "images/71fadaf9008b92e8.png",
+  "product_key": "on/cloudpulse-next",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudpulse Next",
+  "url": "https://www.on.com/en-au/products/cloudpulse-next-m-3mf3060/mens/alloy-malibu-shoes-3MF30604326"
+}

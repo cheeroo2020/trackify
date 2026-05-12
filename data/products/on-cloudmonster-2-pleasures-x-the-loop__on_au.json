@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-2-pls-tl-m-3mf1049/mens/mist-olive-shoes-3MF10493192"
+    }
+  ],
+  "image_path": "images/f4403d56d53772a2.png",
+  "product_key": "on/cloudmonster-2-pleasures-x-the-loop",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmonster 2 PLEASURES x The Loop",
+  "url": "https://www.on.com/en-au/products/cloudmonster-2-pls-tl-m-3mf1049/mens/mist-olive-shoes-3MF10493192"
+}

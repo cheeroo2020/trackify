@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudultra-3-beams-rei-m-3mf3072/mens/iron-black-shoes-3MF30721481"
+    }
+  ],
+  "image_path": "images/90b1b6266ccab928.png",
+  "product_key": "on/cloudultra-3-beams-rei",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudultra 3 BEAMS REI",
+  "url": "https://www.on.com/en-au/products/cloudultra-3-beams-rei-m-3mf3072/mens/iron-black-shoes-3MF30721481"
+}

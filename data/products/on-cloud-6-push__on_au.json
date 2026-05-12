@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:41Z",
+      "price_aud": 175.0,
+      "url": "https://www.on.com/en-au/products/cloud-6-push-3mf1005/mens/lavender-red-shoes-3MF10053026"
+    }
+  ],
+  "image_path": "images/834ccdc9690eadfc.png",
+  "product_key": "on/cloud-6-push",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud 6 Push",
+  "url": "https://www.on.com/en-au/products/cloud-6-push-3mf1005/mens/lavender-red-shoes-3MF10053026"
+}

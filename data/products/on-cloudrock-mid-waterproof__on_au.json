@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 320.0,
+      "url": "https://www.on.com/en-au/products/cloudrock-mid-wp-3mf1016/mens/black-black-shoes-3MF10161043"
+    }
+  ],
+  "image_path": "images/9a60c0e6a9d45c44.png",
+  "product_key": "on/cloudrock-mid-waterproof",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrock Mid Waterproof",
+  "url": "https://www.on.com/en-au/products/cloudrock-mid-wp-3mf1016/mens/black-black-shoes-3MF10161043"
+}

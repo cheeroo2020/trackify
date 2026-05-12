@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 185.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-lumos-62/mens/black-shoes-62.98394"
+    }
+  ],
+  "image_path": "images/e5c381ec0b68a91d.png",
+  "product_key": "on/cloudmonster-lumos",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmonster Lumos",
+  "url": "https://www.on.com/en-au/products/cloudmonster-lumos-62/mens/black-shoes-62.98394"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:41Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloud-6-coast-3mf1003/mens/black-rock-shoes-3MF10030080"
+    }
+  ],
+  "image_path": "images/c0f4c86f0b8c6677.png",
+  "product_key": "on/cloud-6-coast",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud 6 Coast",
+  "url": "https://www.on.com/en-au/products/cloud-6-coast-3mf1003/mens/black-rock-shoes-3MF10030080"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:41Z",
+      "price_aud": 240.0,
+      "url": "https://www.on.com/en-au/products/cloud-6-m-3mf1007/mens/black-black-shoes-3MF10071043"
+    }
+  ],
+  "image_path": "images/a02d923678e4ac1e.png",
+  "product_key": "on/cloud-6",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud 6",
+  "url": "https://www.on.com/en-au/products/cloud-6-m-3mf1007/mens/black-black-shoes-3MF10071043"
+}

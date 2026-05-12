@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:40Z",
+      "price_aud": 150.0,
+      "url": "https://www.on.com/en-au/products/cloudrunner-2-m-3me1014/mens/pearl-desert-shoes-3ME10144180"
+    }
+  ],
+  "image_path": "images/f9cd04a8d3e50ded.png",
+  "product_key": "on/cloudrunner-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrunner 2",
+  "url": "https://www.on.com/en-au/products/cloudrunner-2-m-3me1014/mens/pearl-desert-shoes-3ME10144180"
+}

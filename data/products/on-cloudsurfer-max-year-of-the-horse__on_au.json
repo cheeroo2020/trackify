@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 290.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mg1058/mens/chai-ivory-shoes-3MG10580722"
+    }
+  ],
+  "image_path": "images/d953a005e7b73d49.png",
+  "product_key": "on/cloudsurfer-max-year-of-the-horse",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsurfer Max Year of the Horse",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mg1058/mens/chai-ivory-shoes-3MG10580722"
+}

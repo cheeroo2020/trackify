@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 200.0,
+      "url": "https://www.on.com/en-au/products/cloudspike-xc-3me3032/mens/frost-white-shoes-3ME30320622"
+    }
+  ],
+  "image_path": "images/7117b3061a54c35b.png",
+  "product_key": "on/cloudspike-xc",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudspike XC",
+  "url": "https://www.on.com/en-au/products/cloudspike-xc-3me3032/mens/frost-white-shoes-3ME30320622"
+}

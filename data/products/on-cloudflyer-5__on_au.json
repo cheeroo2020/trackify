@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 185.0,
+      "url": "https://www.on.com/en-au/products/cloudflyer-5-3me3001/mens/wolf-black-shoes-3ME30013275"
+    }
+  ],
+  "image_path": "images/ee4cb192105c2d82.png",
+  "product_key": "on/cloudflyer-5",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudflyer 5",
+  "url": "https://www.on.com/en-au/products/cloudflyer-5-3me3001/mens/wolf-black-shoes-3ME30013275"
+}

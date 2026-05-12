@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloudspike-amplius-2-m-3mf1029/mens/white-raspberry-shoes-3MF10292926"
+    }
+  ],
+  "image_path": "images/d810965459f7d9c1.png",
+  "product_key": "on/cloudspike-amplius-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudspike Amplius 2",
+  "url": "https://www.on.com/en-au/products/cloudspike-amplius-2-m-3mf1029/mens/white-raspberry-shoes-3MF10292926"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 260.0,
+      "url": "https://www.on.com/en-au/products/cloudrunner-3-m-3mg1007/mens/black-black-shoes-3MG10071043"
+    }
+  ],
+  "image_path": "images/d10a279ae3dc3b29.png",
+  "product_key": "on/cloudrunner-3",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrunner 3",
+  "url": "https://www.on.com/en-au/products/cloudrunner-3-m-3mg1007/mens/black-black-shoes-3MG10071043"
+}

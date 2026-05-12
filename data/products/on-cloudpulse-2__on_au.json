@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 260.0,
+      "url": "https://www.on.com/en-au/products/cloudpulse-2-m-3mg1015/mens/obsidian-black-shoes-3MG10154774"
+    }
+  ],
+  "image_path": "images/1050386ef9439e82.png",
+  "product_key": "on/cloudpulse-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudpulse 2",
+  "url": "https://www.on.com/en-au/products/cloudpulse-2-m-3mg1015/mens/obsidian-black-shoes-3MG10154774"
+}

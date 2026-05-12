@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudnova-moon-m-3mg1081/mens/black-ink-shoes-3MG10815460"
+    }
+  ],
+  "image_path": "images/315822518fd81bab.png",
+  "product_key": "on/cloudnova-moon",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudnova Moon",
+  "url": "https://www.on.com/en-au/products/cloudnova-moon-m-3mg1081/mens/black-ink-shoes-3MG10815460"
+}

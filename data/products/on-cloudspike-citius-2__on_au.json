@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:44Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloudspike-citius-2-m-3mf1030/mens/bloom-lime-shoes-3MF10304849"
+    }
+  ],
+  "image_path": "images/0ae250aa80a01e9d.png",
+  "product_key": "on/cloudspike-citius-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudspike Citius 2",
+  "url": "https://www.on.com/en-au/products/cloudspike-citius-2-m-3mf1030/mens/bloom-lime-shoes-3MF10304849"
+}

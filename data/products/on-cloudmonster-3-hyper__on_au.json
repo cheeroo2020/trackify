@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:42Z",
+      "price_aud": 330.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-3-hyper-3mg1006/mens/glacier-black-shoes-3MG10060117"
+    }
+  ],
+  "image_path": "images/0aa41d126154ef51.png",
+  "product_key": "on/cloudmonster-3-hyper",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmonster 3 Hyper",
+  "url": "https://www.on.com/en-au/products/cloudmonster-3-hyper-3mg1006/mens/glacier-black-shoes-3MG10060117"
+}

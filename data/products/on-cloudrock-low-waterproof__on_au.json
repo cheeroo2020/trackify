@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:43Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloudrock-low-wp-3mf1025/mens/black-black-shoes-3MF10251043"
+    }
+  ],
+  "image_path": "images/b474cef590e39acc.png",
+  "product_key": "on/cloudrock-low-waterproof",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrock Low Waterproof",
+  "url": "https://www.on.com/en-au/products/cloudrock-low-wp-3mf1025/mens/black-black-shoes-3MF10251043"
+}

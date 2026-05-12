@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-12T12:23:45Z",
+      "price_aud": 165.0,
+      "url": "https://www.on.com/en-au/products/cloudzone-3mf1008/mens/alloy-rock-shoes-3MF10083295"
+    }
+  ],
+  "image_path": "images/7a90f9445a872a84.png",
+  "product_key": "on/cloudzone",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudzone",
+  "url": "https://www.on.com/en-au/products/cloudzone-3mf1008/mens/alloy-rock-shoes-3MF10083295"
+}
