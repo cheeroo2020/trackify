@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:20Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudsoma-m-3mf3065/mens/black-black-shoes-3MF30651043"
+    }
+  ],
+  "image_path": "images/8ca12a3229b5aac6.png",
+  "product_key": "on/men-scloudsomablack-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudsomaBlack | Black",
+  "url": "https://www.on.com/en-au/products/cloudsoma-m-3mf3065/mens/black-black-shoes-3MF30651043"
+}

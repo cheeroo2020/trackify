@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:24Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3116/mens/ivory-steel-shoes-3MF31164571"
+    }
+  ],
+  "image_path": "images/c68281568323c7b1.png",
+  "product_key": "on/men-scloudsurfer-maxivory-steel",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudsurfer MaxIvory | Steel",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3116/mens/ivory-steel-shoes-3MF31164571"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:55Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/black-black-shoes-3MF10111043"
+    }
+  ],
+  "image_path": "images/67b9e660e7fc3be2.png",
+  "product_key": "on/men-scloudflow-5black-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudflow 5Black | Black",
+  "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/black-black-shoes-3MF10111043"
+}

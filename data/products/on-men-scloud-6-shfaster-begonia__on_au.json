@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:45Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/aster-begonia-shoes-3MF31105555"
+    }
+  ],
+  "image_path": "images/50a8056e73792265.png",
+  "product_key": "on/men-scloud-6-shfaster-begonia",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud 6 SHFAster | Begonia",
+  "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/aster-begonia-shoes-3MF31105555"
+}

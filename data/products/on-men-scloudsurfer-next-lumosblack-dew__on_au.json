@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:26Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3051/mens/black-dew-shoes-3ME30513714"
+    }
+  ],
+  "image_path": "images/89e1fbb06853209f.png",
+  "product_key": "on/men-scloudsurfer-next-lumosblack-dew",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudsurfer Next LumosBlack | Dew",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3051/mens/black-dew-shoes-3ME30513714"
+}

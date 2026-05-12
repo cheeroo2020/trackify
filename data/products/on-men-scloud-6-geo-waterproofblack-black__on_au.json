@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:43Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-6-geo-wp-m-3mg1042/mens/black-black-shoes-3MG10421043"
+    }
+  ],
+  "image_path": "images/f501b35518ec34d0.png",
+  "product_key": "on/men-scloud-6-geo-waterproofblack-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud 6 Geo WaterproofBlack | Black",
+  "url": "https://www.on.com/en-au/products/cloud-6-geo-wp-m-3mg1042/mens/black-black-shoes-3MG10421043"
+}

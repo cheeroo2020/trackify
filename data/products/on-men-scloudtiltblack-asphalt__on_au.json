@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:30Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudtilt-m-3me1010/mens/black-asphalt-shoes-3ME10100397"
+    }
+  ],
+  "image_path": "images/1343269168528543.png",
+  "product_key": "on/men-scloudtiltblack-asphalt",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudtiltBlack | Asphalt",
+  "url": "https://www.on.com/en-au/products/cloudtilt-m-3me1010/mens/black-asphalt-shoes-3ME10100397"
+}

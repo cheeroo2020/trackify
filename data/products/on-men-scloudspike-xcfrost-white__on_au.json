@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:22Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudspike-xc-3me3032/mens/frost-white-shoes-3ME30320622"
+    }
+  ],
+  "image_path": "images/2123dcd5fded1643.png",
+  "product_key": "on/men-scloudspike-xcfrost-white",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudspike XCFrost | White",
+  "url": "https://www.on.com/en-au/products/cloudspike-xc-3me3032/mens/frost-white-shoes-3ME30320622"
+}

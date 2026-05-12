@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:14Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudrock-low-beams-rei-m-3mf3071/mens/earth-black-shoes-3MF30714228"
+    }
+  ],
+  "image_path": "images/e1e3ecf5551fdbc2.png",
+  "product_key": "on/men-scloudrock-low-beams-reiearth-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudrock Low BEAMS REIEarth | Black",
+  "url": "https://www.on.com/en-au/products/cloudrock-low-beams-rei-m-3mf3071/mens/earth-black-shoes-3MF30714228"
+}

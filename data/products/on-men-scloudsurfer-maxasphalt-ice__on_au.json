@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:24Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/asphalt-ice-shoes-3MF30433396"
+    }
+  ],
+  "image_path": "images/1e74bd33fe93b1fd.png",
+  "product_key": "on/men-scloudsurfer-maxasphalt-ice",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudsurfer MaxAsphalt | Ice",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/asphalt-ice-shoes-3MF30433396"
+}

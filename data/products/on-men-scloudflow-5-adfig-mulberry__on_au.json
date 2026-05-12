@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:53Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudflow-5-ad-m-3mf3070/mens/fig-mulberry-shoes-3MF30704894"
+    }
+  ],
+  "image_path": "images/f01d42cf05a61d81.png",
+  "product_key": "on/men-scloudflow-5-adfig-mulberry",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudflow 5 ADFig | Mulberry",
+  "url": "https://www.on.com/en-au/products/cloudflow-5-ad-m-3mf3070/mens/fig-mulberry-shoes-3MF30704894"
+}

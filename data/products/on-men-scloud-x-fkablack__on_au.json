@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:47Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-x-fka-m-3mf1091/mens/black-shoes-3MF10910553"
+    }
+  ],
+  "image_path": "images/655f15e1bec186e9.png",
+  "product_key": "on/men-scloud-x-fkablack",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud X FKABlack",
+  "url": "https://www.on.com/en-au/products/cloud-x-fka-m-3mf1091/mens/black-shoes-3MF10910553"
+}

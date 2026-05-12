@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:03Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1005/mens/black-black-shoes-3MG10051043"
+    }
+  ],
+  "image_path": "images/88391d481d7f4717.png",
+  "product_key": "on/men-scloudmonster-3black-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudmonster 3Black | Black",
+  "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1005/mens/black-black-shoes-3MG10051043"
+}

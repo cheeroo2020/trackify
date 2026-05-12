@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:51Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudeclipse-3md3009/mens/alloy-white-shoes-3MD30092547"
+    }
+  ],
+  "image_path": "images/a003d412ed15bd45.png",
+  "product_key": "on/men-scloudeclipsealloy-white",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudeclipseAlloy | White",
+  "url": "https://www.on.com/en-au/products/cloudeclipse-3md3009/mens/alloy-white-shoes-3MD30092547"
+}

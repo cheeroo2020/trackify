@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:29Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1046/mens/black-black-shoes-3MG10461043"
+    }
+  ],
+  "image_path": "images/ff6f5bd669c7094e.png",
+  "product_key": "on/men-scloudswift-ampblack-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudswift AmpBlack | Black",
+  "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1046/mens/black-black-shoes-3MG10461043"
+}

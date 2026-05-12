@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:54Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudflow-5-lumos-m-3mf3076/mens/glacier-black-shoes-3MF30760117"
+    }
+  ],
+  "image_path": "images/9269393b9935fc0a.png",
+  "product_key": "on/men-scloudflow-5-lumosglacier-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudflow 5 LumosGlacier | Black",
+  "url": "https://www.on.com/en-au/products/cloudflow-5-lumos-m-3mf3076/mens/glacier-black-shoes-3MF30760117"
+}

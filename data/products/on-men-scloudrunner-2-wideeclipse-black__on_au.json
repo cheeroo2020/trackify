@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:17Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudrunner-2-wide-m-3me1032/mens/eclipse-black-shoes-3ME10320264"
+    }
+  ],
+  "image_path": "images/ece634f36445d1b3.png",
+  "product_key": "on/men-scloudrunner-2-wideeclipse-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudrunner 2 WideEclipse | Black",
+  "url": "https://www.on.com/en-au/products/cloudrunner-2-wide-m-3me1032/mens/eclipse-black-shoes-3ME10320264"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:19Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudrunner-3-wide-m-3mg1009/mens/black-black-shoes-3MG10091043"
+    }
+  ],
+  "image_path": "images/0b0ef36a437dc3b4.png",
+  "product_key": "on/men-scloudrunner-3-wideblack-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudrunner 3 WideBlack | Black",
+  "url": "https://www.on.com/en-au/products/cloudrunner-3-wide-m-3mg1009/mens/black-black-shoes-3MG10091043"
+}

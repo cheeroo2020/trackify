@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:34Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudventure-peak-paf-3me3065/mens/ice-moon-shoes-3ME30652971"
+    }
+  ],
+  "image_path": "images/7b4eaad5cafde339.png",
+  "product_key": "on/men-scloudventure-peak-pafice-moon",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudventure Peak PAFIce | Moon",
+  "url": "https://www.on.com/en-au/products/cloudventure-peak-paf-3me3065/mens/ice-moon-shoes-3ME30652971"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:33Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043"
+    }
+  ],
+  "image_path": "images/f5fd268362b96892.png",
+  "product_key": "on/men-scloudultra-3black-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudultra 3Black | Black",
+  "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:50Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudboom-volt-m-3mf3098/mens/black-juniper-shoes-3MF30984766"
+    }
+  ],
+  "image_path": "images/36347e59ab2fbd48.png",
+  "product_key": "on/men-scloudboom-voltblack-juniper",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudboom VoltBlack | Juniper",
+  "url": "https://www.on.com/en-au/products/cloudboom-volt-m-3mf3098/mens/black-juniper-shoes-3MF30984766"
+}

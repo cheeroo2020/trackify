@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:36Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/shadow-apollo-shoes-3ME30043558"
+    }
+  ],
+  "image_path": "images/14e74670eb431f5d.png",
+  "product_key": "on/men-scloud-x-4shadow-apollo",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud X 4Shadow | Apollo",
+  "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/shadow-apollo-shoes-3ME30043558"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:48Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudboom-max-m-3mf3031/mens/lime-raspberry-shoes-3MF30314229"
+    }
+  ],
+  "image_path": "images/e84fedb41f0438a3.png",
+  "product_key": "on/men-scloudboom-maxlime-raspberry",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudboom MaxLime | Raspberry",
+  "url": "https://www.on.com/en-au/products/cloudboom-max-m-3mf3031/mens/lime-raspberry-shoes-3MF30314229"
+}

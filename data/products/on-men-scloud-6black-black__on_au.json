@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:43Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-6-m-3mf1007/mens/black-black-shoes-3MF10071043"
+    }
+  ],
+  "image_path": "images/a9ec6a73a4ebf34f.png",
+  "product_key": "on/men-scloud-6black-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud 6Black | Black",
+  "url": "https://www.on.com/en-au/products/cloud-6-m-3mf1007/mens/black-black-shoes-3MF10071043"
+}

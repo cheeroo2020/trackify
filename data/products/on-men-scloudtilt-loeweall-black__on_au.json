@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:29Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudtilt-loewe-3md3033/mens/all-black-shoes-3MD30330485"
+    }
+  ],
+  "image_path": "images/dfbc0589a98a6146.png",
+  "product_key": "on/men-scloudtilt-loeweall-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudtilt LOEWEAll Black",
+  "url": "https://www.on.com/en-au/products/cloudtilt-loewe-3md3033/mens/all-black-shoes-3MD30330485"
+}

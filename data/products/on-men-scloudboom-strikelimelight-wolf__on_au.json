@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:37Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/limelight-wolf-shoes-3ME30483331"
+    }
+  ],
+  "image_path": "images/69aa715a7de00aef.png",
+  "product_key": "on/men-scloudboom-strikelimelight-wolf",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudboom StrikeLimelight | Wolf",
+  "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/limelight-wolf-shoes-3ME30483331"
+}

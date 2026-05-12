@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:44Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-6-m-3mg1125/mens/grizzly-grizzly-shoes-3MG11255038"
+    }
+  ],
+  "image_path": "images/9a1d0d29a3aba13a.png",
+  "product_key": "on/men-scloud-6-year-of-the-horsegrizzly-grizzly",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud 6 Year of the HorseGrizzly | Grizzly",
+  "url": "https://www.on.com/en-au/products/cloud-6-m-3mg1125/mens/grizzly-grizzly-shoes-3MG11255038"
+}

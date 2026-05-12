@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:26Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/black-black-shoes-3ME30021043"
+    }
+  ],
+  "image_path": "images/36b21e8b08cb319f.png",
+  "product_key": "on/men-scloudsurfer-nextblack-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudsurfer NextBlack | Black",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/black-black-shoes-3ME30021043"
+}

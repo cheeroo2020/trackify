@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:20:32Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudtilt-remix-m-3mg1027/mens/black-black-shoes-3MG10271043"
+    }
+  ],
+  "image_path": "images/52c5b2d9d8f79f05.png",
+  "product_key": "on/men-scloudtilt-remixblack-black",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloudtilt RemixBlack | Black",
+  "url": "https://www.on.com/en-au/products/cloudtilt-remix-m-3mg1027/mens/black-black-shoes-3MG10271043"
+}

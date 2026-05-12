@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-05-12T12:19:46Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloud-6-versa-m-3mf1004/mens/black-eclipse-shoes-3MF10040106"
+    }
+  ],
+  "image_path": "images/b4adc515972f8def.png",
+  "product_key": "on/men-scloud-6-versablack-eclipse",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Men'sCloud 6 VersaBlack | Eclipse",
+  "url": "https://www.on.com/en-au/products/cloud-6-versa-m-3mf1004/mens/black-eclipse-shoes-3MF10040106"
+}
