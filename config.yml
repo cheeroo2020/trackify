@@ -1,0 +1,75 @@
+# trackify config
+#
+# - Scrapers marked `enabled: true` will run. Stubs are disabled by default.
+# - For console retailers we pin specific PDP URLs (consoles change rarely).
+# - ON sneakers auto-discover from on.com/en-au PLPs (filtered to US M8).
+# - Sister retailers (Foot Locker / JD / Platypus / Hype / Iconic / Rebel)
+#   stay stubbed until you fill in the scraper.
+
+alerting:
+  drop_pct_threshold: 5.0  # also alerts on new all-time low regardless of %
+
+sneakers:
+  target_size_label: "US M8"  # mens US 8
+
+retailers:
+  # ---------- ON sneakers ----------
+  on_au:
+    enabled: true
+    max_products: 80  # cap PDP fetches per run
+
+  the_iconic:
+    enabled: false  # stub
+
+  foot_locker_au:
+    enabled: false  # stub
+
+  jd_sports_au:
+    enabled: false  # stub
+
+  platypus:
+    enabled: false  # stub
+
+  hype_dc:
+    enabled: false  # stub
+
+  rebel:
+    enabled: false  # stub
+
+  # ---------- consoles ----------
+  eb_games:
+    enabled: true
+    urls:
+      ps5/slim-disc: "https://www.ebgames.com.au/ps5-241245-PlayStation-5-Slim-Console.html"
+      ps5/slim-digital: "https://www.ebgames.com.au/ps5-241246-PlayStation-5-Slim-Console-Digital-Edition.html"
+      ps5/pro: "https://www.ebgames.com.au/ps5-243101-PlayStation-5-Pro-Console.html"
+      xbox/series-x: "https://www.ebgames.com.au/xbox-225909-Xbox-Series-X.html"
+      xbox/series-s: "https://www.ebgames.com.au/xbox-225911-Xbox-Series-S.html"
+      xbox/series-x-digital-1tb: "https://www.ebgames.com.au/xbox-242790-Xbox-Series-X-Digital-1TB.html"
+      xbox/series-x-galaxy-2tb: "https://www.ebgames.com.au/xbox-242791-Xbox-Series-X-Galaxy-Black-Special-Edition-2TB.html"
+
+  jb_hifi:
+    enabled: true
+    urls:
+      # NOTE: JB Hi-Fi URLs change when SKUs are refreshed. If a fetch 404s,
+      # replace the URL — the product_key stays the same so price history is
+      # preserved across the change.
+      ps5/slim-disc: "https://www.jbhifi.com.au/products/playstation-5-slim-console"
+      ps5/slim-digital: "https://www.jbhifi.com.au/products/playstation-5-slim-digital-edition-console"
+      ps5/pro: "https://www.jbhifi.com.au/products/playstation-5-pro-console"
+      xbox/series-x: "https://www.jbhifi.com.au/products/xbox-series-x-console"
+      xbox/series-s: "https://www.jbhifi.com.au/products/xbox-series-s-console-1tb"
+      xbox/series-x-digital-1tb: "https://www.jbhifi.com.au/products/xbox-series-x-digital-edition-1tb-console"
+      xbox/series-x-galaxy-2tb: "https://www.jbhifi.com.au/products/xbox-series-x-galaxy-black-special-edition-2tb-console"
+
+  amazon_au:
+    enabled: false  # stub — bot-blocked
+
+  big_w:
+    enabled: false  # stub
+
+  harvey_norman:
+    enabled: false  # stub
+
+  the_good_guys:
+    enabled: false  # stub

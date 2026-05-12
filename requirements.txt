@@ -1,0 +1,6 @@
+httpx[http2]==0.27.2
+selectolax==0.3.21
+beautifulsoup4==4.12.3
+pyyaml==6.0.2
+tenacity==9.0.0
+python-dateutil==2.9.0.post0

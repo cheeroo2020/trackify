@@ -1,0 +1,50 @@
+name: track
+
+on:
+  schedule:
+    # Mondays 22:00 UTC ≈ 09:00 Sydney (AEDT) / 08:00 Sydney (AEST).
+    - cron: "0 22 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # commit price history + image cache back to the repo
+  issues: write     # open price-drop issues
+
+concurrency:
+  group: trackify-run
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run trackify
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python -m trackify.runner
+
+      - name: Commit price history + image cache
+        run: |
+          git config user.name  "trackify-bot"
+          git config user.email "trackify-bot@users.noreply.github.com"
+          git add data/ images/ || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "weekly: price snapshot $(date -u +%Y-%m-%d)"
+            git push
+          fi
