@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>trackify — AU price tracker</title>
+  <meta name="description" content="Weekly price tracking for ON sneakers (mens US 8), PlayStation 5, and Xbox consoles across major Australian retailers.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Ctext y='13' font-size='14'%3E📉%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar__inner">
+      <div>
+        <h1>trackify</h1>
+        <p class="topbar__sub">Weekly AU prices • ON sneakers (M US 8), PS5, Xbox</p>
+      </div>
+      <div class="topbar__meta">
+        <span id="updated" class="updated">—</span>
+        <a class="repo-link" href="https://github.com/cheeroo2020/trackify" target="_blank" rel="noopener">repo ↗</a>
+      </div>
+    </div>
+
+    <div class="controls">
+      <div class="filters" role="tablist" aria-label="Filter by category">
+        <button class="chip is-active" data-filter="all" role="tab" aria-selected="true">All</button>
+        <button class="chip" data-filter="sneakers" role="tab" aria-selected="false">Sneakers</button>
+        <button class="chip" data-filter="ps5" role="tab" aria-selected="false">PS5</button>
+        <button class="chip" data-filter="xbox" role="tab" aria-selected="false">Xbox</button>
+      </div>
+      <label class="search">
+        <span class="visually-hidden">Search products</span>
+        <input id="search" type="search" placeholder="Search products…" autocomplete="off">
+      </label>
+    </div>
+  </header>
+
+  <main>
+    <div id="app" class="grid" aria-live="polite"></div>
+    <p id="empty" class="empty" hidden>
+      No matching products.
+    </p>
+  </main>
+
+  <template id="card-template">
+    <article class="card">
+      <a class="card__imgwrap" target="_blank" rel="noopener">
+        <img class="card__img" loading="lazy" decoding="async" alt="">
+        <span class="card__cat"></span>
+      </a>
+      <div class="card__body">
+        <h3 class="card__title"></h3>
+        <p class="card__meta"></p>
+        <ul class="offers"></ul>
+      </div>
+    </article>
+  </template>
+
+  <footer class="footer">
+    <p>Auto-updated every Monday by GitHub Actions. Prices are observed values; check the retailer page before buying.</p>
+  </footer>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

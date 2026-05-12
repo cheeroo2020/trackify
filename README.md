@@ -5,6 +5,16 @@ and **Xbox consoles** across major Australian retailers. Runs entirely inside
 GitHub Actions on a weekly cron, commits price history back to the repo, and
 opens an issue when a tracked product hits a new low (or drops ≥5%).
 
+**Live dashboard**: <https://cheeroo2020.github.io/trackify/>
+(responsive grid of product cards — images, prices side-by-side per retailer,
+cheapest highlighted. Auto-redeploys when the weekly Action commits new data.)
+
+## Enabling the dashboard (one-time)
+
+On GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a
+branch → Branch: `main` / root → Save.** Site goes live at the URL above in
+about a minute.
+
 ## How it works
 
 ```
@@ -57,6 +67,12 @@ pip install -r requirements.txt
 python -m trackify.runner --dry-run        # full run, doesn't write files
 python -m trackify.runner --only on_au     # one scraper at a time
 python -m trackify.runner                  # full run, writes data/ + images/
+```
+
+To preview the dashboard locally without Pages:
+
+```bash
+python3 -m http.server 8000   # then open http://localhost:8000
 ```
 
 Local runs won't open GitHub Issues unless you export `GITHUB_TOKEN` and
