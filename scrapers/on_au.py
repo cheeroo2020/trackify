@@ -40,6 +40,9 @@ def _is_target_size(label: str) -> bool:
 
 
 def _extract_jsonld(tree: HTMLParser) -> list[dict]:
+    """Flatten all JSON-LD blocks into a single list of @type-bearing dicts.
+    ON wraps its product data in {"@graph": [...]} so we recurse into that.
+    """
     out: list[dict] = []
     for node in tree.css('script[type="application/ld+json"]'):
         text = node.text() or ""
@@ -47,62 +50,98 @@ def _extract_jsonld(tree: HTMLParser) -> list[dict]:
             data = json.loads(text)
         except json.JSONDecodeError:
             continue
-        if isinstance(data, list):
-            out.extend(d for d in data if isinstance(d, dict))
-        elif isinstance(data, dict):
-            out.append(data)
+        stack = [data]
+        while stack:
+            cur = stack.pop()
+            if isinstance(cur, dict):
+                if "@graph" in cur and isinstance(cur["@graph"], list):
+                    stack.extend(cur["@graph"])
+                else:
+                    out.append(cur)
+            elif isinstance(cur, list):
+                stack.extend(cur)
     return out
 
 
+def _model_name_from_group(name: Optional[str]) -> Optional[str]:
+    """ProductGroup names look like "Men's Cloud 6"; strip the gender prefix."""
+    if not name:
+        return None
+    return re.sub(r"^(Men'?s|Women'?s)\s+", "", name).strip()
+
+
 def _parse_pdp(tree: HTMLParser, url: str) -> Optional[Listing]:
+    """ON's JSON-LD shape:
+      ProductGroup → hasVariant: [Product(colorway), ...]
+                                  → offers: { price, priceCurrency, availability }
+    Per-size info is not in JSON-LD (only colorways). The model-level price
+    is the same across all sizes within a colorway for ON shoes, so we track
+    that as the "US M8 price".
+    """
     title: Optional[str] = None
     price: Optional[float] = None
     image: Optional[str] = None
-    in_stock_size_8 = False
+    in_stock = False
+    saw_offer = False
 
-    for blob in _extract_jsonld(tree):
-        if blob.get("@type") != "Product":
+    blobs = _extract_jsonld(tree)
+
+    # First pass: take the ProductGroup name and walk its variants (preferred shape)
+    for blob in blobs:
+        if blob.get("@type") != "ProductGroup":
             continue
-        title = title or blob.get("name")
-        if isinstance(blob.get("image"), list) and blob["image"]:
-            image = image or blob["image"][0]
-        elif isinstance(blob.get("image"), str):
-            image = image or blob["image"]
-
-        offers = blob.get("offers")
-        if isinstance(offers, dict):
-            if offers.get("@type") == "AggregateOffer":
-                price = price or parse_price(str(offers.get("lowPrice") or ""))
-                candidates = offers.get("offers") or []
-            else:
-                candidates = [offers]
-        elif isinstance(offers, list):
-            candidates = offers
-        else:
-            candidates = []
-
-        for off in candidates:
-            if not isinstance(off, dict):
+        title = title or _model_name_from_group(blob.get("name"))
+        variants = blob.get("hasVariant") or blob.get("member") or []
+        for v in variants:
+            if not isinstance(v, dict):
                 continue
-            label_bits = [
-                off.get("name"),
-                off.get("sku"),
-                off.get("description"),
-                off.get("size"),
-            ]
-            item = off.get("itemOffered")
-            if isinstance(item, dict):
-                label_bits.append(item.get("size"))
-                label_bits.append(item.get("name"))
-            label = " ".join(str(v) for v in label_bits if v)
-            if _is_target_size(label):
-                p = parse_price(str(off.get("price") or ""))
-                avail = (off.get("availability") or "").lower()
+            if not image:
+                vimg = v.get("image")
+                if isinstance(vimg, str):
+                    image = vimg
+                elif isinstance(vimg, list) and vimg:
+                    image = vimg[0]
+            offers = v.get("offers")
+            if isinstance(offers, dict):
+                p = parse_price(str(offers.get("price") or ""))
+                avail = (offers.get("availability") or "").lower()
+                avail_in = "instock" in avail.replace("/", "")
                 if p is not None:
-                    price = p
-                in_stock_size_8 = "instock" in avail or "in_stock" in avail or avail.endswith("instock")
-                break
+                    saw_offer = True
+                    if price is None or p < price:
+                        price = p
+                        in_stock = avail_in
 
+    # Second pass: standalone Products (in case ProductGroup is missing)
+    if not saw_offer:
+        for blob in blobs:
+            if blob.get("@type") != "Product":
+                continue
+            title = title or _model_name_from_group(blob.get("name")) or blob.get("name")
+            if not image:
+                bimg = blob.get("image")
+                if isinstance(bimg, str):
+                    image = bimg
+                elif isinstance(bimg, list) and bimg:
+                    image = bimg[0]
+            offers = blob.get("offers")
+            offer_list = offers if isinstance(offers, list) else [offers]
+            for o in offer_list:
+                if not isinstance(o, dict):
+                    continue
+                if o.get("@type") == "AggregateOffer":
+                    p = parse_price(str(o.get("lowPrice") or ""))
+                    if p is not None and (price is None or p < price):
+                        price = p
+                else:
+                    p = parse_price(str(o.get("price") or ""))
+                    avail = (o.get("availability") or "").lower()
+                    avail_in = "instock" in avail.replace("/", "")
+                    if p is not None and (price is None or p < price):
+                        price = p
+                        in_stock = avail_in
+
+    # Fallbacks for title / image
     if not title:
         h1 = tree.css_first("h1")
         if h1:
@@ -110,8 +149,7 @@ def _parse_pdp(tree: HTMLParser, url: str) -> Optional[Listing]:
     if not title:
         og = tree.css_first('meta[property="og:title"]')
         if og:
-            title = og.attributes.get("content")
-
+            title = (og.attributes.get("content") or "").strip()
     if not image:
         og_img = tree.css_first('meta[property="og:image"]')
         if og_img:
@@ -127,7 +165,7 @@ def _parse_pdp(tree: HTMLParser, url: str) -> Optional[Listing]:
         title=title,
         url=url,
         price_aud=price,
-        in_stock=in_stock_size_8,
+        in_stock=in_stock,
         size="US M8",
         image_url=image,
     )
