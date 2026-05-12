@@ -38,29 +38,22 @@ retailers:
 
   # ---------- consoles ----------
   eb_games:
-    enabled: true
-    urls:
-      ps5/slim-disc: "https://www.ebgames.com.au/ps5-241245-PlayStation-5-Slim-Console.html"
-      ps5/slim-digital: "https://www.ebgames.com.au/ps5-241246-PlayStation-5-Slim-Console-Digital-Edition.html"
-      ps5/pro: "https://www.ebgames.com.au/ps5-243101-PlayStation-5-Pro-Console.html"
-      xbox/series-x: "https://www.ebgames.com.au/xbox-225909-Xbox-Series-X.html"
-      xbox/series-s: "https://www.ebgames.com.au/xbox-225911-Xbox-Series-S.html"
-      xbox/series-x-digital-1tb: "https://www.ebgames.com.au/xbox-242790-Xbox-Series-X-Digital-1TB.html"
-      xbox/series-x-galaxy-2tb: "https://www.ebgames.com.au/xbox-242791-Xbox-Series-X-Galaxy-Black-Special-Edition-2TB.html"
+    enabled: false  # 403s from GitHub Actions IPs; needs proxy. Stub for now.
 
   jb_hifi:
     enabled: true
     urls:
-      # NOTE: JB Hi-Fi URLs change when SKUs are refreshed. If a fetch 404s,
-      # replace the URL — the product_key stays the same so price history is
-      # preserved across the change.
-      ps5/slim-disc: "https://www.jbhifi.com.au/products/playstation-5-slim-console"
-      ps5/slim-digital: "https://www.jbhifi.com.au/products/playstation-5-slim-digital-edition-console"
-      ps5/pro: "https://www.jbhifi.com.au/products/playstation-5-pro-console"
-      xbox/series-x: "https://www.jbhifi.com.au/products/xbox-series-x-console"
-      xbox/series-s: "https://www.jbhifi.com.au/products/xbox-series-s-console-1tb"
-      xbox/series-x-digital-1tb: "https://www.jbhifi.com.au/products/xbox-series-x-digital-edition-1tb-console"
-      xbox/series-x-galaxy-2tb: "https://www.jbhifi.com.au/products/xbox-series-x-galaxy-black-special-edition-2tb-console"
+      # Verified live 2026-05-12 via Shopify suggest API.
+      # If a fetch 404s in future, look up the current handle at:
+      #   https://www.jbhifi.com.au/search/suggest.json?q=<query>&resources[type]=product
+      # Keep the product_key stable so price history carries over.
+      ps5/slim-disc: "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-console"
+      ps5/slim-digital: "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-digital-console-825gb"
+      ps5/pro: "https://www.jbhifi.com.au/products/ps5-playstation-5-pro-console"
+      xbox/series-x: "https://www.jbhifi.com.au/products/xbox-series-x-1tb-console"
+      xbox/series-s-512gb: "https://www.jbhifi.com.au/products/xbox-series-s-512gb-console-1"
+      xbox/series-s-1tb: "https://www.jbhifi.com.au/products/xbox-series-s-1tb-console-robot-white"
+      xbox/series-x-digital-1tb: "https://www.jbhifi.com.au/products/xbox-series-x-1tb-digital-console-robot-white"
 
   amazon_au:
     enabled: false  # stub — bot-blocked

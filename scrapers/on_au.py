@@ -1,14 +1,13 @@
 """ON Running Australia — on.com/en-au
 
-Approach: ON exposes product data via JSON-LD blocks on each PLP/PDP and via
-its Shopify-like product feed. To stay robust across redesigns we:
-  1. Fetch the mens running + lifestyle PLPs.
-  2. Extract product cards (href + title + image) from JSON-LD ItemList blocks.
-  3. For each product, fetch the PDP and read its Product JSON-LD for the
-     current AUD price + the size 8 (US M) variant availability.
-
-If the JSON-LD shape changes, replace the parser — the contract is just
-"return Listings".
+Discovery via the public products.xml sitemap (it's the only mens-shoes
+source on this site that doesn't require JS rendering). We:
+  1. Fetch the sitemap and pull every URL matching
+     /products/<slug>/mens/<colorway>-shoes-<sku>
+  2. Dedupe by slug (one colorway per model is enough — the model-level
+     price doesn't vary across colorways).
+  3. Fetch each PDP and read its Product JSON-LD for AUD price + the
+     mens US 8 variant availability.
 """
 from __future__ import annotations
 
@@ -23,23 +22,21 @@ from scrapers.base import BaseScraper, parse_price, slugify
 from trackify.models import Listing
 
 
-PLP_URLS = [
-    "https://www.on.com/en-au/shop/mens/shoes/running",
-    "https://www.on.com/en-au/shop/mens/shoes/training",
-    "https://www.on.com/en-au/shop/mens/shoes/all-day",
-    "https://www.on.com/en-au/shop/mens/shoes/hiking",
-    "https://www.on.com/en-au/shop/mens/shoes/tennis",
-]
+SITEMAP_URL = "https://www.on.com/en-au/products.xml"
+SHOE_URL_RE = re.compile(
+    r"^https://www\.on\.com/en-au/products/([^/]+)/mens/[^/]*shoes-[^/]+$"
+)
 
-# Mens US 8 ≈ EU 40.5/41 ≈ UK 7 — ON labels these explicitly as "US M 8" / "8".
-TARGET_SIZE_LABEL_PATTERNS = [
-    re.compile(r"^\s*8\s*$"),
+# ON labels mens US 8 in JSON-LD offer descriptions as "US M 8" or just "8" /
+# inside a sku containing the size code.
+TARGET_SIZE_PATTERNS = [
     re.compile(r"\bUS\s*M?\s*8\b", re.I),
+    re.compile(r"\bsize\W*8\b", re.I),
 ]
 
 
 def _is_target_size(label: str) -> bool:
-    return any(p.search(label) for p in TARGET_SIZE_LABEL_PATTERNS)
+    return any(p.search(label or "") for p in TARGET_SIZE_PATTERNS)
 
 
 def _extract_jsonld(tree: HTMLParser) -> list[dict]:
@@ -57,35 +54,6 @@ def _extract_jsonld(tree: HTMLParser) -> list[dict]:
     return out
 
 
-def _product_links_from_plp(tree: HTMLParser, base: str) -> list[str]:
-    links: set[str] = set()
-    # JSON-LD ItemList is the cleanest source
-    for blob in _extract_jsonld(tree):
-        if blob.get("@type") in ("ItemList", "CollectionPage"):
-            for item in blob.get("itemListElement", []) or []:
-                url = (
-                    item.get("url")
-                    if isinstance(item, dict)
-                    else None
-                )
-                if not url and isinstance(item, dict):
-                    url = (item.get("item") or {}).get("url") if isinstance(item.get("item"), dict) else None
-                if url:
-                    links.add(url)
-    # Fallback: anchor tags that look like PDPs
-    if not links:
-        for a in tree.css("a[href]"):
-            href = a.attributes.get("href", "")
-            if "/shop/" in href and href.count("/") >= 4 and not href.endswith("/"):
-                full = href if href.startswith("http") else f"https://www.on.com{href}"
-                # Heuristic: PDP URLs end in a model slug, not a category slug
-                if "/shoes/" in full and full.rstrip("/").split("/")[-1] not in {
-                    "running", "training", "all-day", "hiking", "tennis", "shoes"
-                }:
-                    links.add(full)
-    return sorted(links)
-
-
 def _parse_pdp(tree: HTMLParser, url: str) -> Optional[Listing]:
     title: Optional[str] = None
     price: Optional[float] = None
@@ -97,45 +65,57 @@ def _parse_pdp(tree: HTMLParser, url: str) -> Optional[Listing]:
             continue
         title = title or blob.get("name")
         if isinstance(blob.get("image"), list) and blob["image"]:
-            image = blob["image"][0]
+            image = image or blob["image"][0]
         elif isinstance(blob.get("image"), str):
-            image = blob["image"]
+            image = image or blob["image"]
 
         offers = blob.get("offers")
-        candidates = []
-        if isinstance(offers, list):
-            candidates = offers
-        elif isinstance(offers, dict):
+        if isinstance(offers, dict):
             if offers.get("@type") == "AggregateOffer":
-                # Use the low price as a fallback baseline; refine below if size 8 found
-                price = parse_price(str(offers.get("lowPrice")))
+                price = price or parse_price(str(offers.get("lowPrice") or ""))
                 candidates = offers.get("offers") or []
             else:
                 candidates = [offers]
+        elif isinstance(offers, list):
+            candidates = offers
+        else:
+            candidates = []
 
         for off in candidates:
             if not isinstance(off, dict):
                 continue
-            label = " ".join(
-                str(v) for v in (
-                    off.get("name"),
-                    off.get("sku"),
-                    off.get("description"),
-                    (off.get("itemOffered") or {}).get("size") if isinstance(off.get("itemOffered"), dict) else None,
-                ) if v
-            )
+            label_bits = [
+                off.get("name"),
+                off.get("sku"),
+                off.get("description"),
+                off.get("size"),
+            ]
+            item = off.get("itemOffered")
+            if isinstance(item, dict):
+                label_bits.append(item.get("size"))
+                label_bits.append(item.get("name"))
+            label = " ".join(str(v) for v in label_bits if v)
             if _is_target_size(label):
-                p = parse_price(str(off.get("price")))
+                p = parse_price(str(off.get("price") or ""))
                 avail = (off.get("availability") or "").lower()
                 if p is not None:
                     price = p
-                in_stock_size_8 = "instock" in avail or "in_stock" in avail
+                in_stock_size_8 = "instock" in avail or "in_stock" in avail or avail.endswith("instock")
                 break
 
     if not title:
         h1 = tree.css_first("h1")
         if h1:
             title = h1.text(strip=True)
+    if not title:
+        og = tree.css_first('meta[property="og:title"]')
+        if og:
+            title = og.attributes.get("content")
+
+    if not image:
+        og_img = tree.css_first('meta[property="og:image"]')
+        if og_img:
+            image = og_img.attributes.get("content")
 
     if not title:
         return None
@@ -157,26 +137,30 @@ class Scraper(BaseScraper):
     name = "on_au"
     category = "sneakers"
 
-    def scrape(self, client: httpx.Client, config: dict) -> Iterator[Listing]:
-        max_products = int(config.get("retailers", {}).get(self.name, {}).get("max_products", 60))
-        seen: set[str] = set()
-        product_urls: list[str] = []
-        for plp in PLP_URLS:
-            try:
-                r = self.fetch(client, plp)
-            except httpx.HTTPError as exc:
-                print(f"[on_au] PLP fetch failed {plp}: {exc}")
+    def _discover(self, client: httpx.Client) -> list[str]:
+        r = self.fetch(client, SITEMAP_URL)
+        urls: dict[str, str] = {}
+        for m in re.finditer(r"<loc>([^<]+)</loc>", r.text):
+            url = m.group(1)
+            match = SHOE_URL_RE.match(url)
+            if not match:
                 continue
-            tree = self.parse_html(r)
-            for link in _product_links_from_plp(tree, plp):
-                if link not in seen:
-                    seen.add(link)
-                    product_urls.append(link)
+            slug = match.group(1)
+            urls.setdefault(slug, url)
+        return list(urls.values())
 
-        if not product_urls:
-            print("[on_au] no product URLs discovered from PLPs — selectors may have shifted")
+    def scrape(self, client: httpx.Client, config: dict) -> Iterator[Listing]:
+        max_products = int(
+            config.get("retailers", {}).get(self.name, {}).get("max_products", 60)
+        )
+        try:
+            product_urls = self._discover(client)
+        except httpx.HTTPError as exc:
+            print(f"[on_au] sitemap fetch failed: {exc}")
             return
+        print(f"[on_au] sitemap discovered {len(product_urls)} unique mens shoe models")
 
+        seen_keys: set[str] = set()
         for url in product_urls[:max_products]:
             try:
                 r = self.fetch(client, url)
@@ -187,4 +171,8 @@ class Scraper(BaseScraper):
             listing = _parse_pdp(tree, url)
             if listing is None:
                 continue
+            # Dedupe across colorway URLs that happened to share a model slug
+            if listing.product_key in seen_keys:
+                continue
+            seen_keys.add(listing.product_key)
             yield listing

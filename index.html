@@ -22,6 +22,13 @@
       </div>
     </div>
 
+    <div class="stats" id="stats" hidden>
+      <span class="stat"><b id="stat-products">0</b> products</span>
+      <span class="stat"><b id="stat-retailers">0</b> retailers</span>
+      <span class="stat"><b id="stat-instock">0</b> in stock</span>
+      <span class="stat stat--cheapest"><b id="stat-cheapest">—</b></span>
+    </div>
+
     <div class="controls">
       <div class="filters" role="tablist" aria-label="Filter by category">
         <button class="chip is-active" data-filter="all" role="tab" aria-selected="true">All</button>
@@ -29,26 +36,39 @@
         <button class="chip" data-filter="ps5" role="tab" aria-selected="false">PS5</button>
         <button class="chip" data-filter="xbox" role="tab" aria-selected="false">Xbox</button>
       </div>
-      <label class="search">
-        <span class="visually-hidden">Search products</span>
-        <input id="search" type="search" placeholder="Search products…" autocomplete="off">
-      </label>
+      <div class="controls__right">
+        <label class="select">
+          <span class="visually-hidden">Sort</span>
+          <select id="sort">
+            <option value="cheapest">Sort: cheapest first</option>
+            <option value="expensive">Sort: most expensive</option>
+            <option value="az">Sort: A–Z</option>
+            <option value="recent">Sort: recently updated</option>
+          </select>
+        </label>
+        <label class="search">
+          <span class="visually-hidden">Search products</span>
+          <input id="search" type="search" placeholder="Search…" autocomplete="off">
+        </label>
+        <button id="compare-toggle" class="chip chip--ghost" aria-pressed="false">Compare</button>
+      </div>
     </div>
   </header>
 
   <main>
     <div id="app" class="grid" aria-live="polite"></div>
-    <p id="empty" class="empty" hidden>
-      No matching products.
-    </p>
+    <p id="empty" class="empty" hidden>No matching products.</p>
   </main>
 
   <template id="card-template">
-    <article class="card">
-      <a class="card__imgwrap" target="_blank" rel="noopener">
+    <article class="card" tabindex="0" role="button" aria-label="View product details">
+      <div class="card__select">
+        <input type="checkbox" class="card__check" aria-label="Select for comparison">
+      </div>
+      <div class="card__imgwrap">
         <img class="card__img" loading="lazy" decoding="async" alt="">
         <span class="card__cat"></span>
-      </a>
+      </div>
       <div class="card__body">
         <h3 class="card__title"></h3>
         <p class="card__meta"></p>
@@ -56,6 +76,20 @@
       </div>
     </article>
   </template>
+
+  <div id="compare-bar" class="compare-bar" hidden>
+    <span><b id="compare-count">0</b> selected</span>
+    <button id="compare-go" class="btn btn--primary" disabled>Compare</button>
+    <button id="compare-clear" class="btn">Clear</button>
+  </div>
+
+  <div id="modal" class="modal" hidden role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal__backdrop" data-close></div>
+    <div class="modal__panel" role="document">
+      <button class="modal__close" data-close aria-label="Close">×</button>
+      <div id="modal-body"></div>
+    </div>
+  </div>
 
   <footer class="footer">
     <p>Auto-updated every Monday by GitHub Actions. Prices are observed values; check the retailer page before buying.</p>
