@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "retailer": "jb_hifi",
+    "category": "xbox",
+    "product_key": "xbox/series-x",
+    "title": "Xbox Series X 1TB Console",
+    "url": "https://www.jbhifi.com.au/products/xbox-series-x-console",
+    "price_aud": 849.0,
+    "in_stock": true,
+    "size": null,
+    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/487923-Product-0-I-637369904292431894_8ae922d5-f523-4ef9-bf69-ec2baffbb1e5.jpg?v=1761256266",
+    "image_path": "images/da82ef21d40d30cd.jpg",
+    "observed_at": "2026-05-12T12:08:01Z"
+  }
+]
