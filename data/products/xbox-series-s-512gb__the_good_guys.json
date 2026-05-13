@@ -1,0 +1,16 @@
+{
+  "category": "xbox",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-13T09:11:15Z",
+      "price_aud": 444.0,
+      "url": "https://www.thegoodguys.com.au/xbox-series-s-512gb-rrs-00021"
+    }
+  ],
+  "image_path": "images/6bbbb261db8c98f2.png",
+  "product_key": "xbox/series-s-512gb",
+  "retailer": "the_good_guys",
+  "title": "Xbox Series S 512GB",
+  "url": "https://www.thegoodguys.com.au/xbox-series-s-512gb-rrs-00021"
+}

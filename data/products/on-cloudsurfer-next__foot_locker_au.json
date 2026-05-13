@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-13T09:11:09Z",
+      "price_aud": 149.95,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudsurfer-next-men-shoes/244207415704.html"
+    }
+  ],
+  "image_path": "images/e592acde03d4fba7.jpg",
+  "product_key": "on/cloudsurfer-next",
+  "retailer": "foot_locker_au",
+  "size": "US M8",
+  "title": "Cloudsurfer Next",
+  "url": "https://www.footlocker.com.au/en/product/on-cloudsurfer-next-men-shoes/244207415704.html"
+}
