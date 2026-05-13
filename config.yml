@@ -22,7 +22,8 @@ retailers:
     enabled: false  # stub
 
   foot_locker_au:
-    enabled: false  # stub
+    enabled: true
+    max_products: 40  # cap PDP fetches; FL stocks ~20-30 mens On models
 
   jd_sports_au:
     enabled: false  # stub
@@ -65,4 +66,11 @@ retailers:
     enabled: false  # stub
 
   the_good_guys:
-    enabled: false  # stub
+    enabled: true
+    urls:
+      ps5/slim-disc: "https://www.thegoodguys.com.au/playstation-5-console-slim-166601"
+      ps5/slim-digital: "https://www.thegoodguys.com.au/playstation-5-console-digital-edition-slim-171826"
+      xbox/series-x: "https://www.thegoodguys.com.au/xbox-series-x-1tb-rrt-00021"
+      xbox/series-s-512gb: "https://www.thegoodguys.com.au/xbox-series-s-512gb-rrs-00021"
+      xbox/series-s-1tb: "https://www.thegoodguys.com.au/xbox-series-s-1tb-robot-white-ep2-00660"
+      xbox/series-x-digital-1tb: "https://www.thegoodguys.com.au/xbox-series-x-1tb-digital-edition-ep2-00718xboxsx1tbde"

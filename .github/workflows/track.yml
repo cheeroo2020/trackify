@@ -2,8 +2,8 @@ name: track
 
 on:
   schedule:
-    # Mondays 22:00 UTC ≈ 09:00 Sydney (AEDT) / 08:00 Sydney (AEST).
-    - cron: "0 22 * * 0"
+    # Daily at 22:00 UTC ≈ 09:00 Sydney (AEDT) / 08:00 Sydney (AEST).
+    - cron: "0 22 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -45,6 +45,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "weekly: price snapshot $(date -u +%Y-%m-%d)"
+            git commit -m "daily: price snapshot $(date -u +%Y-%m-%d)"
             git push
           fi

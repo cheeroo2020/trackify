@@ -76,13 +76,15 @@ def write_latest_snapshot(listings: Iterable[Listing]) -> None:
 
 
 def previous_low(product_key: str, retailer: str) -> Optional[float]:
+    """Return the lowest price ever seen for this (product, retailer).
+
+    Called BEFORE save_observation, so the on-disk history does not yet
+    contain the observation we're about to write — every stored point is
+    'prior' and counts.
+    """
     record = load_history(product_key, retailer)
     prices = [p["price_aud"] for p in record.get("history", []) if p.get("price_aud") is not None]
-    if not prices:
-        return None
-    # Exclude the last entry — that's the observation we're currently comparing against.
-    prior = prices[:-1]
-    return min(prior) if prior else None
+    return min(prices) if prices else None
 
 
 def cache_image(image_url: str, client: Optional[httpx.Client] = None) -> Optional[str]:
