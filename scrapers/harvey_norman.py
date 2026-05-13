@@ -1,12 +1,12 @@
-"""Harvey Norman — harveynorman.com.au — STUB
+"""Harvey Norman — harveynorman.com.au — BLOCKED, kept as stub.
 
-Notes:
-- Consoles: /computers-tablets/gaming/consoles
-- PDPs have JSON-LD Product blocks; price often only visible after a JS
-  render. Try the JSON-LD first; if absent, look for a `dataLayer.push`
-  containing `productPrice`.
+Returns HTTP 403 on every request from this machine and from GitHub
+Actions runners, including sitemap.xml — even with a full set of browser
+headers and an AU geo cookie. They have a strict WAF.
+
+Needs residential proxy. Skipping.
 """
 from __future__ import annotations
 from scrapers.base import stub_scraper
 
-Scraper = stub_scraper("harvey_norman", note="consoles — JSON-LD + dataLayer fallback")
+Scraper = stub_scraper("harvey_norman", note="WAF blocks all requests; needs proxy")

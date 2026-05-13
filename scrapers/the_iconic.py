@@ -1,14 +1,15 @@
-"""The Iconic AU — theiconic.com.au — STUB
+"""The Iconic — theiconic.com.au — BLOCKED, kept as stub.
 
-Implementation notes when you fill this in:
-- Search for ON Running brand on theiconic.com.au/?q=on+running+mens
-- The Iconic uses Next.js with embedded __NEXT_DATA__ JSON — read that script
-  instead of HTML selectors. It contains structured product data including
-  size variants and prices.
-- Filter to size "US 8" / "8 US" in mens.
-- product_key should be `on/<slugified-model-name>` so it groups with on_au.
+Static HTML is empty: their brand/category pages render client-side with
+no SSR. No __NEXT_DATA__, no JSON-LD product blocks, no microdata. The
+HTML body is JS bundle + framework shell only.
+
+A working scraper here would require headless browser automation (Playwright
+or similar) running outside GitHub Actions, or a paid scraping API. Not
+worth the operational overhead vs. what it would add (mostly the same ON
+models already covered by on_au and foot_locker_au).
 """
 from __future__ import annotations
 from scrapers.base import stub_scraper
 
-Scraper = stub_scraper("the_iconic", note="ON sneakers — read __NEXT_DATA__")
+Scraper = stub_scraper("the_iconic", note="JS-rendered SPA — needs headless browser")

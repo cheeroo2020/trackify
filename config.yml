@@ -35,7 +35,8 @@ retailers:
     enabled: false  # stub
 
   rebel:
-    enabled: false  # stub
+    enabled: true
+    max_products: 30  # only a handful are server-rendered on /brands/on
 
   # ---------- consoles ----------
   eb_games:
