@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-14T22:47:24Z",
+      "price_aud": 935.0,
+      "url": "https://www.on.com/en-au/products/cloudtilt-hi-loewe-m-3mg1083/mens/black-oatmeal-olive-shoes-3MG10835483"
+    }
+  ],
+  "image_path": "images/21873a02e14982e0.png",
+  "product_key": "on/cloudtilt-hi-loewe",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudtilt Hi LOEWE",
+  "url": "https://www.on.com/en-au/products/cloudtilt-hi-loewe-m-3mg1083/mens/black-oatmeal-olive-shoes-3MG10835483"
+}

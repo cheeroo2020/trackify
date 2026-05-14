@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-14T22:47:12Z",
+      "price_aud": 990.0,
+      "url": "https://www.on.com/en-au/products/cloudsolo-m-3mf3066/mens/black-eggshell-shoes-3MF30665476"
+    }
+  ],
+  "image_path": "images/8b847a6072c8c5c5.png",
+  "product_key": "on/cloudsolo-loewe",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsolo LOEWE",
+  "url": "https://www.on.com/en-au/products/cloudsolo-m-3mf3066/mens/black-eggshell-shoes-3MF30665476"
+}
