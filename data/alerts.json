@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "product_key": "on/cloudsurfer-next",
+    "retailer": "foot_locker_au",
+    "title": "Cloudsurfer Next",
+    "url": "https://www.footlocker.com.au/en/product/on-cloudsurfer-next-men-shoes/244207415704.html",
+    "new_price": 119.95,
+    "previous_low": 149.95,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  },
+  {
+    "product_key": "on/cloudmonster",
+    "retailer": "foot_locker_au",
+    "title": "Cloudmonster",
+    "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-men-shoes/244206507204.html",
+    "new_price": 129.95,
+    "previous_low": 149.95,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]
