@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-27T23:08:01Z",
+      "price_aud": 260.0,
+      "url": "https://www.on.com/en-au/products/the-roger-adv-pro-3mf1027/mens/glacier-white-shoes-3MF10270070"
+    }
+  ],
+  "image_path": "images/0b26ae7b25acb905.png",
+  "product_key": "on/the-roger-advantage-pro",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Advantage Pro",
+  "url": "https://www.on.com/en-au/products/the-roger-adv-pro-3mf1027/mens/glacier-white-shoes-3MF10270070"
+}
