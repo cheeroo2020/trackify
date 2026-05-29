@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-05-29T23:01:36Z",
+      "price_aud": 290.0,
+      "url": "https://www.on.com/en-au/products/the-roger-centre-court-m-3mg1048/mens/ivory-maroon-shoes-3MG10484758"
+    }
+  ],
+  "image_path": "images/a6fc53916f8d833d.png",
+  "product_key": "on/the-roger-centre-court",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Centre Court",
+  "url": "https://www.on.com/en-au/products/the-roger-centre-court-m-3mg1048/mens/ivory-maroon-shoes-3MG10484758"
+}
