@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-06-07T22:53:33Z",
+      "price_aud": 329.99,
+      "url": "https://www.rebelsport.com.au/p/on-cloudboom-max-mens-running-shoes-M71194401.html"
+    }
+  ],
+  "image_path": "images/43635bd0d5bb72a6.jpg",
+  "product_key": "on/cloudboom-max",
+  "retailer": "rebel",
+  "size": "US M8",
+  "title": "Cloudboom Max",
+  "url": "https://www.rebelsport.com.au/p/on-cloudboom-max-mens-running-shoes-M71194401.html"
+}
