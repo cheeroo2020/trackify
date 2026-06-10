@@ -6,12 +6,18 @@
       "observed_at": "2026-06-09T23:07:48Z",
       "price_aud": 175.0,
       "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/shadow-apollo-shoes-3ME30043558"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-06-10T23:18:03Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/black-eclipse-shoes-3ME30040106"
     }
   ],
-  "image_path": "images/eaef86c116d8de3e.png",
+  "image_path": "images/1d39b9aade23aa2e.png",
   "product_key": "on/cloud-x-4",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud X 4",
-  "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/shadow-apollo-shoes-3ME30043558"
+  "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/black-eclipse-shoes-3ME30040106"
 }
