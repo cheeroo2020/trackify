@@ -6,6 +6,12 @@
       "observed_at": "2026-05-27T23:08:04Z",
       "price_aud": 270.0,
       "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207382904.html"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-06-11T23:14:16Z",
+      "price_aud": 209.95,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207308404.html"
     }
   ],
   "image_path": "images/62f3aa3ae03424a5.jpg",
@@ -13,5 +19,5 @@
   "retailer": "foot_locker_au",
   "size": "US M8",
   "title": "Cloudmonster Void",
-  "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207382904.html"
+  "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207308404.html"
 }
