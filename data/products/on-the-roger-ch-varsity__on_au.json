@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-06-23T22:58:49Z",
+      "price_aud": 240.0,
+      "url": "https://www.on.com/en-au/products/the-roger-ch-varsity-m-3mg1087/mens/white-indigo-shoes-3MG10870629"
+    }
+  ],
+  "image_path": "images/2c9c1884a8a3bc82.png",
+  "product_key": "on/the-roger-ch-varsity",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER CH Varsity",
+  "url": "https://www.on.com/en-au/products/the-roger-ch-varsity-m-3mg1087/mens/white-indigo-shoes-3MG10870629"
+}

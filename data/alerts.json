@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "product_key": "on/cloudsurfer-2",
+    "retailer": "on_au",
+    "title": "Cloudsurfer 2",
+    "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/glacier-ivory-shoes-3MF10123205",
+    "new_price": 130.0,
+    "previous_low": 155.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]
