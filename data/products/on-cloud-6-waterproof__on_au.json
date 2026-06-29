@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-06-29T22:44:59Z",
+      "price_aud": 215.0,
+      "url": "https://www.on.com/en-au/products/cloud-6-wp-3mf1006/mens/alloy-wolf-shoes-3MF10063030"
+    }
+  ],
+  "image_path": "images/250514af53bbd9ad.png",
+  "product_key": "on/cloud-6-waterproof",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud 6 Waterproof",
+  "url": "https://www.on.com/en-au/products/cloud-6-wp-3mf1006/mens/alloy-wolf-shoes-3MF10063030"
+}
