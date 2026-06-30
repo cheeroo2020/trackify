@@ -6,12 +6,18 @@
       "observed_at": "2026-06-29T22:45:42Z",
       "price_aud": 250.0,
       "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/white-ore-shoes-3MF30644736"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-06-30T23:01:55Z",
+      "price_aud": 200.0,
+      "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/wolf-glacier-shoes-3MF30642931"
     }
   ],
-  "image_path": "images/1004eb7086502b28.png",
+  "image_path": "images/a9de1fe6fdb95220.png",
   "product_key": "on/the-roger-advantage",
   "retailer": "on_au",
   "size": "US M8",
   "title": "THE ROGER Advantage",
-  "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/white-ore-shoes-3MF30644736"
+  "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/wolf-glacier-shoes-3MF30642931"
 }
