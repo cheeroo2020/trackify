@@ -1,111 +1,11 @@
 [
   {
-    "product_key": "on/cloudboom-strike",
+    "product_key": "on/cloud-6-coast",
     "retailer": "on_au",
-    "title": "Cloudboom Strike",
-    "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/limelight-wolf-shoes-3ME30483331",
-    "new_price": 300.0,
-    "previous_low": 380.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudflow-5",
-    "retailer": "on_au",
-    "title": "Cloudflow 5",
-    "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/white-lime-shoes-3MF10112929",
-    "new_price": 165.0,
-    "previous_low": 280.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudultra-3",
-    "retailer": "on_au",
-    "title": "Cloudultra 3",
-    "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/cinder-pearl-shoes-3MF30233626",
-    "new_price": 200.0,
-    "previous_low": 290.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudzone-moon",
-    "retailer": "on_au",
-    "title": "Cloudzone Moon",
-    "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714",
-    "new_price": 240.0,
-    "previous_low": 300.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/the-roger-advantage",
-    "retailer": "on_au",
-    "title": "THE ROGER Advantage",
-    "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/wolf-glacier-shoes-3MF30642931",
+    "title": "Cloud 6 Coast",
+    "url": "https://www.on.com/en-au/products/cloud-6-coast-3mf1003/mens/black-white-shoes-3MF10030299",
     "new_price": 200.0,
     "previous_low": 250.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloud-6-shf",
-    "retailer": "on_au",
-    "title": "Cloud 6 SHF",
-    "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/aster-begonia-shoes-3MF31105555",
-    "new_price": 220.0,
-    "previous_low": 280.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloud-x-fka",
-    "retailer": "on_au",
-    "title": "Cloud X FKA",
-    "url": "https://www.on.com/en-au/products/cloud-x-fka-m-3mf1091/mens/black-shoes-3MF10910553",
-    "new_price": 195.0,
-    "previous_low": 220.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudmonster-hyper-pleasures-x-the-loop",
-    "retailer": "on_au",
-    "title": "Cloudmonster Hyper PLEASURES x The Loop",
-    "url": "https://www.on.com/en-au/products/cloudmonster-hyper-pls-tl-m-3mf1051/mens/espresso-elk-shoes-3MF10513328",
-    "new_price": 255.0,
-    "previous_low": 320.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudpulse-next",
-    "retailer": "on_au",
-    "title": "Cloudpulse Next",
-    "url": "https://www.on.com/en-au/products/cloudpulse-next-m-3mf3060/mens/alloy-malibu-shoes-3MF30604326",
-    "new_price": 175.0,
-    "previous_low": 220.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudpulse-pro",
-    "retailer": "on_au",
-    "title": "Cloudpulse Pro",
-    "url": "https://www.on.com/en-au/products/cloudpulse-pro-m-3mf3032/mens/black-rock-shoes-3MF30320080",
-    "new_price": 215.0,
-    "previous_low": 270.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudrunner-2-waterproof",
-    "retailer": "on_au",
-    "title": "Cloudrunner 2 Waterproof",
-    "url": "https://www.on.com/en-au/products/cloudrunner-2-waterproof-m-3me1015/mens/magnet-black-shoes-3ME10152130",
-    "new_price": 215.0,
-    "previous_low": 270.0,
     "reason": "new-all-time-low",
     "drop_pct": null
   }
