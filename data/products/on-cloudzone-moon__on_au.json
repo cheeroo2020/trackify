@@ -12,12 +12,18 @@
       "observed_at": "2026-07-06T22:54:52Z",
       "price_aud": 240.0,
       "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-07T22:50:16Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/ivory-putty-shoes-3MF30845510"
     }
   ],
-  "image_path": "images/431264a47002abb8.png",
+  "image_path": "images/1e1e4e43dc7a14b5.png",
   "product_key": "on/cloudzone-moon",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudzone Moon",
-  "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714"
+  "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/ivory-putty-shoes-3MF30845510"
 }
