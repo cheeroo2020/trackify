@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-10T22:49:11Z",
+      "price_aud": 205.0,
+      "url": "https://www.on.com/en-au/products/the-roger-clubhouse-pro-m-3md3003/mens/white-ice-shoes-3MD30030202"
+    }
+  ],
+  "image_path": "images/9caa2399a0826d17.png",
+  "product_key": "on/the-roger-clubhouse-pro",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Clubhouse Pro",
+  "url": "https://www.on.com/en-au/products/the-roger-clubhouse-pro-m-3md3003/mens/white-ice-shoes-3MD30030202"
+}

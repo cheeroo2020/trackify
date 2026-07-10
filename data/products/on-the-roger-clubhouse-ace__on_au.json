@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-10T22:49:09Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/the-roger-clubhouse-ace-m-3mf3081/mens/sand-sand-shoes-3MF30814653"
+    }
+  ],
+  "image_path": "images/03765715fa9f8dca.png",
+  "product_key": "on/the-roger-clubhouse-ace",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Clubhouse Ace",
+  "url": "https://www.on.com/en-au/products/the-roger-clubhouse-ace-m-3mf3081/mens/sand-sand-shoes-3MF30814653"
+}
