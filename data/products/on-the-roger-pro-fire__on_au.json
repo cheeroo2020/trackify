@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-12T22:36:49Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/the-roger-pro-fire-m-3mf3010/mens/linen-lime-shoes-3MF30104744"
+    }
+  ],
+  "image_path": "images/773e5c7452ff20ea.png",
+  "product_key": "on/the-roger-pro-fire",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Pro Fire",
+  "url": "https://www.on.com/en-au/products/the-roger-pro-fire-m-3mf3010/mens/linen-lime-shoes-3MF30104744"
+}
