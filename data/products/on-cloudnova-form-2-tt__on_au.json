@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-13T22:44:03Z",
+      "price_aud": 175.0,
+      "url": "https://www.on.com/en-au/products/cloudnova-form-2-tt-3mf1073/mens/frost-white-shoes-3MF10730622"
+    }
+  ],
+  "image_path": "images/215d3755ee1cc9b9.png",
+  "product_key": "on/cloudnova-form-2-tt",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudnova Form 2 TT",
+  "url": "https://www.on.com/en-au/products/cloudnova-form-2-tt-3mf1073/mens/frost-white-shoes-3MF10730622"
+}

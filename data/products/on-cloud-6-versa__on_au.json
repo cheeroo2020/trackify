@@ -6,12 +6,18 @@
       "observed_at": "2026-07-09T23:01:22Z",
       "price_aud": 250.0,
       "url": "https://www.on.com/en-au/products/cloud-6-versa-m-3mf1004/mens/black-eclipse-shoes-3MF10040106"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-13T22:43:17Z",
+      "price_aud": 175.0,
+      "url": "https://www.on.com/en-au/products/cloud-6-versa-m-3mf1004/mens/ice-spirulina-shoes-3MF10044119"
     }
   ],
-  "image_path": "images/35bcc2d8ec0b8d06.png",
+  "image_path": "images/0d97390c0289631e.png",
   "product_key": "on/cloud-6-versa",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud 6 Versa",
-  "url": "https://www.on.com/en-au/products/cloud-6-versa-m-3mf1004/mens/black-eclipse-shoes-3MF10040106"
+  "url": "https://www.on.com/en-au/products/cloud-6-versa-m-3mf1004/mens/ice-spirulina-shoes-3MF10044119"
 }

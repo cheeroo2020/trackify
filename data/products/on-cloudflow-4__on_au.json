@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-13T22:43:48Z",
+      "price_aud": 180.0,
+      "url": "https://www.on.com/en-au/products/cloudflow-4-3md3010/mens/glacier-chambray-shoes-3MD30101503"
+    }
+  ],
+  "image_path": "images/8dacdc0ecef7c49b.png",
+  "product_key": "on/cloudflow-4",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudflow 4",
+  "url": "https://www.on.com/en-au/products/cloudflow-4-3md3010/mens/glacier-chambray-shoes-3MD30101503"
+}

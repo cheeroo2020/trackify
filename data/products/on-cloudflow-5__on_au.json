@@ -12,12 +12,18 @@
       "observed_at": "2026-07-12T22:36:31Z",
       "price_aud": 165.0,
       "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/white-lime-shoes-3MF10112929"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-13T22:43:51Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/black-black-shoes-3MF10111043"
     }
   ],
-  "image_path": "images/24413b244aa2badf.png",
+  "image_path": "images/c58d290e7a12600c.png",
   "product_key": "on/cloudflow-5",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudflow 5",
-  "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/white-lime-shoes-3MF10112929"
+  "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/black-black-shoes-3MF10111043"
 }

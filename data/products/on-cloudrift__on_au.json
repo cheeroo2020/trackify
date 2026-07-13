@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-13T22:44:07Z",
+      "price_aud": 150.0,
+      "url": "https://www.on.com/en-au/products/cloudrift-87/mens/black-white-shoes-87.98303"
+    }
+  ],
+  "image_path": "images/d0ea3417f088e7ff.png",
+  "product_key": "on/cloudrift",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrift",
+  "url": "https://www.on.com/en-au/products/cloudrift-87/mens/black-white-shoes-87.98303"
+}

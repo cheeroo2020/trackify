@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-13T22:43:28Z",
+      "price_aud": 195.0,
+      "url": "https://www.on.com/en-au/products/cloudstratus-3-3md3011/mens/black-frost-shoes-3MD30111197"
+    }
+  ],
+  "image_path": "images/28f8cbd2f09f8b02.png",
+  "product_key": "on/cloudstratus-3",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudstratus 3",
+  "url": "https://www.on.com/en-au/products/cloudstratus-3-3md3011/mens/black-frost-shoes-3MD30111197"
+}
