@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-14T22:45:27Z",
+      "price_aud": 750.0,
+      "url": "https://www.on.com/en-au/products/cloudventure-loewe-2-m-3mf1095/mens/blue-red-white-shoes-3MF10954189"
+    }
+  ],
+  "image_path": "images/b0064ea88371ff8c.png",
+  "product_key": "on/cloudventure-loewe-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudventure LOEWE 2",
+  "url": "https://www.on.com/en-au/products/cloudventure-loewe-2-m-3mf1095/mens/blue-red-white-shoes-3MF10954189"
+}
