@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-16T22:46:56Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloud-x-tempo-m-3mg3011/mens/black-eclipse-shoes-3MG30110106"
+    }
+  ],
+  "image_path": "images/8f8cbc0d594d8c56.png",
+  "product_key": "on/cloud-x-tempo",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud X Tempo",
+  "url": "https://www.on.com/en-au/products/cloud-x-tempo-m-3mg3011/mens/black-eclipse-shoes-3MG30110106"
+}
