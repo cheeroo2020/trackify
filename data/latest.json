@@ -1,31 +1,5 @@
 [
   {
-    "retailer": "jb_hifi",
-    "category": "ps5",
-    "product_key": "ps5/pro",
-    "title": "PS5 PlayStation 5 Pro Console",
-    "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-pro-console",
-    "price_aud": 1399.0,
-    "in_stock": true,
-    "size": null,
-    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/784128-Product-0-I-638616198003053141.jpg?v=1726542858",
-    "image_path": "images/bbe02a657b0b6f3d.jpg",
-    "observed_at": "2026-07-26T22:48:07Z"
-  },
-  {
-    "retailer": "jb_hifi",
-    "category": "ps5",
-    "product_key": "ps5/slim-digital",
-    "title": "PS5 PlayStation 5 Slim Digital Console (825GB)",
-    "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-digital-console-825gb",
-    "price_aud": 919.0,
-    "in_stock": true,
-    "size": null,
-    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/835275-Product-0-I-638935041612285789_1a768387-59ef-4775-8050-87f1aecede19.jpg?v=1776629046",
-    "image_path": "images/534e83b8e3d03a15.jpg",
-    "observed_at": "2026-07-26T22:48:00Z"
-  },
-  {
     "retailer": "the_good_guys",
     "category": "ps5",
     "product_key": "ps5/slim-digital",
@@ -36,20 +10,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50096978_1042267.png?v=1776230744",
     "image_path": "images/4df76ebd4dc5acb9.png",
-    "observed_at": "2026-07-26T22:48:17Z"
-  },
-  {
-    "retailer": "jb_hifi",
-    "category": "ps5",
-    "product_key": "ps5/slim-disc",
-    "title": "PS5 PlayStation 5 Slim Console",
-    "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-console",
-    "price_aud": 999.0,
-    "in_stock": true,
-    "size": null,
-    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/835274-Product-0-I-638935031404418180.jpg?v=1783576326",
-    "image_path": "images/09f0f5e42ebb99cb.jpg",
-    "observed_at": "2026-07-26T22:48:00Z"
+    "observed_at": "2026-07-27T22:50:11Z"
   },
   {
     "retailer": "the_good_guys",
@@ -62,7 +23,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50088345_1042326.png?v=1776227396",
     "image_path": "images/819f0414ac0957e8.png",
-    "observed_at": "2026-07-26T22:48:16Z"
+    "observed_at": "2026-07-27T22:50:10Z"
   },
   {
     "retailer": "on_au",
@@ -73,9 +34,9 @@
     "price_aud": 250.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5QLyrw4qR2i7gAhRrlnjhU/dbeaeeec4b48fcb211b0456fd0abd90a/e02e03f2c8bc79c19c4799cc2b4b7f9479a0f1da.png",
-    "image_path": "images/7bd152b51816f60b.png",
-    "observed_at": "2026-07-26T22:46:59Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2pHLf8aCLrQxrGCjJk26bG/55c4b7f6e1d9c8d9c3fc265c6ce1a173/5e1e876ff3833fccd30a05e41c41ce1acadab687.png",
+    "image_path": "images/18d34e3e09e15df0.png",
+    "observed_at": "2026-07-27T22:48:43Z"
   },
   {
     "retailer": "on_au",
@@ -88,7 +49,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/60PCoK9BOQTzaN2D2hbaV6/b6dc9d4d581198bb5f4776f9243eb122/ea4c2d8aebf092518edb997be8deda656006cf72.png",
     "image_path": "images/70f4da31922974ad.png",
-    "observed_at": "2026-07-26T22:46:24Z"
+    "observed_at": "2026-07-27T22:48:14Z"
   },
   {
     "retailer": "on_au",
@@ -101,7 +62,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2wHDWmzb84XYtW1B4duxXn/1a51341550da535b572cb57cbb9ae4e8/c6af59ac0ea1b08332b0d4ec4c3d5d386bc4c7a3.png",
     "image_path": "images/04957aa1a63a0cf8.png",
-    "observed_at": "2026-07-26T22:46:57Z"
+    "observed_at": "2026-07-27T22:48:41Z"
   },
   {
     "retailer": "on_au",
@@ -114,7 +75,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/70bzxUvIjFNKJnNMuX8mQ6/d37f77f97e454220b75fbceb2afae094/4a2c73f6e070b2bfe9a6fec7f7ad4e7bc84ff689.png",
     "image_path": "images/834ccdc9690eadfc.png",
-    "observed_at": "2026-07-26T22:46:25Z"
+    "observed_at": "2026-07-27T22:48:15Z"
   },
   {
     "retailer": "on_au",
@@ -127,7 +88,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1rvLOJfKfuqM5x2g6TBpWv/827ff47590ad91cd42d1dfe31781cb96/4684e4dd79f1d1dcd9c5d3483a4cd30667a0f11e.png",
     "image_path": "images/8335eff52bf4a180.png",
-    "observed_at": "2026-07-26T22:46:59Z"
+    "observed_at": "2026-07-27T22:48:44Z"
   },
   {
     "retailer": "on_au",
@@ -140,7 +101,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5KpsH7E9gMS9qatlamAhUa/9ba840437ea05b4cdd02e995424fec6a/971e59887f55a0cc914e1d3a9b63db693a6cec1f.png",
     "image_path": "images/0d97390c0289631e.png",
-    "observed_at": "2026-07-26T22:46:26Z"
+    "observed_at": "2026-07-27T22:48:16Z"
   },
   {
     "retailer": "on_au",
@@ -153,7 +114,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6uTKvLikkwyjtR8f0bztV6/98ebdc7e91091c17d603be961b46aa2a/3e8ef80a502ebf9ec4dc7e003a563cd9405f7497.png",
     "image_path": "images/250514af53bbd9ad.png",
-    "observed_at": "2026-07-26T22:47:01Z"
+    "observed_at": "2026-07-27T22:48:44Z"
   },
   {
     "retailer": "on_au",
@@ -166,7 +127,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3HhzSafeXaVlUbHRRyTywh/831c6a97b1638980928606d44eb9ae7b/a6afdbcb2b10c460766802cd46a438fa5b447f2d.png",
     "image_path": "images/09b699f9470af66f.png",
-    "observed_at": "2026-07-26T22:46:24Z"
+    "observed_at": "2026-07-27T22:48:14Z"
   },
   {
     "retailer": "on_au",
@@ -179,7 +140,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4cjpGQqGROz1aLILZWBIOG/8ab5ff7b4e4022026a94c72cc2c94f91/c535abb21da30b613540fda5a35c2ee5069aeebf.png",
     "image_path": "images/4c70eb8e516ce008.png",
-    "observed_at": "2026-07-26T22:46:28Z"
+    "observed_at": "2026-07-27T22:48:17Z"
   },
   {
     "retailer": "on_au",
@@ -192,7 +153,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7I7fyLGAZkWRkbVOsHWATl/b4e7a47a281d58ec2bba3da2b890d191/13b934ceb921be5626b69a5307785bd0cab9dca2.png",
     "image_path": "images/15cd6fc5814f3df9.png",
-    "observed_at": "2026-07-26T22:47:02Z"
+    "observed_at": "2026-07-27T22:48:45Z"
   },
   {
     "retailer": "on_au",
@@ -205,7 +166,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/s7wP4K0Z2xsOR1ZJNhtGN/3c3974bcacb149a243385bd7a30b0ca3/4b2407b831ba51f43b65b3d129e0ed7cd661ffbd.png",
     "image_path": "images/9ef1aba4af83aec8.png",
-    "observed_at": "2026-07-26T22:47:05Z"
+    "observed_at": "2026-07-27T22:48:46Z"
   },
   {
     "retailer": "on_au",
@@ -218,7 +179,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5RelNmwhZ0tok7Y2lxPbpJ/44a2177a45f0b52deb2e7e94e33388ed/a00aa6f21755e5d1ba45496767481a6b30b8d16f.png",
     "image_path": "images/57a7a1ba327b381d.png",
-    "observed_at": "2026-07-26T22:47:06Z"
+    "observed_at": "2026-07-27T22:48:47Z"
   },
   {
     "retailer": "on_au",
@@ -231,7 +192,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/22N0fSU2uvnWThqGh4KWyp/c7c96e57657e69b8130fd58ab827c3c2/0f71f8f406288523ac82d05dfeacdddb1934be2b.png",
     "image_path": "images/8f8cbc0d594d8c56.png",
-    "observed_at": "2026-07-26T22:47:07Z"
+    "observed_at": "2026-07-27T22:48:48Z"
   },
   {
     "retailer": "on_au",
@@ -244,7 +205,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3Iw6jM2GIYr4kPUIGm5YO6/913cd060911257fbb6d04d85da094f3c/5d0230e36d8e63907cb365293976f1d47b575e79.png",
     "image_path": "images/661ed975ddd63e0c.png",
-    "observed_at": "2026-07-26T22:47:08Z"
+    "observed_at": "2026-07-27T22:48:49Z"
   },
   {
     "retailer": "on_au",
@@ -257,7 +218,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3TXLkmqgqIyAv2oYzBdqfx/e44823f359af7247f08194fa66468da0/4b125952f8a0866dbf4bce91d044b5388d723d41.png",
     "image_path": "images/4d4b1f63893d2cee.png",
-    "observed_at": "2026-07-26T22:47:09Z"
+    "observed_at": "2026-07-27T22:48:50Z"
   },
   {
     "retailer": "on_au",
@@ -270,7 +231,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6Obk6PYzb9CJ7PYvgwmunk/8bb0c7840751b5e6dd600193f25afad4/3229dcde29af60fd69e4413b98d83e046147ca46.png",
     "image_path": "images/dca4bdc9d888b279.png",
-    "observed_at": "2026-07-26T22:46:29Z"
+    "observed_at": "2026-07-27T22:48:18Z"
   },
   {
     "retailer": "on_au",
@@ -283,7 +244,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3bs7NJUhYeD7vdDApOjhgW/bc7d092f2fe8fe75f4fb63eadc831109/51bbb2e079ffc43426a526a6ff0b6258fe5bdaff.png",
     "image_path": "images/a9cf407ff5524032.png",
-    "observed_at": "2026-07-26T22:47:10Z"
+    "observed_at": "2026-07-27T22:48:50Z"
   },
   {
     "retailer": "on_au",
@@ -296,7 +257,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/58GzhLFlBAgVExCs884Z1A/57e93b527d3d484b7d587b5d6536ffeb/54a781b840a626fe6e8550ffac752c3f8264d290.png",
     "image_path": "images/eff96ec4f788150b.png",
-    "observed_at": "2026-07-26T22:47:12Z"
+    "observed_at": "2026-07-27T22:48:51Z"
   },
   {
     "retailer": "on_au",
@@ -309,7 +270,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7K4T06N5JZcbzcBo7aL0Tu/290e3354946b8e33250aa16054929cc5/33fc36baa557929b525e248afa44846e2f88f37f.png",
     "image_path": "images/a9239c289b581de4.png",
-    "observed_at": "2026-07-26T22:47:13Z"
+    "observed_at": "2026-07-27T22:48:52Z"
   },
   {
     "retailer": "on_au",
@@ -322,7 +283,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/15CJHAXapaVBRdp8WPohk3/6fd8203f4331471505ee5c7df4c4b69b/usachdbje6bgoibmyvdy.png",
     "image_path": "images/8dacdc0ecef7c49b.png",
-    "observed_at": "2026-07-26T22:47:14Z"
+    "observed_at": "2026-07-27T22:48:53Z"
   },
   {
     "retailer": "on_au",
@@ -335,7 +296,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4HFmugEmIe7M0UnVajQo6T/ef693d74317a2cb196d074960a2e8c9b/959750e8c681f6c589771a830a63d0faeb6d454b.png",
     "image_path": "images/c58d290e7a12600c.png",
-    "observed_at": "2026-07-26T22:47:17Z"
+    "observed_at": "2026-07-27T22:48:56Z"
   },
   {
     "retailer": "on_au",
@@ -348,7 +309,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1U7sp0qFOz1rZl9reHImv/88271a3e2304666a5a10c7b372624018/82c7ce2730390e25208dce621dff4eee60547650.png",
     "image_path": "images/327ccdda54894667.png",
-    "observed_at": "2026-07-26T22:47:15Z"
+    "observed_at": "2026-07-27T22:48:54Z"
   },
   {
     "retailer": "on_au",
@@ -361,7 +322,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/21XLLUf8gZLD394lqd2bBr/b99ee9ed108215ea4b3e32599dcdb684/3dac9bdb42bacd74041a100a0768d9d269098ad9.png",
     "image_path": "images/e6b4af6d4ed7367e.png",
-    "observed_at": "2026-07-26T22:47:16Z"
+    "observed_at": "2026-07-27T22:48:55Z"
   },
   {
     "retailer": "on_au",
@@ -374,7 +335,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3uhyj0KuE5v9r4HD4KeZqC/e413230a8b4bd8dea2098847eb496071/a21eca07428379b52173b14ed116b9f3d6ec6534.png",
     "image_path": "images/9b542e77631f9c2a.png",
-    "observed_at": "2026-07-26T22:46:30Z"
+    "observed_at": "2026-07-27T22:48:20Z"
   },
   {
     "retailer": "on_au",
@@ -387,7 +348,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6cA8eB6XMAjkFVGpfx8jHe/41b44c4634878948e8d0acd93ef6271c/33f7c1f2d7f95d4c8c5100b15aec3d9109666e8e.png",
     "image_path": "images/ba006adef420e227.png",
-    "observed_at": "2026-07-26T22:46:31Z"
+    "observed_at": "2026-07-27T22:48:21Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -400,7 +361,7 @@
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244206508004",
     "image_path": "images/8f174c4bee3c7dca.jpg",
-    "observed_at": "2026-07-26T22:47:54Z"
+    "observed_at": "2026-07-27T22:49:23Z"
   },
   {
     "retailer": "on_au",
@@ -413,7 +374,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7HvHOWJJKuIiEhs5gLbYwk/5769c3ac482d1bd6d8b2ed60961ba138/174e4eb9a1f593a4da8dfba7721f5f23a35dcc48.png",
     "image_path": "images/0573aec3e526c948.png",
-    "observed_at": "2026-07-26T22:47:23Z"
+    "observed_at": "2026-07-27T22:49:02Z"
   },
   {
     "retailer": "on_au",
@@ -424,9 +385,9 @@
     "price_aud": 280.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7u6clkqn2NIqIgNCfYnM2Y/97732b04e1968cdc5e37cf4b9415c761/64803190ae4f69dbc987afec7e824f9915b91c22.png",
-    "image_path": "images/da35ee606e5e2c0c.png",
-    "observed_at": "2026-07-26T22:47:19Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6RDhqIMgB4gzC8UO9aCtc6/45229e5b937658e805db5f266451708d/6fa0064abb9ce4479747606816a98c11ee49ff66.png",
+    "image_path": "images/d934691deb1fa28c.png",
+    "observed_at": "2026-07-27T22:48:58Z"
   },
   {
     "retailer": "on_au",
@@ -439,7 +400,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/40SdsGU75LhGBzvZeOD8wa/b7f99cdc8a3b40aa7e5400261c73f5cd/129037c9dd8655041ec01af1ccace8bf532ed728.png",
     "image_path": "images/d6a11283d3df74ff.png",
-    "observed_at": "2026-07-26T22:47:20Z"
+    "observed_at": "2026-07-27T22:48:59Z"
   },
   {
     "retailer": "on_au",
@@ -452,7 +413,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1K4KwbqfSIvvIaLr5exsDk/6540124730c9c68a3c3b7f8ce3481263/430955a53d82cb0f7aa4b0af3dba9411a40f6c10.png",
     "image_path": "images/f4403d56d53772a2.png",
-    "observed_at": "2026-07-26T22:47:21Z"
+    "observed_at": "2026-07-27T22:48:59Z"
   },
   {
     "retailer": "on_au",
@@ -463,9 +424,9 @@
     "price_aud": 290.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4XFiwVmuPXFtPKzgMuRwiK/b53fa40060ee3798f370cbc028ceca1c/253760757e4e16fcb3dc0adc61a7c73ebd72af9f.png",
-    "image_path": "images/bc07c7deee6cbcc2.png",
-    "observed_at": "2026-07-26T22:46:33Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/z97Rzi3hCPfxDJWtNXDZH/f420f44d29ad350887e14e9cf434841a/727404d4c786ebafba5731ca90c607a921525605.png",
+    "image_path": "images/57048dee43695234.png",
+    "observed_at": "2026-07-27T22:48:22Z"
   },
   {
     "retailer": "on_au",
@@ -478,20 +439,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6ezFnzl5Ljr4yu0GPRnCzl/fc6ec21c8651be48fe9361fbd85e28c8/72a434bd6a3c5b4f986b8982e508218b0336dc46.png",
     "image_path": "images/b3d7fb496030fdbe.png",
-    "observed_at": "2026-07-26T22:47:22Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudmonster-3-ln1",
-    "title": "Cloudmonster 3 LN1",
-    "url": "https://www.on.com/en-au/products/cloudmonster-3-ln1-m-3mg1090/mens/ivory-ray-shoes-3MG10905508",
-    "price_aud": 300.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/017KgtySZeyQps9JZRvY2F/db3b225a6d2081679daefb95f38ee033/0b50def7f33300627e3c2f0165c4bbf7ae5e1843.png",
-    "image_path": "images/55e9597db8d41404.png",
-    "observed_at": "2026-07-26T22:47:22Z"
+    "observed_at": "2026-07-27T22:48:59Z"
   },
   {
     "retailer": "on_au",
@@ -504,7 +452,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7rpPEfakEZI7HvzJWUc4Op/3cb47aa9201a2c908d1591b0709c0a27/4d9f977881362217f2f9f2c3b91432d1d8070eb5.png",
     "image_path": "images/85dea58e05707df8.png",
-    "observed_at": "2026-07-26T22:47:22Z"
+    "observed_at": "2026-07-27T22:49:00Z"
   },
   {
     "retailer": "on_au",
@@ -517,7 +465,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7LK79zEzGyAWUFMwxWmxkD/40bd64479f123e55e16bdd83ad4b7fcb/460eab97362b74e3b5d5357970acb017dfd04864.png",
     "image_path": "images/56ff79340b4048b6.png",
-    "observed_at": "2026-07-26T22:47:25Z"
+    "observed_at": "2026-07-27T22:49:03Z"
   },
   {
     "retailer": "on_au",
@@ -530,7 +478,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/72ziROmDlNNRVSN8mLRnWi/6ffbedaa33f0f35400268a6a755579ce/237b7acc0b6935054976ed9168c5a1effa4d5627.png",
     "image_path": "images/fbe5062ccd1bc9bb.png",
-    "observed_at": "2026-07-26T22:47:25Z"
+    "observed_at": "2026-07-27T22:49:04Z"
   },
   {
     "retailer": "on_au",
@@ -543,20 +491,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/ckMCJFJNjUdC4pvjZwAJo/e10ac3bc17c6e2a6ee04fc38ddeb66a1/5562aca259a13d71e576fda24930b24d8fc38971.png",
     "image_path": "images/b36aec0b643d7300.png",
-    "observed_at": "2026-07-26T22:47:26Z"
+    "observed_at": "2026-07-27T22:49:04Z"
   },
   {
     "retailer": "foot_locker_au",
     "category": "sneakers",
     "product_key": "on/cloudmonster-void",
     "title": "Cloudmonster Void",
-    "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207308404.html",
+    "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207378704.html",
     "price_aud": 209.95,
     "in_stock": true,
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244207419904",
     "image_path": "images/62f3aa3ae03424a5.jpg",
-    "observed_at": "2026-07-26T22:47:54Z"
+    "observed_at": "2026-07-27T22:49:23Z"
   },
   {
     "retailer": "on_au",
@@ -567,9 +515,9 @@
     "price_aud": 185.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2PHAxiASIA44iU81qB8QYF/f869961a3d354ef381c57f17bea9a4f2/4dff415afea15be4874f269b44d93975bc2efc38.png",
-    "image_path": "images/6b9398360941e5df.png",
-    "observed_at": "2026-07-26T22:46:35Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5X6EJQxWgC2TVpFDvL3Rrb/a7fb29170607f41559e4881e64c1968d/753cc4267c34c0d7909587bed577c2d12083b39b.png",
+    "image_path": "images/7493c99d285b8c72.png",
+    "observed_at": "2026-07-27T22:48:23Z"
   },
   {
     "retailer": "on_au",
@@ -582,7 +530,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/69fGF6jKPibpv6cCgIrLHz/0520e92ac303bad3993b246faae3764f/7faaa35f89c900d98d02fe75834ba9ac05273a38.png",
     "image_path": "images/3f8924c82408fce5.png",
-    "observed_at": "2026-07-26T22:47:26Z"
+    "observed_at": "2026-07-27T22:49:05Z"
   },
   {
     "retailer": "on_au",
@@ -595,7 +543,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/62MoGkI3NpAm9mYYBpyNlb/c2b98f51f359d9eb4c19b2f79c0f5362/90d51f369f6c970ecc10c649305b81d650ebe8b6.png",
     "image_path": "images/6091ed3ce0be69b9.png",
-    "observed_at": "2026-07-26T22:47:28Z"
+    "observed_at": "2026-07-27T22:49:07Z"
   },
   {
     "retailer": "on_au",
@@ -608,7 +556,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7spffSkzpS0EbMmMcqSLXX/dcdadc86e21cf61393fb46644b495f51/c9b511aafbeaab6975f58ba2b3e583f3530faae8.png",
     "image_path": "images/215d3755ee1cc9b9.png",
-    "observed_at": "2026-07-26T22:47:29Z"
+    "observed_at": "2026-07-27T22:49:07Z"
   },
   {
     "retailer": "on_au",
@@ -621,7 +569,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7eRH1bI8B2FZ0EDJlqZwWT/9a93ac45bdaf9add5294c665cb0660fe/c7d6f085927b8be2e8615181e214bbc8f927444c.png",
     "image_path": "images/315822518fd81bab.png",
-    "observed_at": "2026-07-26T22:47:31Z"
+    "observed_at": "2026-07-27T22:49:07Z"
   },
   {
     "retailer": "on_au",
@@ -634,7 +582,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4xhbkEGIKXvYOVhZcqSiG6/cd5adc62f4b59fae7ba3465b999d4146/be5545d3cb451f8b1555ae651c60ba8a75ce0a9f.png",
     "image_path": "images/5a7cf8d11a0dc1a1.png",
-    "observed_at": "2026-07-26T22:47:32Z"
+    "observed_at": "2026-07-27T22:49:07Z"
   },
   {
     "retailer": "on_au",
@@ -647,7 +595,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/xKE2w0WIM0A1Zo5Ofhioc/bad5fe56fc1da2bbcd816031fc192fb5/a9a54b1afb69a339ff666cd33a0f7eb9cb38557f.png",
     "image_path": "images/26f7417e1f4cb4c3.png",
-    "observed_at": "2026-07-26T22:47:32Z"
+    "observed_at": "2026-07-27T22:49:08Z"
   },
   {
     "retailer": "on_au",
@@ -660,7 +608,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5ELirqxnYx2WezZfxnJwHe/352aaa38d920bfc1e0354641b64866d2/e96fdf733808dc23517b638d83cc1958258232c5.png",
     "image_path": "images/71fadaf9008b92e8.png",
-    "observed_at": "2026-07-26T22:46:36Z"
+    "observed_at": "2026-07-27T22:48:24Z"
   },
   {
     "retailer": "on_au",
@@ -673,7 +621,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2zG80UzUmbDobquwzl6gaa/2d1b2e3c8e5c546915f0080e0b5ca90d/7f7cf8b2bb6606607522f4da8d44094d36f6a2d4.png",
     "image_path": "images/8638ddf4d36a3c96.png",
-    "observed_at": "2026-07-26T22:47:34Z"
+    "observed_at": "2026-07-27T22:49:09Z"
   },
   {
     "retailer": "on_au",
@@ -686,7 +634,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/BrZ5Mp8ZknvgMpLP2Z7cE/ff9f5b8d69f233f70e36477685d81d09/hixtk8w8oy2wax1ny3f3.png",
     "image_path": "images/d0ea3417f088e7ff.png",
-    "observed_at": "2026-07-26T22:47:35Z"
+    "observed_at": "2026-07-27T22:49:10Z"
   },
   {
     "retailer": "on_au",
@@ -699,7 +647,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6YsSlmUhytr4Y4ZJoQT1XH/86e93f0d19a34e323b593875dd69a74b/839ca77bbe8ad7f3e69be64a68cb9fbf72314d1c.png",
     "image_path": "images/4761f75734ac3f1d.png",
-    "observed_at": "2026-07-26T22:47:36Z"
+    "observed_at": "2026-07-27T22:49:10Z"
   },
   {
     "retailer": "on_au",
@@ -712,7 +660,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3YSJJ66dAbxSco7M5Knvgj/5a7d311fb1552f15935428b5e1ff193a/a2941f2a29cc9cca9b498dfa03a38540b26c17e1.png",
     "image_path": "images/d1e34cd6cb5fcfc2.png",
-    "observed_at": "2026-07-26T22:46:38Z"
+    "observed_at": "2026-07-27T22:48:25Z"
   },
   {
     "retailer": "on_au",
@@ -725,7 +673,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6Efa3sB8PYD7quQJuonI8D/049a4ae3153cb8d6d13a5ba4e88da798/d62f7d7ad73b429fc7563406ef8974cf006d6eda.png",
     "image_path": "images/6f9ad8efc5606dd7.png",
-    "observed_at": "2026-07-26T22:46:39Z"
+    "observed_at": "2026-07-27T22:48:26Z"
   },
   {
     "retailer": "on_au",
@@ -738,7 +686,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7jji99dUlNlNDYwBnQTnLp/8901f6bf28f5926da2678483fcde2434/e1a70a0eb7a4fb64730f45fbe226d7fbd05c46b4.png",
     "image_path": "images/9a60c0e6a9d45c44.png",
-    "observed_at": "2026-07-26T22:47:37Z"
+    "observed_at": "2026-07-27T22:49:10Z"
   },
   {
     "retailer": "on_au",
@@ -751,7 +699,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2UD50vsQRn8iPSCQ0tTsa5/c33e9277f1383be1291e554f14aa00f7/32023ef52a5cb3b8c5bcdecc99ce9e337f79139f.png",
     "image_path": "images/f9cd04a8d3e50ded.png",
-    "observed_at": "2026-07-26T22:46:40Z"
+    "observed_at": "2026-07-27T22:48:27Z"
   },
   {
     "retailer": "rebel",
@@ -764,7 +712,7 @@
     "size": "US M8",
     "image_url": "https://www.rebelsport.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dw70955e38/images/70472501/Rebel_70472501_whitegrey_hi-res.jpg?sw=1000&sh=1000&sm=fit&q=80",
     "image_path": "images/f216e094acef3f26.jpg",
-    "observed_at": "2026-07-26T22:48:00Z"
+    "observed_at": "2026-07-27T22:49:25Z"
   },
   {
     "retailer": "on_au",
@@ -777,7 +725,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/51P6uyBj7zt8QaM1DyD1eg/4b842416528db97db0b911d7dfe65304/ce8sjjfyhui5pcv5tcl6.png",
     "image_path": "images/dd2532b76d67ba85.png",
-    "observed_at": "2026-07-26T22:47:38Z"
+    "observed_at": "2026-07-27T22:49:11Z"
   },
   {
     "retailer": "on_au",
@@ -790,7 +738,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5ao74fMRx77L6JcmUV87qA/a1e8c6ea396424d30dcaa401dd8d4c8e/a97d07a2c19e39f3c1ad88906b1cb78b23818ed8.png",
     "image_path": "images/3d605d1ad97945da.png",
-    "observed_at": "2026-07-26T22:47:39Z"
+    "observed_at": "2026-07-27T22:49:12Z"
   },
   {
     "retailer": "on_au",
@@ -803,7 +751,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5x45WH2qGuNCjRecP8Rz9G/aa2e79e393b3f66d7511e68967522d9b/ef9d9126b150296b603757143377bf2db9807e95.png",
     "image_path": "images/00be6024abc7e775.png",
-    "observed_at": "2026-07-26T22:47:41Z"
+    "observed_at": "2026-07-27T22:49:13Z"
   },
   {
     "retailer": "on_au",
@@ -816,7 +764,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5EzLPr1JguyHGZuMrEJReB/17ebad5135733c4ee8bec29e00c9e4bc/9a153380bcea69ab1ba3660ab027363ddf7e8800.png",
     "image_path": "images/1ca6c9c2c7e6f9f0.png",
-    "observed_at": "2026-07-26T22:47:41Z"
+    "observed_at": "2026-07-27T22:49:14Z"
   },
   {
     "retailer": "on_au",
@@ -829,7 +777,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2iRqXD1yvc6Bjtd4LKEoBy/00a15ff2b329af041fbfa9bbbb6e5ff1/496ac9e4e3c5665a056c2c9b36c8f07835b8b2a7.png",
     "image_path": "images/88640f0195d820a7.png",
-    "observed_at": "2026-07-26T22:47:44Z"
+    "observed_at": "2026-07-27T22:49:15Z"
   },
   {
     "retailer": "on_au",
@@ -842,7 +790,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4730FD24kNnElMmA3eecRf/7417e1d9a3f4234ae20227f9b97847c1/dd09847765b1786f584fd8106b29a921d91719ba.png",
     "image_path": "images/93070b1ff13b746a.png",
-    "observed_at": "2026-07-26T22:47:46Z"
+    "observed_at": "2026-07-27T22:49:17Z"
   },
   {
     "retailer": "on_au",
@@ -855,7 +803,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/11S6yTgC1c4PVcY8OsddL8/6f293dc6a9aa2ae4d65f2eb08a31690c/ad321fd1fa5e3e124e1c7add5681fee86d18f6d2.png",
     "image_path": "images/8aef70b166c35221.png",
-    "observed_at": "2026-07-26T22:47:45Z"
+    "observed_at": "2026-07-27T22:49:15Z"
   },
   {
     "retailer": "on_au",
@@ -868,7 +816,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2IQnBzixc37yYN9dgec5Xi/6975e2a3403ab4793d5b9895d29f44f3/3cecb6a25e3c6e18b9b7a4e6c5bfea62544f7e6f.png",
     "image_path": "images/63b6d5b2074290c5.png",
-    "observed_at": "2026-07-26T22:47:47Z"
+    "observed_at": "2026-07-27T22:49:18Z"
   },
   {
     "retailer": "on_au",
@@ -881,7 +829,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5n0BHDIsn2LQo1DBKgQ6Vh/2a8916ec131b7d549b1d6aa4bebf8794/597393efadc717c97cc0efb1140004ba666a4b41.png",
     "image_path": "images/d810965459f7d9c1.png",
-    "observed_at": "2026-07-26T22:46:41Z"
+    "observed_at": "2026-07-27T22:48:28Z"
   },
   {
     "retailer": "on_au",
@@ -894,7 +842,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4ZX2ZwthNYJQYOLZ1y4tGQ/ba12509d97688f67ec2e369934ad5ea3/b818791decacd7e0ad122dfe7c9207dfd50c7e11.png",
     "image_path": "images/0ae250aa80a01e9d.png",
-    "observed_at": "2026-07-26T22:47:48Z"
+    "observed_at": "2026-07-27T22:49:18Z"
   },
   {
     "retailer": "on_au",
@@ -907,7 +855,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4s0RIeoYDAKDePvgUfKccu/71d6616eaf2bd5e2f5b620f5877f0f03/55f80115f36a84fb788940ff802d41e67a7aa8c7.png",
     "image_path": "images/7117b3061a54c35b.png",
-    "observed_at": "2026-07-26T22:47:49Z"
+    "observed_at": "2026-07-27T22:49:19Z"
   },
   {
     "retailer": "on_au",
@@ -920,7 +868,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/11t98t9P1BVGYQf5RbhrbT/f741aa2eb29623655e72706c6d86a14c/053f9c17339c83c23b06550668edf8a6d6c55278.png",
     "image_path": "images/28f8cbd2f09f8b02.png",
-    "observed_at": "2026-07-26T22:46:43Z"
+    "observed_at": "2026-07-27T22:48:29Z"
   },
   {
     "retailer": "on_au",
@@ -933,7 +881,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7LfgRzYDLMUFSfMDVqblUB/099359827c7557de3a1705a262c95927/0c144b410bab62b75a089e0ed02ccfbd540924c6.png",
     "image_path": "images/acb07f54bbe87ba1.png",
-    "observed_at": "2026-07-26T22:47:50Z"
+    "observed_at": "2026-07-27T22:49:19Z"
   },
   {
     "retailer": "on_au",
@@ -946,7 +894,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/hRJg2uoKmySwKd1Sb90o0/d3449cea19a9289f9354cf47bb1ee52d/e74b4cc37f5677b0d35ea1ba3228094c09fe8782.png",
     "image_path": "images/8c65e605f62f8728.png",
-    "observed_at": "2026-07-26T22:47:52Z"
+    "observed_at": "2026-07-27T22:49:21Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudsurfer-max-year-of-the-horse",
+    "title": "Cloudsurfer Max Year of the Horse",
+    "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mg1058/mens/chai-ivory-shoes-3MG10580722",
+    "price_aud": 290.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5YNDo3MRRw1Cj9baj0zGGn/e1875ef50c26077507d3545d044d6beb/b0a4b08cb926c18356ac361565fc2f183ef6908d.png",
+    "image_path": "images/d953a005e7b73d49.png",
+    "observed_at": "2026-07-27T22:49:22Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -954,12 +915,12 @@
     "product_key": "on/cloudsurfer-next",
     "title": "Cloudsurfer Next",
     "url": "https://www.footlocker.com.au/en/product/on-cloudsurfer-next-men-shoes/244207415704.html",
-    "price_aud": 129.95,
+    "price_aud": 199.95,
     "in_stock": true,
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244207217704",
     "image_path": "images/e592acde03d4fba7.jpg",
-    "observed_at": "2026-07-26T22:47:54Z"
+    "observed_at": "2026-07-27T22:49:23Z"
   },
   {
     "retailer": "on_au",
@@ -972,7 +933,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2DuQoX0PzOwbyPpF2iOCoW/90eb5ae0a92b63209088a3785c097bfc/1b0014ccbf137d092036b7685d38f5ae60841d0c.png",
     "image_path": "images/8aa3d4ba54b1d777.png",
-    "observed_at": "2026-07-26T22:46:43Z"
+    "observed_at": "2026-07-27T22:48:30Z"
   },
   {
     "retailer": "on_au",
@@ -985,7 +946,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5hdkk8YjlVG9rOqG1N1S0P/82065f85db8cee65437fccaa8b492ff4/883d17f109d922677d724a01ad2890f43b1bf641.png",
     "image_path": "images/bc3f4f08bb10331e.png",
-    "observed_at": "2026-07-26T22:46:45Z"
+    "observed_at": "2026-07-27T22:48:31Z"
   },
   {
     "retailer": "on_au",
@@ -998,7 +959,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1TY0g1woZLYC1ARFnU3aok/fa20a6e64df884dd573a32cfc325c633/fa52e96da3ba05742f0f92a91e885ca3f1e35400.png",
     "image_path": "images/d4d85d24cc0e7f1e.png",
-    "observed_at": "2026-07-26T22:46:47Z"
+    "observed_at": "2026-07-27T22:48:32Z"
   },
   {
     "retailer": "on_au",
@@ -1011,7 +972,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3tDGg2jZVKWesSrXX21Wdw/d21bb6c1435982c8846449146d79d7c3/110e32a6e3793339231a2b953232747956310f47.png",
     "image_path": "images/7dd2f995d432ca45.png",
-    "observed_at": "2026-07-26T22:46:48Z"
+    "observed_at": "2026-07-27T22:48:33Z"
   },
   {
     "retailer": "on_au",
@@ -1024,7 +985,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6ZPH21wcZThN2UX4OUYqjW/2d165774d3f430a83948e2d488b73bb3/3719b57c0a8dd8f04856220ea0df603f0999af96.png",
     "image_path": "images/1993ff331da61ff1.png",
-    "observed_at": "2026-07-26T22:46:49Z"
+    "observed_at": "2026-07-27T22:48:34Z"
   },
   {
     "retailer": "on_au",
@@ -1037,7 +998,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/77isAFPy34fHOboXecjorx/b0c144ae1d2cf8dc6eb0515484dd3f4c/4e6fdee7be02085a5fa8d03863933eff827050a5.png",
     "image_path": "images/5711b5cfb8cc7fb2.png",
-    "observed_at": "2026-07-26T22:46:50Z"
+    "observed_at": "2026-07-27T22:48:35Z"
   },
   {
     "retailer": "on_au",
@@ -1050,7 +1011,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4AZaipkvOQYzFWUBz2UldQ/15c82e77cdb873aa73f95d65c9a77dfb/c662fcd9bb413791955498cf225d1c7fcc4b3e2c.png",
     "image_path": "images/b0064ea88371ff8c.png",
-    "observed_at": "2026-07-26T22:46:51Z"
+    "observed_at": "2026-07-27T22:48:35Z"
   },
   {
     "retailer": "on_au",
@@ -1063,7 +1024,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/25XtKNCpcDBXtUBTdlsKR3/f3848c950630c719d8345497d723bc08/b7d8905f6ce114050f9ec544f7fe5e3f0c59a8ad.png",
     "image_path": "images/7cca0fccb87ea6b2.png",
-    "observed_at": "2026-07-26T22:46:52Z"
+    "observed_at": "2026-07-27T22:48:37Z"
   },
   {
     "retailer": "on_au",
@@ -1076,7 +1037,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2Yi2HsqGXFIJofnHDjzj9v/6c471628552ea51b82090ee5215b12f5/03deff78c39f6ea694383e53a673d16bd769b9e7.png",
     "image_path": "images/a85609ec109c8032.png",
-    "observed_at": "2026-07-26T22:46:54Z"
+    "observed_at": "2026-07-27T22:48:38Z"
   },
   {
     "retailer": "on_au",
@@ -1089,7 +1050,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3rM0yQFFHLxYrEv6ZPQmlh/8a3ed3b57b70e5d55cc0a7dacaf68ed8/428a209a6dac82f059281591989e7b399f24aa59.png",
     "image_path": "images/1e1e4e43dc7a14b5.png",
-    "observed_at": "2026-07-26T22:46:54Z"
+    "observed_at": "2026-07-27T22:48:39Z"
   },
   {
     "retailer": "on_au",
@@ -1102,7 +1063,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/aIwZojYduwlLUDbJUUjFl/7aa191ccfd2d89564b63720fe3468ad6/c27249caeaa8f242c742f281ef1cd3d766535718.png",
     "image_path": "images/a9de1fe6fdb95220.png",
-    "observed_at": "2026-07-26T22:46:55Z"
+    "observed_at": "2026-07-27T22:48:41Z"
   },
   {
     "retailer": "on_au",
@@ -1115,20 +1076,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/63kPMQZ9MkQciMCmKnsMkY/4a209d2b974c9249a41e2beaabe15ae3/d75565dbbde027e463e9df52d7d5a38ee6efe726.png",
     "image_path": "images/1ce6bee9ec365896.png",
-    "observed_at": "2026-07-26T22:46:56Z"
-  },
-  {
-    "retailer": "jb_hifi",
-    "category": "xbox",
-    "product_key": "xbox/series-s-1tb",
-    "title": "Xbox Series S 1TB Console (Robot White)",
-    "url": "https://www.jbhifi.com.au/products/xbox-series-s-1tb-console-robot-white",
-    "price_aud": 599.0,
-    "in_stock": true,
-    "size": null,
-    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/749726-Product-0-I-638968586405888713.jpg?v=1761261966",
-    "image_path": "images/55049248b1d54e02.jpg",
-    "observed_at": "2026-07-26T22:48:14Z"
+    "observed_at": "2026-07-27T22:48:41Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1141,20 +1089,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50091662_923976.png?v=1776231517",
     "image_path": "images/57317a5d04f083eb.png",
-    "observed_at": "2026-07-26T22:48:19Z"
-  },
-  {
-    "retailer": "jb_hifi",
-    "category": "xbox",
-    "product_key": "xbox/series-s-512gb",
-    "title": "Xbox Series S 512GB Console",
-    "url": "https://www.jbhifi.com.au/products/xbox-series-s-512gb-console-1",
-    "price_aud": 549.0,
-    "in_stock": true,
-    "size": null,
-    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/794687-Product-0-I-638682604208042514.jpg?v=1732663751",
-    "image_path": "images/e9d53e4765ae6429.jpg",
-    "observed_at": "2026-07-26T22:48:14Z"
+    "observed_at": "2026-07-27T22:50:14Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1167,7 +1102,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50073103_737255.png?v=1776227327",
     "image_path": "images/7b56cca643d49eef.png",
-    "observed_at": "2026-07-26T22:48:18Z"
+    "observed_at": "2026-07-27T22:50:14Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1180,20 +1115,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50073104_737244.png?v=1776226874",
     "image_path": "images/1e786e3b48058233.png",
-    "observed_at": "2026-07-26T22:48:18Z"
-  },
-  {
-    "retailer": "jb_hifi",
-    "category": "xbox",
-    "product_key": "xbox/series-x-digital-1tb",
-    "title": "Xbox Series X 1TB Digital Console (Robot White)",
-    "url": "https://www.jbhifi.com.au/products/xbox-series-x-1tb-digital-console-robot-white",
-    "price_aud": 749.0,
-    "in_stock": true,
-    "size": null,
-    "image_url": "https://www.jbhifi.com.au/cdn/shop/files/749727-Product-0-I-638596367404641478.jpg?v=1761260165",
-    "image_path": "images/41e2d12ddae93086.jpg",
-    "observed_at": "2026-07-26T22:48:14Z"
+    "observed_at": "2026-07-27T22:50:13Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1206,6 +1128,6 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50091663_923975.png?v=1776227125",
     "image_path": "images/4674c5247ae0a5b0.png",
-    "observed_at": "2026-07-26T22:48:20Z"
+    "observed_at": "2026-07-27T22:50:15Z"
   }
 ]
