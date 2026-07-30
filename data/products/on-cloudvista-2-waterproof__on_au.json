@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-30T22:55:35Z",
+      "price_aud": 185.0,
+      "url": "https://www.on.com/en-au/products/cloudvista-2-waterproof-3me3014/mens/black-eclipse-shoes-3ME30140106"
+    }
+  ],
+  "image_path": "images/7de7919feb834d27.png",
+  "product_key": "on/cloudvista-2-waterproof",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudvista 2 Waterproof",
+  "url": "https://www.on.com/en-au/products/cloudvista-2-waterproof-3me3014/mens/black-eclipse-shoes-3ME30140106"
+}

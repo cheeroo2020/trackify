@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "product_key": "on/cloudflow-5-ad",
+    "retailer": "on_au",
+    "title": "Cloudflow 5 AD",
+    "url": "https://www.on.com/en-au/products/cloudflow-5-ad-m-3mf3070/mens/hail-white-shoes-3MF30703532",
+    "new_price": 255.0,
+    "previous_low": 320.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  },
+  {
+    "product_key": "on/the-roger-advantage-pro",
+    "retailer": "on_au",
+    "title": "THE ROGER Advantage Pro",
+    "url": "https://www.on.com/en-au/products/the-roger-adv-pro-3mf1027/mens/glacier-white-shoes-3MF10270070",
+    "new_price": 180.0,
+    "previous_low": 205.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  },
+  {
+    "product_key": "on/the-roger-advantage",
+    "retailer": "on_au",
+    "title": "THE ROGER Advantage",
+    "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3md1064/mens/all-white-shoes-3MD10640108",
+    "new_price": 140.0,
+    "previous_low": 200.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]

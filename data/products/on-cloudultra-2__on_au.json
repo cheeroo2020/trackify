@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-30T22:55:30Z",
+      "price_aud": 165.0,
+      "url": "https://www.on.com/en-au/products/cloudultra-2-3md3028/mens/all-black-shoes-3MD30280485"
+    }
+  ],
+  "image_path": "images/63e7247de32e13e1.png",
+  "product_key": "on/cloudultra-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudultra 2",
+  "url": "https://www.on.com/en-au/products/cloudultra-2-3md3028/mens/all-black-shoes-3MD30280485"
+}

@@ -18,12 +18,18 @@
       "observed_at": "2026-07-29T22:46:02Z",
       "price_aud": 280.0,
       "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/aster-begonia-shoes-3MF31105555"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-30T22:54:45Z",
+      "price_aud": 220.0,
+      "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/fir-fir-shoes-3MF31105030"
     }
   ],
-  "image_path": "images/8335eff52bf4a180.png",
+  "image_path": "images/943a664a38d276f3.png",
   "product_key": "on/cloud-6-shf",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud 6 SHF",
-  "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/aster-begonia-shoes-3MF31105555"
+  "url": "https://www.on.com/en-au/products/cloud-6-shf-m-3mf3110/mens/fir-fir-shoes-3MF31105030"
 }
