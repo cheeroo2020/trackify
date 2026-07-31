@@ -6,12 +6,18 @@
       "observed_at": "2026-07-30T22:55:26Z",
       "price_aud": 750.0,
       "url": "https://www.on.com/en-au/products/cloudtilt-loewe-3md3033/mens/all-black-shoes-3MD30330485"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-07-31T22:48:40Z",
+      "price_aud": 840.0,
+      "url": "https://www.on.com/en-au/products/cloudtilt-loewe-m-3mf3117/mens/denim-blue-shoes-3MF31174617"
     }
   ],
-  "image_path": "images/724242e0cdbd8028.png",
+  "image_path": "images/13805780241e7ea6.png",
   "product_key": "on/cloudtilt-loewe",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudtilt LOEWE",
-  "url": "https://www.on.com/en-au/products/cloudtilt-loewe-3md3033/mens/blue-shoes-3MD30334190"
+  "url": "https://www.on.com/en-au/products/cloudtilt-loewe-m-3mf3117/mens/denim-blue-shoes-3MF31174617"
 }
