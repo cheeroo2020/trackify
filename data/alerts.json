@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "product_key": "on/cloudmonster-3",
+    "retailer": "on_au",
+    "title": "Cloudmonster 3",
+    "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1005/mens/black-black-shoes-3MG10051043",
+    "new_price": 230.0,
+    "previous_low": 290.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]
