@@ -42,6 +42,12 @@
       "observed_at": "2026-08-02T22:45:10Z",
       "price_aud": 129.95,
       "url": "https://www.footlocker.com.au/en/product/on-cloudsurfer-next-men-shoes/244207415704.html"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-03T22:49:53Z",
+      "price_aud": 199.95,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudsurfer-next-men-shoes/244207415704.html"
     }
   ],
   "image_path": "images/e592acde03d4fba7.jpg",
