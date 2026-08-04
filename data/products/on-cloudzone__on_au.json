@@ -18,12 +18,18 @@
       "observed_at": "2026-08-03T22:49:15Z",
       "price_aud": 165.0,
       "url": "https://www.on.com/en-au/products/cloudzone-3mf1008/mens/white-white-shoes-3MF10081200"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-04T22:52:55Z",
+      "price_aud": 240.0,
+      "url": "https://www.on.com/en-au/products/cloudzone-3mf1008/mens/alloy-rock-shoes-3MF10083295"
     }
   ],
-  "image_path": "images/a85609ec109c8032.png",
+  "image_path": "images/d51383e2de56553e.png",
   "product_key": "on/cloudzone",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudzone",
-  "url": "https://www.on.com/en-au/products/cloudzone-3mf1008/mens/white-white-shoes-3MF10081200"
+  "url": "https://www.on.com/en-au/products/cloudzone-3mf1008/mens/alloy-rock-shoes-3MF10083295"
 }
