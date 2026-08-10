@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-08-10T22:25:19Z",
+      "price_aud": 289.99,
+      "url": "https://www.rebelsport.com.au/p/on-cloudmonster-3-mens-running-shoes-M73670601.html"
+    }
+  ],
+  "image_path": "images/85de5b9db6e559ed.jpg",
+  "product_key": "on/cloudmonster-3",
+  "retailer": "rebel",
+  "size": "US M8",
+  "title": "Cloudmonster 3",
+  "url": "https://www.rebelsport.com.au/p/on-cloudmonster-3-mens-running-shoes-M73670601.html"
+}
