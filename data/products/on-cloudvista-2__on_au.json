@@ -3,7 +3,7 @@
   "history": [
     {
       "in_stock": true,
-      "observed_at": "2026-08-13T22:29:51Z",
+      "observed_at": "2026-08-14T22:11:03Z",
       "price_aud": 150.0,
       "url": "https://www.on.com/en-au/products/cloudvista-2-3me3011/mens/cream-horizon-shoes-3ME30113168"
     }
@@ -13,5 +13,5 @@
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudvista 2",
-  "url": "https://www.on.com/en-au/products/cloudvista-2-3me3011/mens/cream-desert-shoes-3ME30113323"
+  "url": "https://www.on.com/en-au/products/cloudvista-2-3me3011/mens/cream-horizon-shoes-3ME30113168"
 }
