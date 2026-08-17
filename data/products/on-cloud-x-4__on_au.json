@@ -18,12 +18,18 @@
       "observed_at": "2026-08-16T22:09:22Z",
       "price_aud": 175.0,
       "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/black-eclipse-shoes-3ME30040106"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-17T22:12:07Z",
+      "price_aud": 180.0,
+      "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mf1075/mens/ivory-cream-shoes-3MF10752734"
     }
   ],
-  "image_path": "images/4c70eb8e516ce008.png",
+  "image_path": "images/655ec445abb7a46a.png",
   "product_key": "on/cloud-x-4",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud X 4",
-  "url": "https://www.on.com/en-au/products/cloud-x-4-3me3004/mens/navy-gourami-shoes-3ME30044739"
+  "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mf1075/mens/ivory-cream-shoes-3MF10752734"
 }

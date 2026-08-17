@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-17T22:12:04Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloud-x-tempo-pro-m-3mh1033/mens/white-celeste-shoes-3MH10335109"
+    }
+  ],
+  "image_path": "images/c3f1ba9da0267352.png",
+  "product_key": "on/cloud-x-tempo-pro",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud X Tempo Pro",
+  "url": "https://www.on.com/en-au/products/cloud-x-tempo-pro-m-3mh1033/mens/white-celeste-shoes-3MH10335109"
+}
