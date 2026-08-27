@@ -24,12 +24,18 @@
       "observed_at": "2026-08-25T22:14:57Z",
       "price_aud": 260.0,
       "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/black-black-shoes-3MF10121043"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-27T02:20:51Z",
+      "price_aud": 130.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/glacier-ivory-shoes-3MF10123205"
     }
   ],
-  "image_path": "images/acb07f54bbe87ba1.png",
+  "image_path": "images/2c19f5c5a037dbb2.png",
   "product_key": "on/cloudsurfer-2",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudsurfer 2",
-  "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/black-black-shoes-3MF10121043"
+  "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/glacier-ivory-shoes-3MF10123205"
 }

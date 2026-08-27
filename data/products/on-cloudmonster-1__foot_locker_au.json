@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-27T02:21:21Z",
+      "price_aud": 280.0,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-1-men-shoes/244210122404.html"
+    }
+  ],
+  "image_path": "images/6f43cf6eec8e39b3.jpg",
+  "product_key": "on/cloudmonster-1",
+  "retailer": "foot_locker_au",
+  "size": "US M8",
+  "title": "Cloudmonster 1",
+  "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-1-men-shoes/244210122404.html"
+}

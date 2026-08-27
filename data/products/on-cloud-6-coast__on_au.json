@@ -9,7 +9,7 @@
     },
     {
       "in_stock": true,
-      "observed_at": "2026-08-25T22:13:42Z",
+      "observed_at": "2026-08-27T02:20:48Z",
       "price_aud": 200.0,
       "url": "https://www.on.com/en-au/products/cloud-6-coast-3mf1003/mens/black-white-shoes-3MF10030299"
     }
@@ -19,5 +19,5 @@
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud 6 Coast",
-  "url": "https://www.on.com/en-au/products/cloud-6-coast-3mf1003/mens/pelican-ice-shoes-3MF10033692"
+  "url": "https://www.on.com/en-au/products/cloud-6-coast-3mf1003/mens/black-white-shoes-3MF10030299"
 }
