@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-08-28T05:53:22Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-3-mule-m-3mg3034/mens/cacao-espresso-shoes-3MG30343132"
+    }
+  ],
+  "image_path": "images/e064bc1b25da708c.png",
+  "product_key": "on/cloudmonster-3-mule",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmonster 3 Mule",
+  "url": "https://www.on.com/en-au/products/cloudmonster-3-mule-m-3mg3034/mens/cacao-espresso-shoes-3MG30343132"
+}
