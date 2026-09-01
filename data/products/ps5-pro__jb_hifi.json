@@ -30,6 +30,12 @@
       "observed_at": "2026-09-01T00:53:50Z",
       "price_aud": 1399.0,
       "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-pro-console"
+    },
+    {
+      "in_stock": false,
+      "observed_at": "2026-09-01T23:39:15Z",
+      "price_aud": 1399.0,
+      "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-pro-console"
     }
   ],
   "image_path": "images/bbe02a657b0b6f3d.jpg",
