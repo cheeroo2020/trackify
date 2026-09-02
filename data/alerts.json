@@ -4,68 +4,8 @@
     "retailer": "on_au",
     "title": "Cloudmonster Void",
     "url": "https://www.on.com/en-au/products/cloudmonster-void-3mf1067/mens/silver-lense-shoes-3MF10673352",
-    "new_price": 160.0,
-    "previous_low": 185.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudrunner-2",
-    "retailer": "on_au",
-    "title": "Cloudrunner 2",
-    "url": "https://www.on.com/en-au/products/cloudrunner-2-m-3me1014/mens/pearl-desert-shoes-3ME10144180",
-    "new_price": 125.0,
-    "previous_low": 150.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudsurfer-max",
-    "retailer": "on_au",
-    "title": "Cloudsurfer Max",
-    "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/asphalt-ice-shoes-3MF30433396",
-    "new_price": 195.0,
-    "previous_low": 220.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudzone-moon",
-    "retailer": "on_au",
-    "title": "Cloudzone Moon",
-    "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714",
-    "new_price": 210.0,
-    "previous_low": 240.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudflow-5-ad",
-    "retailer": "on_au",
-    "title": "Cloudflow 5 AD",
-    "url": "https://www.on.com/en-au/products/cloudflow-5-ad-m-3mf3070/mens/hail-white-shoes-3MF30703532",
-    "new_price": 220.0,
-    "previous_low": 255.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudflow-5-lumos",
-    "retailer": "on_au",
-    "title": "Cloudflow 5 Lumos",
-    "url": "https://www.on.com/en-au/products/cloudflow-5-lumos-m-3mf3076/mens/glacier-black-shoes-3MF30760117",
-    "new_price": 140.0,
-    "previous_low": 220.0,
-    "reason": "new-all-time-low",
-    "drop_pct": null
-  },
-  {
-    "product_key": "on/cloudsurfer-next-wide",
-    "retailer": "on_au",
-    "title": "Cloudsurfer Next Wide",
-    "url": "https://www.on.com/en-au/products/cloudsurfer-next-wide-3me3019/mens/black-eclipse-shoes-3ME30190106",
-    "new_price": 150.0,
-    "previous_low": 200.0,
+    "new_price": 135.0,
+    "previous_low": 160.0,
     "reason": "new-all-time-low",
     "drop_pct": null
   }
