@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-09-03T23:38:25Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudsoma-paf-m-3mg3078/mens/black-black-shoes-3MG30781043"
+    }
+  ],
+  "image_path": "images/83d0ae3fc62b48a8.png",
+  "product_key": "on/cloudsoma-paf",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsoma PAF",
+  "url": "https://www.on.com/en-au/products/cloudsoma-paf-m-3mg3078/mens/black-black-shoes-3MG30781043"
+}
