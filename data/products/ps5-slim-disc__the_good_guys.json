@@ -24,6 +24,12 @@
       "observed_at": "2026-09-05T23:26:32Z",
       "price_aud": 969.0,
       "url": "https://www.thegoodguys.com.au/playstation-5-console-slim-166601"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-09-06T23:20:27Z",
+      "price_aud": 999.0,
+      "url": "https://www.thegoodguys.com.au/playstation-5-console-slim-166601"
     }
   ],
   "image_path": "images/819f0414ac0957e8.png",
