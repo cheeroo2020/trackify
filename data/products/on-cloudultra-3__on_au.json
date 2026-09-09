@@ -18,9 +18,15 @@
       "observed_at": "2026-09-08T23:44:14Z",
       "price_aud": 290.0,
       "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-09-09T23:37:50Z",
+      "price_aud": 230.0,
+      "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043"
     }
   ],
-  "image_path": "images/0b0373190be5dd19.png",
+  "image_path": "images/1993ff331da61ff1.png",
   "product_key": "on/cloudultra-3",
   "retailer": "on_au",
   "size": "US M8",
