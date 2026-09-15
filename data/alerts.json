@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "product_key": "on/cloudmonster-void",
+    "retailer": "foot_locker_au",
+    "title": "Cloudmonster Void",
+    "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-void-men-shoes/244207378704.html",
+    "new_price": 189.95,
+    "previous_low": 209.95,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]

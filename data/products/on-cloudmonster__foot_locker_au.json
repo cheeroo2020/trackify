@@ -36,6 +36,12 @@
       "observed_at": "2026-09-15T00:04:38Z",
       "price_aud": 199.95,
       "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-men-shoes/244206508004.html"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-09-15T23:48:56Z",
+      "price_aud": 179.95,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudmonster-men-shoes/244206507204.html"
     }
   ],
   "image_path": "images/8f174c4bee3c7dca.jpg",
