@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-09-17T23:47:47Z",
+      "price_aud": 290.0,
+      "url": "https://www.on.com/en-au/products/cloudrunner-3-max-ln1-m-3mg3114/mens/fresco-gild-shoes-3MG31146224"
+    }
+  ],
+  "image_path": "images/27f96745a1340468.png",
+  "product_key": "on/cloudrunner-3-max-ln1",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudrunner 3 Max LN1",
+  "url": "https://www.on.com/en-au/products/cloudrunner-3-max-ln1-m-3mg3114/mens/fresco-gild-shoes-3MG31146224"
+}
