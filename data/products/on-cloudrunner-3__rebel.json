@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": false,
+      "observed_at": "2026-09-29T01:20:45Z",
+      "price_aud": 259.99,
+      "url": "https://www.rebelsport.com.au/p/on-cloudrunner-3-mens-running-shoes-M73681201.html"
+    }
+  ],
+  "image_path": "images/a25b5ec0c18e6085.jpg",
+  "product_key": "on/cloudrunner-3",
+  "retailer": "rebel",
+  "size": "US M8",
+  "title": "Cloudrunner 3",
+  "url": "https://www.rebelsport.com.au/p/on-cloudrunner-3-mens-running-shoes-M73681201.html"
+}
