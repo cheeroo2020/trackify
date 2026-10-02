@@ -6,6 +6,12 @@
       "observed_at": "2026-10-01T00:55:22Z",
       "price_aud": 150.0,
       "url": "https://www.on.com/en-au/products/cloudvista-2-3me3011/mens/cream-horizon-shoes-3ME30113168"
+    },
+    {
+      "in_stock": false,
+      "observed_at": "2026-10-02T01:10:04Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudvista-2-m-3mg1101/mens/eclipse-robin-shoes-3MG11014931"
     }
   ],
   "image_path": "images/12cd5a9f34c09ce0.png",
@@ -13,5 +19,5 @@
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudvista 2",
-  "url": "https://www.on.com/en-au/products/cloudvista-2-3me3011/mens/cream-desert-shoes-3ME30113323"
+  "url": "https://www.on.com/en-au/products/cloudvista-2-m-3mg1101/mens/eclipse-robin-shoes-3MG11014931"
 }

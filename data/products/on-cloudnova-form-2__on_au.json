@@ -12,12 +12,18 @@
       "observed_at": "2026-08-13T22:29:41Z",
       "price_aud": 140.0,
       "url": "https://www.on.com/en-au/products/cloudnova-form-2-3me3015/mens/pearl-black-shoes-3ME30152325"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-02T01:09:52Z",
+      "price_aud": 240.0,
+      "url": "https://www.on.com/en-au/products/cloudnova-form-2-m-3mg1137/mens/wolf-ivory-shoes-3MG11372880"
     }
   ],
-  "image_path": "images/6091ed3ce0be69b9.png",
+  "image_path": "images/f2cf39b8dc29600f.png",
   "product_key": "on/cloudnova-form-2",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudnova Form 2",
-  "url": "https://www.on.com/en-au/products/cloudnova-form-2-3me3015/mens/pearl-black-shoes-3ME30152325"
+  "url": "https://www.on.com/en-au/products/cloudnova-form-2-m-3mg1137/mens/wolf-ivory-shoes-3MG11372880"
 }

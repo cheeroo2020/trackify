@@ -24,12 +24,18 @@
       "observed_at": "2026-10-01T00:54:15Z",
       "price_aud": 180.0,
       "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mf1075/mens/ivory-cream-shoes-3MF10752734"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-02T01:09:39Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mg1133/mens/white-arctic-shoes-3MG11332933"
     }
   ],
-  "image_path": "images/655ec445abb7a46a.png",
+  "image_path": "images/66b24cea7a325d13.png",
   "product_key": "on/cloud-x-4",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud X 4",
-  "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mf1075/mens/ivory-cream-shoes-3MF10752734"
+  "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mg1133/mens/white-arctic-shoes-3MG11332933"
 }

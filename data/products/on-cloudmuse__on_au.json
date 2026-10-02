@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-02T01:10:41Z",
+      "price_aud": 270.0,
+      "url": "https://www.on.com/en-au/products/cloudmuse-m-3mg3110/mens/black-black-shoes-3MG31101043"
+    }
+  ],
+  "image_path": "images/53c0346b1d17c21e.png",
+  "product_key": "on/cloudmuse",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudmuse",
+  "url": "https://www.on.com/en-au/products/cloudmuse-m-3mg3110/mens/black-black-shoes-3MG31101043"
+}

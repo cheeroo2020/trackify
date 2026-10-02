@@ -10,7 +10,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50096978_1042267.png?v=1776230744",
     "image_path": "images/4df76ebd4dc5acb9.png",
-    "observed_at": "2026-10-01T00:56:18Z"
+    "observed_at": "2026-10-02T01:12:00Z"
   },
   {
     "retailer": "the_good_guys",
@@ -23,7 +23,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50088345_1042326.png?v=1776227396",
     "image_path": "images/819f0414ac0957e8.png",
-    "observed_at": "2026-10-01T00:56:17Z"
+    "observed_at": "2026-10-02T01:11:59Z"
   },
   {
     "retailer": "on_au",
@@ -36,7 +36,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2pHLf8aCLrQxrGCjJk26bG/55c4b7f6e1d9c8d9c3fc265c6ce1a173/5e1e876ff3833fccd30a05e41c41ce1acadab687.png",
     "image_path": "images/18d34e3e09e15df0.png",
-    "observed_at": "2026-10-01T00:54:12Z"
+    "observed_at": "2026-10-02T01:10:09Z"
   },
   {
     "retailer": "on_au",
@@ -49,7 +49,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3LPgOjwu4zFmoEsasgLIO6/ac332bdb0d08272ba6686b62ef0967ae/bcb81935cca7a511549e909b62bd8f7ee559c748.png",
     "image_path": "images/24f266e8fb4749a1.png",
-    "observed_at": "2026-10-01T00:53:52Z"
+    "observed_at": "2026-10-02T01:09:36Z"
   },
   {
     "retailer": "on_au",
@@ -62,7 +62,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5hx7R2K53AljeMyvN5t5Ub/309049ddf6678e77068548bba346517d/5b634406633a16a16449696b9a74316d78a99177.png",
     "image_path": "images/b71a09d5a333d17f.png",
-    "observed_at": "2026-10-01T00:54:10Z"
+    "observed_at": "2026-10-02T01:10:07Z"
   },
   {
     "retailer": "on_au",
@@ -75,7 +75,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2xCzoONqZG1FMjVgbjJs0F/b421544ba4d1458064030edec9d1599b/27b1a7a95c76fce7d9094edf8d8fd658410774f7.png",
     "image_path": "images/5a5dd6688a2c1302.png",
-    "observed_at": "2026-10-01T00:54:13Z"
+    "observed_at": "2026-10-02T01:10:10Z"
   },
   {
     "retailer": "on_au",
@@ -88,7 +88,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1rvLOJfKfuqM5x2g6TBpWv/827ff47590ad91cd42d1dfe31781cb96/4684e4dd79f1d1dcd9c5d3483a4cd30667a0f11e.png",
     "image_path": "images/8335eff52bf4a180.png",
-    "observed_at": "2026-10-01T00:54:14Z"
+    "observed_at": "2026-10-02T01:10:12Z"
   },
   {
     "retailer": "on_au",
@@ -101,20 +101,33 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5KpsH7E9gMS9qatlamAhUa/9ba840437ea05b4cdd02e995424fec6a/971e59887f55a0cc914e1d3a9b63db693a6cec1f.png",
     "image_path": "images/0d97390c0289631e.png",
-    "observed_at": "2026-10-01T00:53:55Z"
+    "observed_at": "2026-10-02T01:09:38Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloud-6-year-of-the-horse",
+    "title": "Cloud 6 Year of the Horse",
+    "url": "https://www.on.com/en-au/products/cloud-6-m-3mg1125/mens/grizzly-grizzly-shoes-3MG11255038",
+    "price_aud": 250.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3HhzSafeXaVlUbHRRyTywh/831c6a97b1638980928606d44eb9ae7b/a6afdbcb2b10c460766802cd46a438fa5b447f2d.png",
+    "image_path": "images/09b699f9470af66f.png",
+    "observed_at": "2026-10-02T01:09:36Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloud-x-4",
     "title": "Cloud X 4",
-    "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mf1075/mens/ivory-cream-shoes-3MF10752734",
-    "price_aud": 180.0,
+    "url": "https://www.on.com/en-au/products/cloud-x-4-m-3mg1133/mens/white-arctic-shoes-3MG11332933",
+    "price_aud": 250.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2P8TMdhYkxSMk8loFojtlm/ee7344d928c041e511ca3730a44e48b8/ebad39435387ca099cc6e662b04b1c22693249b3.png",
-    "image_path": "images/655ec445abb7a46a.png",
-    "observed_at": "2026-10-01T00:54:15Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2UWyHAu0uyV1hmYI3vbfp9/9355fa4bd7a3c7b21c9d165204e34a4b/a1716e7733d8787c544ca661e4b6e23ab684195a.png",
+    "image_path": "images/66b24cea7a325d13.png",
+    "observed_at": "2026-10-02T01:09:39Z"
   },
   {
     "retailer": "on_au",
@@ -127,7 +140,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7I7fyLGAZkWRkbVOsHWATl/b4e7a47a281d58ec2bba3da2b890d191/13b934ceb921be5626b69a5307785bd0cab9dca2.png",
     "image_path": "images/15cd6fc5814f3df9.png",
-    "observed_at": "2026-10-01T00:54:14Z"
+    "observed_at": "2026-10-02T01:10:12Z"
   },
   {
     "retailer": "on_au",
@@ -140,7 +153,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/38yGyfk6RZ1HY4pV7F5Rit/cdf0e26b8c8376f180a632bafc3462fc/e74d8a335f3ec4b839e8c4cb73817f541b164c1b.png",
     "image_path": "images/222589c356e543ea.png",
-    "observed_at": "2026-10-01T00:54:16Z"
+    "observed_at": "2026-10-02T01:10:13Z"
   },
   {
     "retailer": "on_au",
@@ -153,7 +166,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5RelNmwhZ0tok7Y2lxPbpJ/44a2177a45f0b52deb2e7e94e33388ed/a00aa6f21755e5d1ba45496767481a6b30b8d16f.png",
     "image_path": "images/57a7a1ba327b381d.png",
-    "observed_at": "2026-10-01T00:54:17Z"
+    "observed_at": "2026-10-02T01:10:15Z"
   },
   {
     "retailer": "on_au",
@@ -164,9 +177,9 @@
     "price_aud": 280.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/22N0fSU2uvnWThqGh4KWyp/c7c96e57657e69b8130fd58ab827c3c2/0f71f8f406288523ac82d05dfeacdddb1934be2b.png",
-    "image_path": "images/8f8cbc0d594d8c56.png",
-    "observed_at": "2026-10-01T00:54:19Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2ZQoxTPeP1RnnF9NbDAdFQ/9f7d79521041c9ddff978d57cc512692/8660e750146020652da3bdc25a1fd6839c76a093.png",
+    "image_path": "images/f80e85d2817b712c.png",
+    "observed_at": "2026-10-02T01:10:16Z"
   },
   {
     "retailer": "on_au",
@@ -179,7 +192,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/372W5iM3NwVYSOULer5pUR/f6575ea0227d29e5f432eee0393bc1be/d7b1946603c52d741257dc931af0613bdc9758de.png",
     "image_path": "images/c3f1ba9da0267352.png",
-    "observed_at": "2026-10-01T00:54:19Z"
+    "observed_at": "2026-10-02T01:10:17Z"
   },
   {
     "retailer": "on_au",
@@ -192,7 +205,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4PRDTZqVET2BY0MkUMmaPg/1ab26bd2e88f8ae178de18baf869d67c/003051c47ebab5500c4806fa7fb6057752f1bbdb.png",
     "image_path": "images/aed1a75e8a12ee2a.png",
-    "observed_at": "2026-10-01T00:54:21Z"
+    "observed_at": "2026-10-02T01:10:19Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudboom-max",
+    "title": "Cloudboom Max",
+    "url": "https://www.on.com/en-au/products/cloudboom-max-m-3mf3031/mens/white-black-shoes-3MF30310462",
+    "price_aud": 330.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7i1M8zKDLjSNQauVluXEFr/23783c474eb5fd3ae814726fe8707253/a86342d07a57c82078e40f3015cd780a180f112f.png",
+    "image_path": "images/4b9652e6aab431a6.png",
+    "observed_at": "2026-10-02T01:10:20Z"
   },
   {
     "retailer": "on_au",
@@ -205,7 +231,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3kmmdK2fCu4t8R1Ufo94ui/f34302e28a64ee275728acfb77d3f1a1/778ce1d8f3c0751bd65c1d8a3810cafcf41ede2d.png",
     "image_path": "images/c9201bd33d677076.png",
-    "observed_at": "2026-10-01T00:53:56Z"
+    "observed_at": "2026-10-02T01:09:39Z"
   },
   {
     "retailer": "on_au",
@@ -216,9 +242,9 @@
     "price_aud": 300.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3bs7NJUhYeD7vdDApOjhgW/bc7d092f2fe8fe75f4fb63eadc831109/51bbb2e079ffc43426a526a6ff0b6258fe5bdaff.png",
-    "image_path": "images/a9cf407ff5524032.png",
-    "observed_at": "2026-10-01T00:54:21Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7FKvi2OW4qggj6ro3teb7g/ac095c923172b65ad88ae2273dcbcd8d/3f82d405a6111f9e5eed5c6c056c813e8dfc7bab.png",
+    "image_path": "images/e64e46c06d8f53e1.png",
+    "observed_at": "2026-10-02T01:10:20Z"
   },
   {
     "retailer": "on_au",
@@ -231,7 +257,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7K4T06N5JZcbzcBo7aL0Tu/290e3354946b8e33250aa16054929cc5/33fc36baa557929b525e248afa44846e2f88f37f.png",
     "image_path": "images/a9239c289b581de4.png",
-    "observed_at": "2026-10-01T00:54:22Z"
+    "observed_at": "2026-10-02T01:10:22Z"
   },
   {
     "retailer": "on_au",
@@ -244,7 +270,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/15CJHAXapaVBRdp8WPohk3/6fd8203f4331471505ee5c7df4c4b69b/usachdbje6bgoibmyvdy.png",
     "image_path": "images/8dacdc0ecef7c49b.png",
-    "observed_at": "2026-10-01T00:54:23Z"
+    "observed_at": "2026-10-02T01:10:23Z"
   },
   {
     "retailer": "on_au",
@@ -257,7 +283,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4HFmugEmIe7M0UnVajQo6T/ef693d74317a2cb196d074960a2e8c9b/959750e8c681f6c589771a830a63d0faeb6d454b.png",
     "image_path": "images/c58d290e7a12600c.png",
-    "observed_at": "2026-10-01T00:54:26Z"
+    "observed_at": "2026-10-02T01:10:25Z"
   },
   {
     "retailer": "on_au",
@@ -270,7 +296,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3lz7IsXYtG6926YPG3HJ1f/8c8e115c4594a9a446b5a1ef554d38cd/cc3ba0bb5ae9d6859d1bcd6348f8711f2edc3d7f.png",
     "image_path": "images/42da2eb31e944ebe.png",
-    "observed_at": "2026-10-01T00:54:24Z"
+    "observed_at": "2026-10-02T01:10:23Z"
   },
   {
     "retailer": "on_au",
@@ -283,7 +309,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/21XLLUf8gZLD394lqd2bBr/b99ee9ed108215ea4b3e32599dcdb684/3dac9bdb42bacd74041a100a0768d9d269098ad9.png",
     "image_path": "images/e6b4af6d4ed7367e.png",
-    "observed_at": "2026-10-01T00:54:25Z"
+    "observed_at": "2026-10-02T01:10:24Z"
   },
   {
     "retailer": "on_au",
@@ -296,7 +322,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3uhyj0KuE5v9r4HD4KeZqC/e413230a8b4bd8dea2098847eb496071/a21eca07428379b52173b14ed116b9f3d6ec6534.png",
     "image_path": "images/9b542e77631f9c2a.png",
-    "observed_at": "2026-10-01T00:54:27Z"
+    "observed_at": "2026-10-02T01:10:27Z"
   },
   {
     "retailer": "on_au",
@@ -309,7 +335,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6cA8eB6XMAjkFVGpfx8jHe/41b44c4634878948e8d0acd93ef6271c/33f7c1f2d7f95d4c8c5100b15aec3d9109666e8e.png",
     "image_path": "images/ba006adef420e227.png",
-    "observed_at": "2026-10-01T00:53:57Z"
+    "observed_at": "2026-10-02T01:09:40Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -322,20 +348,20 @@
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244206508004",
     "image_path": "images/8f174c4bee3c7dca.jpg",
-    "observed_at": "2026-10-01T00:55:25Z"
+    "observed_at": "2026-10-02T01:11:08Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudmonster",
     "title": "Cloudmonster",
-    "url": "https://www.on.com/en-au/products/cloudmonster-61/mens/frost-black-shoes-61.97728",
-    "price_aud": 160.0,
+    "url": "https://www.on.com/en-au/products/cloudmonster-m-3mf3118/mens/black-niagara-shoes-3MF31180991",
+    "price_aud": 270.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7lnTdLMZu7MjKtG7wI6gn2/8ee12afac274c0a7d37abcac92c6a557/15f3611fbaf9177df74966ba6f23680259d87fd3.png",
-    "image_path": "images/7c7b23b4d649f365.png",
-    "observed_at": "2026-10-01T00:54:33Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3C6suVi9GkiVLBkIb4H3su/7f10e7cc67c15a528bbf5cf358e28801/95166f94b1dd5f1f713bbda7b0877c2b3b2fc193.png",
+    "image_path": "images/44a36163868d3c22.png",
+    "observed_at": "2026-10-02T01:09:44Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -348,20 +374,20 @@
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244210122404",
     "image_path": "images/2b6a4f8a1912a9ec.jpg",
-    "observed_at": "2026-10-01T00:55:24Z"
+    "observed_at": "2026-10-02T01:11:08Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudmonster-1",
     "title": "Cloudmonster 1",
-    "url": "https://www.on.com/en-au/products/cloudmonster-1-m-3mf3074/mens/black-black-shoes-3MF30741043",
-    "price_aud": 280.0,
+    "url": "https://www.on.com/en-au/products/cloudmonster-1-m-3mg1118/mens/black-black-shoes-3MG11181043",
+    "price_aud": 270.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6RDhqIMgB4gzC8UO9aCtc6/45229e5b937658e805db5f266451708d/6fa0064abb9ce4479747606816a98c11ee49ff66.png",
-    "image_path": "images/d934691deb1fa28c.png",
-    "observed_at": "2026-10-01T00:54:28Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2DBBk5dJHRrungvKOK0VXF/255b7357b194ec119b87bef36bfbe36e/4179c11f0525a4363619a76dba58d550eb277e2a.png",
+    "image_path": "images/67f05fb632835f51.png",
+    "observed_at": "2026-10-02T01:09:42Z"
   },
   {
     "retailer": "on_au",
@@ -374,7 +400,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4gPDKCZfOqerFwo3rwGDf7/1ee8d04348aa148abd23d1673911c71e/03101886e3102c8def637d0e95189eeb79c32e37.png",
     "image_path": "images/e1f3ae0f9c9b9f1d.png",
-    "observed_at": "2026-10-01T00:53:58Z"
+    "observed_at": "2026-10-02T01:10:30Z"
   },
   {
     "retailer": "on_au",
@@ -387,7 +413,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/40SdsGU75LhGBzvZeOD8wa/b7f99cdc8a3b40aa7e5400261c73f5cd/129037c9dd8655041ec01af1ccace8bf532ed728.png",
     "image_path": "images/d6a11283d3df74ff.png",
-    "observed_at": "2026-10-01T00:53:59Z"
+    "observed_at": "2026-10-02T01:09:42Z"
   },
   {
     "retailer": "on_au",
@@ -400,20 +426,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1K4KwbqfSIvvIaLr5exsDk/6540124730c9c68a3c3b7f8ce3481263/430955a53d82cb0f7aa4b0af3dba9411a40f6c10.png",
     "image_path": "images/f4403d56d53772a2.png",
-    "observed_at": "2026-10-01T00:54:29Z"
+    "observed_at": "2026-10-02T01:10:30Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudmonster-3",
     "title": "Cloudmonster 3",
-    "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1005/mens/black-black-shoes-3MG10051043",
-    "price_aud": 290.0,
-    "in_stock": true,
+    "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1106/mens/black-pebble-shoes-3MG11060082",
+    "price_aud": null,
+    "in_stock": false,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5vdVazC77nwIlpSt1r12I1/7dd33e14c524c6c9f1454d2eb9eac659/b03f5cb336658aaa11c0d344860740d3faee2eb5.png",
-    "image_path": "images/0bf745e847981418.png",
-    "observed_at": "2026-10-01T00:54:31Z"
+    "image_url": null,
+    "image_path": null,
+    "observed_at": "2026-10-02T01:09:43Z"
   },
   {
     "retailer": "rebel",
@@ -426,7 +452,7 @@
     "size": "US M8",
     "image_url": "https://www.rebelsport.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dw56b3840e/images/73670601/Rebel_73670601_whitegreen_hi-res.jpg?sw=1000&sh=1000&sm=fit&q=80",
     "image_path": "images/85de5b9db6e559ed.jpg",
-    "observed_at": "2026-10-01T00:55:29Z"
+    "observed_at": "2026-10-02T01:11:10Z"
   },
   {
     "retailer": "on_au",
@@ -439,7 +465,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6oSMTxTf4noQwLESodlEKT/2b8dbcffc1a1a9dd6aaa652d8e851942/2bcb75800c22c58a9a061558d814b51db173c157.png",
     "image_path": "images/fcc126d0cc658569.png",
-    "observed_at": "2026-10-01T00:54:30Z"
+    "observed_at": "2026-10-02T01:10:32Z"
   },
   {
     "retailer": "on_au",
@@ -452,7 +478,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/B81SIh7pHYRjgzo5iAKCs/0b43c06c351e0f73c414f9a187789cb7/9340d3a38508888286114f1a9925aeff8007fcaa.png",
     "image_path": "images/e064bc1b25da708c.png",
-    "observed_at": "2026-10-01T00:54:33Z"
+    "observed_at": "2026-10-02T01:10:34Z"
   },
   {
     "retailer": "on_au",
@@ -465,7 +491,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7rpPEfakEZI7HvzJWUc4Op/3cb47aa9201a2c908d1591b0709c0a27/4d9f977881362217f2f9f2c3b91432d1d8070eb5.png",
     "image_path": "images/85dea58e05707df8.png",
-    "observed_at": "2026-10-01T00:54:33Z"
+    "observed_at": "2026-10-02T01:10:36Z"
   },
   {
     "retailer": "on_au",
@@ -478,7 +504,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7LK79zEzGyAWUFMwxWmxkD/40bd64479f123e55e16bdd83ad4b7fcb/460eab97362b74e3b5d5357970acb017dfd04864.png",
     "image_path": "images/56ff79340b4048b6.png",
-    "observed_at": "2026-10-01T00:54:34Z"
+    "observed_at": "2026-10-02T01:10:38Z"
   },
   {
     "retailer": "on_au",
@@ -491,7 +517,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/72ziROmDlNNRVSN8mLRnWi/6ffbedaa33f0f35400268a6a755579ce/237b7acc0b6935054976ed9168c5a1effa4d5627.png",
     "image_path": "images/fbe5062ccd1bc9bb.png",
-    "observed_at": "2026-10-01T00:54:35Z"
+    "observed_at": "2026-10-02T01:10:40Z"
   },
   {
     "retailer": "on_au",
@@ -504,7 +530,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/ckMCJFJNjUdC4pvjZwAJo/e10ac3bc17c6e2a6ee04fc38ddeb66a1/5562aca259a13d71e576fda24930b24d8fc38971.png",
     "image_path": "images/b36aec0b643d7300.png",
-    "observed_at": "2026-10-01T00:54:36Z"
+    "observed_at": "2026-10-02T01:10:41Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -517,7 +543,59 @@
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244207419904",
     "image_path": "images/62f3aa3ae03424a5.jpg",
-    "observed_at": "2026-10-01T00:55:25Z"
+    "observed_at": "2026-10-02T01:11:08Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudmonster-void",
+    "title": "Cloudmonster Void",
+    "url": "https://www.on.com/en-au/products/cloudmonster-void-m-3mg1091/mens/tundra-black-shoes-3MG10914908",
+    "price_aud": 280.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6HQd2VLIRxFvYaJ0o0Ho4o/6f4cf794501c146b337ae8bbc01ffdf9/89eac96a5cf7b50c4d140ea086413d8613ff068f.png",
+    "image_path": "images/4f4ba82d6472269f.png",
+    "observed_at": "2026-10-02T01:09:46Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudmuse",
+    "title": "Cloudmuse",
+    "url": "https://www.on.com/en-au/products/cloudmuse-m-3mg3110/mens/black-black-shoes-3MG31101043",
+    "price_aud": 270.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6Go3uAEhi4JbeBJpFk5uXk/aa8b02717ece79b12a47db9068085308/2eabe5906a819819e5d00702e2261917e642d33c.png",
+    "image_path": "images/53c0346b1d17c21e.png",
+    "observed_at": "2026-10-02T01:10:41Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudnova-2",
+    "title": "Cloudnova 2",
+    "url": "https://www.on.com/en-au/products/cloudnova-2-3me3021/mens/glacier-robin-shoes-3ME30214563",
+    "price_aud": 270.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5OMxYImz0nXBhqt5V7EWRw/6a56c600c3d04e3f366518f867bfe6ef/5d41def94b9cb6cd5cd040a00c8cd107bd527331.png",
+    "image_path": "images/effe90e138dbb9c1.png",
+    "observed_at": "2026-10-02T01:09:51Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudnova-form-2",
+    "title": "Cloudnova Form 2",
+    "url": "https://www.on.com/en-au/products/cloudnova-form-2-m-3mg1137/mens/wolf-ivory-shoes-3MG11372880",
+    "price_aud": 240.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5nlwsik8tQFX1fa4sbVEBk/cd6aeaaa616d129614743f08b0fd2efe/4f68c7778205a920ea71a8b03f52ef67518b6ce9.png",
+    "image_path": "images/f2cf39b8dc29600f.png",
+    "observed_at": "2026-10-02T01:09:52Z"
   },
   {
     "retailer": "on_au",
@@ -530,7 +608,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7spffSkzpS0EbMmMcqSLXX/dcdadc86e21cf61393fb46644b495f51/c9b511aafbeaab6975f58ba2b3e583f3530faae8.png",
     "image_path": "images/215d3755ee1cc9b9.png",
-    "observed_at": "2026-10-01T00:54:37Z"
+    "observed_at": "2026-10-02T01:10:43Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudnova-moon",
+    "title": "Cloudnova Moon",
+    "url": "https://www.on.com/en-au/products/cloudnova-moon-m-3mg1081/mens/fig-fig-shoes-3MG10815463",
+    "price_aud": 300.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7eRH1bI8B2FZ0EDJlqZwWT/9a93ac45bdaf9add5294c665cb0660fe/c7d6f085927b8be2e8615181e214bbc8f927444c.png",
+    "image_path": "images/315822518fd81bab.png",
+    "observed_at": "2026-10-02T01:09:53Z"
   },
   {
     "retailer": "on_au",
@@ -543,7 +634,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4xhbkEGIKXvYOVhZcqSiG6/cd5adc62f4b59fae7ba3465b999d4146/be5545d3cb451f8b1555ae651c60ba8a75ce0a9f.png",
     "image_path": "images/5a7cf8d11a0dc1a1.png",
-    "observed_at": "2026-10-01T00:54:38Z"
+    "observed_at": "2026-10-02T01:10:44Z"
+  },
+  {
+    "retailer": "on_au",
+    "category": "sneakers",
+    "product_key": "on/cloudpulse-2",
+    "title": "Cloudpulse 2",
+    "url": "https://www.on.com/en-au/products/cloudpulse-2-m-3mg1015/mens/obsidian-black-shoes-3MG10154774",
+    "price_aud": 260.0,
+    "in_stock": true,
+    "size": "US M8",
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/xKE2w0WIM0A1Zo5Ofhioc/bad5fe56fc1da2bbcd816031fc192fb5/a9a54b1afb69a339ff666cd33a0f7eb9cb38557f.png",
+    "image_path": "images/26f7417e1f4cb4c3.png",
+    "observed_at": "2026-10-02T01:10:46Z"
   },
   {
     "retailer": "on_au",
@@ -556,7 +660,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5ELirqxnYx2WezZfxnJwHe/352aaa38d920bfc1e0354641b64866d2/e96fdf733808dc23517b638d83cc1958258232c5.png",
     "image_path": "images/71fadaf9008b92e8.png",
-    "observed_at": "2026-10-01T00:54:39Z"
+    "observed_at": "2026-10-02T01:10:48Z"
   },
   {
     "retailer": "on_au",
@@ -569,7 +673,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2zG80UzUmbDobquwzl6gaa/2d1b2e3c8e5c546915f0080e0b5ca90d/7f7cf8b2bb6606607522f4da8d44094d36f6a2d4.png",
     "image_path": "images/8638ddf4d36a3c96.png",
-    "observed_at": "2026-10-01T00:54:40Z"
+    "observed_at": "2026-10-02T01:10:51Z"
   },
   {
     "retailer": "on_au",
@@ -582,7 +686,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/BrZ5Mp8ZknvgMpLP2Z7cE/ff9f5b8d69f233f70e36477685d81d09/hixtk8w8oy2wax1ny3f3.png",
     "image_path": "images/d0ea3417f088e7ff.png",
-    "observed_at": "2026-10-01T00:54:42Z"
+    "observed_at": "2026-10-02T01:10:53Z"
   },
   {
     "retailer": "on_au",
@@ -595,7 +699,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3YSJJ66dAbxSco7M5Knvgj/5a7d311fb1552f15935428b5e1ff193a/a2941f2a29cc9cca9b498dfa03a38540b26c17e1.png",
     "image_path": "images/d1e34cd6cb5fcfc2.png",
-    "observed_at": "2026-10-01T00:54:00Z"
+    "observed_at": "2026-10-02T01:09:54Z"
   },
   {
     "retailer": "on_au",
@@ -608,7 +712,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5IV1nWlD25T7w2MAU38N1E/4a1ab69582ae6426aaee4d9ab725ebca/cefe96acf6990a13e7e880f10530228ed1ec0329.png",
     "image_path": "images/3506b74e8503d85b.png",
-    "observed_at": "2026-10-01T00:54:01Z"
+    "observed_at": "2026-10-02T01:09:55Z"
   },
   {
     "retailer": "on_au",
@@ -621,7 +725,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7jji99dUlNlNDYwBnQTnLp/8901f6bf28f5926da2678483fcde2434/e1a70a0eb7a4fb64730f45fbe226d7fbd05c46b4.png",
     "image_path": "images/9a60c0e6a9d45c44.png",
-    "observed_at": "2026-10-01T00:54:44Z"
+    "observed_at": "2026-10-02T01:10:53Z"
   },
   {
     "retailer": "on_au",
@@ -634,7 +738,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3rln07O61RZQQOFQIyEd7J/376786f7db5fa7f0e4e60b37681b3ccf/20efddefca706ae0be22d306dc71fd788d02bcdb.png",
     "image_path": "images/d5d01b1a023640b0.png",
-    "observed_at": "2026-10-01T00:54:44Z"
+    "observed_at": "2026-10-02T01:10:56Z"
   },
   {
     "retailer": "rebel",
@@ -647,7 +751,7 @@
     "size": "US M8",
     "image_url": "https://www.rebelsport.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dw70955e38/images/70472501/Rebel_70472501_whitegrey_hi-res.jpg?sw=1000&sh=1000&sm=fit&q=80",
     "image_path": "images/f216e094acef3f26.jpg",
-    "observed_at": "2026-10-01T00:55:31Z"
+    "observed_at": "2026-10-02T01:11:12Z"
   },
   {
     "retailer": "on_au",
@@ -660,7 +764,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5ao74fMRx77L6JcmUV87qA/a1e8c6ea396424d30dcaa401dd8d4c8e/a97d07a2c19e39f3c1ad88906b1cb78b23818ed8.png",
     "image_path": "images/3d605d1ad97945da.png",
-    "observed_at": "2026-10-01T00:54:45Z"
+    "observed_at": "2026-10-02T01:10:57Z"
   },
   {
     "retailer": "on_au",
@@ -671,9 +775,9 @@
     "price_aud": 260.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1QjwHceNA94ti21RaGnvwX/6307d3733d125603b536e4eb55b66e7a/68311c68c650fc0d7f9231be8b3f21198e5bf225.png",
-    "image_path": "images/d10a279ae3dc3b29.png",
-    "observed_at": "2026-10-01T00:54:46Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7aMsEwWOA9NWiZaMzrq6Le/33d52f9297db288f1202178b87f856c4/6b3d75ef68589e0d6e2cc82c2fcf56165ba12ff7.png",
+    "image_path": "images/6d7899fbd6702d6c.png",
+    "observed_at": "2026-10-02T01:10:57Z"
   },
   {
     "retailer": "rebel",
@@ -686,7 +790,7 @@
     "size": "US M8",
     "image_url": "https://www.rebelsport.com.au/dw/image/v2/BBRV_PRD/on/demandware.static/-/Sites-srg-internal-master-catalog/default/dw5156e166/images/73681201/Rebel_73681201_greyblue_hi-res.jpg?sw=1000&sh=1000&sm=fit&q=80",
     "image_path": "images/a25b5ec0c18e6085.jpg",
-    "observed_at": "2026-10-01T00:55:30Z"
+    "observed_at": "2026-10-02T01:11:11Z"
   },
   {
     "retailer": "on_au",
@@ -697,9 +801,9 @@
     "price_aud": 290.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5gqdhB2rOPMNdB780rifAD/99418030dcb6324eb1e97cc2f006dcd2/deb096edb9072a63d0e19919197b5f2d6ec958d4.png",
-    "image_path": "images/5c625284010b8711.png",
-    "observed_at": "2026-10-01T00:54:47Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/42Zl8WDYkr4gKLdqBjivna/758bd4dd69c532fc12dfd3a16ec9f7b6/6406a52f26aefe965882adbcc7e3b15cad909327.png",
+    "image_path": "images/6507cb9b669c9b65.png",
+    "observed_at": "2026-10-02T01:10:59Z"
   },
   {
     "retailer": "on_au",
@@ -712,7 +816,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/51SUxShRumTkscxCDzDJpq/9d838ff509e9e7a5e2e84ccc6a3ae9c1/fd6d1f03687f63a78074ba52b9c2738f7615df57.png",
     "image_path": "images/27f96745a1340468.png",
-    "observed_at": "2026-10-01T00:54:46Z"
+    "observed_at": "2026-10-02T01:10:58Z"
   },
   {
     "retailer": "on_au",
@@ -725,7 +829,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5EzLPr1JguyHGZuMrEJReB/17ebad5135733c4ee8bec29e00c9e4bc/9a153380bcea69ab1ba3660ab027363ddf7e8800.png",
     "image_path": "images/1ca6c9c2c7e6f9f0.png",
-    "observed_at": "2026-10-01T00:54:48Z"
+    "observed_at": "2026-10-02T01:11:00Z"
   },
   {
     "retailer": "on_au",
@@ -738,20 +842,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1MPtbyftiM5KWsC3S6QeEu/b335ed1c6e2f6d7f60ba6f62d1ed5115/8c334f34768b8d2fd133b5bed2facbe9f5f7f79a.png",
     "image_path": "images/ab9fda4f38339578.png",
-    "observed_at": "2026-10-01T00:54:49Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsoma",
-    "title": "Cloudsoma",
-    "url": "https://www.on.com/en-au/products/cloudsoma-m-3mf3065/mens/black-black-shoes-3MF30651043",
-    "price_aud": 280.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3PA0kxUDcf9tNcs8jODIkg/541c8dbf12d2d52b96fe30dfb2f49493/422ebf8a26e6db32423b3bd598b66521c8baa74f.png",
-    "image_path": "images/45ed2a26651091c8.png",
-    "observed_at": "2026-10-01T00:54:51Z"
+    "observed_at": "2026-10-02T01:11:02Z"
   },
   {
     "retailer": "on_au",
@@ -764,59 +855,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/11S6yTgC1c4PVcY8OsddL8/6f293dc6a9aa2ae4d65f2eb08a31690c/ad321fd1fa5e3e124e1c7add5681fee86d18f6d2.png",
     "image_path": "images/8aef70b166c35221.png",
-    "observed_at": "2026-10-01T00:54:50Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsoma-moc",
-    "title": "Cloudsoma Moc",
-    "url": "https://www.on.com/en-au/products/cloudsoma-moc-m-3mg3022/mens/acacia-acacia-shoes-3MG30226024",
-    "price_aud": 240.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6kAIipulX1BP8HiahU1KZC/a097e54ef06203e47d9cb7d91ce34cb5/e2aaf76754128a143516dfcfe9b2e40a1bc74509.png",
-    "image_path": "images/21cc6a9557f18738.png",
-    "observed_at": "2026-10-01T00:54:52Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsoma-paf",
-    "title": "Cloudsoma PAF",
-    "url": "https://www.on.com/en-au/products/cloudsoma-paf-m-3mg3078/mens/black-black-shoes-3MG30781043",
-    "price_aud": 300.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/3n4gUG2lM2RPEvTQp0vUQK/3853f65bea587ac8951c10afa9ca9b3c/a04d0d7f8e30297772a0b8efa5ea848391974db6.png",
-    "image_path": "images/83d0ae3fc62b48a8.png",
-    "observed_at": "2026-10-01T00:54:52Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudspike-citius-2",
-    "title": "Cloudspike Citius 2",
-    "url": "https://www.on.com/en-au/products/cloudspike-citius-2-m-3mf1030/mens/bloom-lime-shoes-3MF10304849",
-    "price_aud": 260.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4ZX2ZwthNYJQYOLZ1y4tGQ/ba12509d97688f67ec2e369934ad5ea3/b818791decacd7e0ad122dfe7c9207dfd50c7e11.png",
-    "image_path": "images/0ae250aa80a01e9d.png",
-    "observed_at": "2026-10-01T00:54:54Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudspike-xc",
-    "title": "Cloudspike XC",
-    "url": "https://www.on.com/en-au/products/cloudspike-xc-3me3032/mens/frost-white-shoes-3ME30320622",
-    "price_aud": 200.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4s0RIeoYDAKDePvgUfKccu/71d6616eaf2bd5e2f5b620f5877f0f03/55f80115f36a84fb788940ff802d41e67a7aa8c7.png",
-    "image_path": "images/7117b3061a54c35b.png",
-    "observed_at": "2026-10-01T00:54:55Z"
+    "observed_at": "2026-10-02T01:11:03Z"
   },
   {
     "retailer": "on_au",
@@ -829,20 +868,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/11t98t9P1BVGYQf5RbhrbT/f741aa2eb29623655e72706c6d86a14c/053f9c17339c83c23b06550668edf8a6d6c55278.png",
     "image_path": "images/28f8cbd2f09f8b02.png",
-    "observed_at": "2026-10-01T00:54:02Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsurfer-2",
-    "title": "Cloudsurfer 2",
-    "url": "https://www.on.com/en-au/products/cloudsurfer-2-3mf1012/mens/black-black-shoes-3MF10121043",
-    "price_aud": 260.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/7LfgRzYDLMUFSfMDVqblUB/099359827c7557de3a1705a262c95927/0c144b410bab62b75a089e0ed02ccfbd540924c6.png",
-    "image_path": "images/acb07f54bbe87ba1.png",
-    "observed_at": "2026-10-01T00:54:56Z"
+    "observed_at": "2026-10-02T01:09:56Z"
   },
   {
     "retailer": "on_au",
@@ -855,7 +881,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/LMLCohNbts0agaEZyi251/cc2917af90162827f58d301606e1e77f/0440c81bdfdcfa0031ff8c224cfb9ea95561a517.png",
     "image_path": "images/fe5baee9f373b5df.png",
-    "observed_at": "2026-10-01T00:54:58Z"
+    "observed_at": "2026-10-02T01:09:58Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -868,46 +894,7 @@
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244207217704",
     "image_path": "images/e592acde03d4fba7.jpg",
-    "observed_at": "2026-10-01T00:55:25Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsurfer-next",
-    "title": "Cloudsurfer Next",
-    "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/black-black-shoes-3ME30021043",
-    "price_aud": 250.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/65RxgsOBLuIc5I4kwPTqPh/91f6958a7c047bcc7198b594b2c6172f/e4b201f500d27abcdb0a18ccd94db0b06c3f2e86.png",
-    "image_path": "images/b02efa9fa56617a8.png",
-    "observed_at": "2026-10-01T00:55:04Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsurfer-next-wide",
-    "title": "Cloudsurfer Next Wide",
-    "url": "https://www.on.com/en-au/products/cloudsurfer-next-wide-3me3019/mens/black-eclipse-shoes-3ME30190106",
-    "price_aud": 150.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4GgnLNeEZan6qy5GylqA4i/470d521e1f9c41a2187c15f8e0f22c8e/0d22dcdbfbca24ea168a848183085673bbfe075c.png",
-    "image_path": "images/3baafddbf8d1553b.png",
-    "observed_at": "2026-10-01T00:55:05Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudsurfer-next-z5",
-    "title": "Cloudsurfer Next Z5",
-    "url": "https://www.on.com/en-au/products/cloudsurfer-next-z5-m-3mf1032/mens/canyon-white-shoes-3MF10323004",
-    "price_aud": 125.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4hdT9qyoz7xJX6hsVlEye5/6a234fca4e36e82a624a4a0464449adc/f4eeb48f077e455b12c5e91102bc880f30c320f0.png",
-    "image_path": "images/4a763947be169460.png",
-    "observed_at": "2026-10-01T00:55:06Z"
+    "observed_at": "2026-10-02T01:11:08Z"
   },
   {
     "retailer": "on_au",
@@ -920,33 +907,33 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/2DuQoX0PzOwbyPpF2iOCoW/90eb5ae0a92b63209088a3785c097bfc/1b0014ccbf137d092036b7685d38f5ae60841d0c.png",
     "image_path": "images/8aa3d4ba54b1d777.png",
-    "observed_at": "2026-10-01T00:54:03Z"
+    "observed_at": "2026-10-02T01:09:59Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudswift-4",
     "title": "Cloudswift 4",
-    "url": "https://www.on.com/en-au/products/cloudswift-4-3mf1013/mens/black-eclipse-shoes-3MF10130106",
-    "price_aud": 270.0,
+    "url": "https://www.on.com/en-au/products/cloudswift-4-m-3mg1096/mens/black-white-shoes-3MG10960299",
+    "price_aud": 260.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6I6U4apoi8DzaPXVmxJ99i/8f643a8dc05ddb18b4a780089c845b20/4e8c43a96e8dbebcb5c8701a87f571927a7cbbf7.png",
-    "image_path": "images/7df284b22906aade.png",
-    "observed_at": "2026-10-01T00:55:08Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1b6ue1p9y9AFcg6R3DFZaF/5d850771858480300a49c956fc05bb1c/5d51b7fde78dad5b6eae093b1d434acd501793f9.png",
+    "image_path": "images/bc0228ec4f1f661c.png",
+    "observed_at": "2026-10-02T01:09:59Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudswift-amp",
     "title": "Cloudswift Amp",
-    "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1046/mens/black-black-shoes-3MG10461043",
-    "price_aud": 280.0,
-    "in_stock": true,
+    "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1103/mens/black-gourami-shoes-3MG11035615",
+    "price_aud": null,
+    "in_stock": false,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1hp8i8fdQDZ8sP5sqrI8ot/8798f5ed272446a0eb5632e195608b41/aba7afa493c48aed6d13f8f3d5854bdcfc689fa7.png",
-    "image_path": "images/31b819ef5c49fba5.png",
-    "observed_at": "2026-10-01T00:55:10Z"
+    "image_url": null,
+    "image_path": null,
+    "observed_at": "2026-10-02T01:09:59Z"
   },
   {
     "retailer": "foot_locker_au",
@@ -959,111 +946,33 @@
     "size": "US M8",
     "image_url": "https://images.footlocker.com/is/image/EBFL2/244207421504",
     "image_path": "images/5b121858d92305f4.jpg",
-    "observed_at": "2026-10-01T00:55:24Z"
+    "observed_at": "2026-10-02T01:11:08Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudtilt",
     "title": "Cloudtilt",
-    "url": "https://www.on.com/en-au/products/cloudtilt-m-3me1010/mens/black-ivory-shoes-3ME10101430",
+    "url": "https://www.on.com/en-au/products/cloudtilt-m-3mf3112/mens/dust-midnight-shoes-3MF31125551",
     "price_aud": 260.0,
     "in_stock": true,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/5M3Fv7mEyNSmDNBc3T8wwT/a3fd29c09ac32085b860cd15072b54db/cfe88ff78f78db4608b431c8224f8fdbc1cb3b8d.png",
-    "image_path": "images/a4b8d198dcbe6131.png",
-    "observed_at": "2026-10-01T00:55:14Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudtilt-arc",
-    "title": "Cloudtilt Arc",
-    "url": "https://www.on.com/en-au/products/cloudtilt-arc-m-3mg3033/mens/alloy-ivory-shoes-3MG30333228",
-    "price_aud": 280.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6QlaTEmWUhiYF2xqvLYpkb/9e2cb8e4280f65410ef2bf9d6cd25d68/1a3bf1a2b2c43504d8bb6e09b9ae2720aa8547ea.png",
-    "image_path": "images/5d1c2a62121a1342.png",
-    "observed_at": "2026-10-01T00:55:11Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudtilt-loewe",
-    "title": "Cloudtilt LOEWE",
-    "url": "https://www.on.com/en-au/products/cloudtilt-loewe-3md3033/mens/blue-shoes-3MD30334190",
-    "price_aud": 750.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6yoYh74PhSUsN5d2qYavf0/03f4fc28da8cf582261d6953b90fb173/df2353a6d88ad519066c11137bdf0faa5d526a31.png",
-    "image_path": "images/724242e0cdbd8028.png",
-    "observed_at": "2026-10-01T00:55:12Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudtilt-moon",
-    "title": "Cloudtilt Moon",
-    "url": "https://www.on.com/en-au/products/cloudtilt-moon-m-3mf3067/mens/black-black-shoes-3MF30671043",
-    "price_aud": 300.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1TY0g1woZLYC1ARFnU3aok/fa20a6e64df884dd573a32cfc325c633/fa52e96da3ba05742f0f92a91e885ca3f1e35400.png",
-    "image_path": "images/d4d85d24cc0e7f1e.png",
-    "observed_at": "2026-10-01T00:55:15Z"
+    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/LT19f9owrzifQFUmLrxbZ/01426345538fce0afa6df48d59b332cd/e4583345cd5680d28f35fc2484235ecb65eb3382.png",
+    "image_path": "images/e392637b3ae6e580.png",
+    "observed_at": "2026-10-02T01:10:01Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudtilt-remix",
     "title": "Cloudtilt Remix",
-    "url": "https://www.on.com/en-au/products/cloudtilt-remix-m-3mg1027/mens/ash-espresso-shoes-3MG10275228",
-    "price_aud": 270.0,
-    "in_stock": true,
+    "url": "https://www.on.com/en-au/products/cloudtilt-remix-m-3mg1129/mens/dust-heather-shoes-3MG11295211",
+    "price_aud": null,
+    "in_stock": false,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/G4XI0GnCSgxV2WhRgB4OU/840f7ac593f3c856cc7b5ddc83e44162/4f508dc7e006b9766a247ff00c632a3f6a7e01d7.png",
-    "image_path": "images/9045de7c2abf22a4.png",
-    "observed_at": "2026-10-01T00:55:17Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudultra-2",
-    "title": "Cloudultra 2",
-    "url": "https://www.on.com/en-au/products/cloudultra-2-3md3028/mens/all-black-shoes-3MD30280485",
-    "price_aud": 165.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/1jLg2oBLNqV9aDxOTnSy6B/ff94b82b2663e29c51d40fafd34ac919/8e1032c0e388497795a1a73bc892efa5870b2468.png",
-    "image_path": "images/63e7247de32e13e1.png",
-    "observed_at": "2026-10-01T00:55:18Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudultra-3",
-    "title": "Cloudultra 3",
-    "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043",
-    "price_aud": 230.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6ZPH21wcZThN2UX4OUYqjW/2d165774d3f430a83948e2d488b73bb3/3719b57c0a8dd8f04856220ea0df603f0999af96.png",
-    "image_path": "images/1993ff331da61ff1.png",
-    "observed_at": "2026-10-01T00:55:19Z"
-  },
-  {
-    "retailer": "on_au",
-    "category": "sneakers",
-    "product_key": "on/cloudultra-pro",
-    "title": "Cloudultra Pro",
-    "url": "https://www.on.com/en-au/products/cloudultra-pro-m-3mf3017/mens/ivory-celeste-shoes-3MF30175298",
-    "price_aud": 360.0,
-    "in_stock": true,
-    "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/77isAFPy34fHOboXecjorx/b0c144ae1d2cf8dc6eb0515484dd3f4c/4e6fdee7be02085a5fa8d03863933eff827050a5.png",
-    "image_path": "images/5711b5cfb8cc7fb2.png",
-    "observed_at": "2026-10-01T00:55:20Z"
+    "image_url": null,
+    "image_path": null,
+    "observed_at": "2026-10-02T01:10:01Z"
   },
   {
     "retailer": "on_au",
@@ -1076,7 +985,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4AZaipkvOQYzFWUBz2UldQ/15c82e77cdb873aa73f95d65c9a77dfb/c662fcd9bb413791955498cf225d1c7fcc4b3e2c.png",
     "image_path": "images/b0064ea88371ff8c.png",
-    "observed_at": "2026-10-01T00:54:04Z"
+    "observed_at": "2026-10-02T01:10:02Z"
   },
   {
     "retailer": "on_au",
@@ -1089,20 +998,20 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/kDmT3hJIJNEanZAZQpc3x/6a08afc6c8a0b360f4d1fd8d8a755496/c3bef4d4a5c0300782a6fdd2760a5c75c2903e9b.png",
     "image_path": "images/08c73162641c9525.png",
-    "observed_at": "2026-10-01T00:54:06Z"
+    "observed_at": "2026-10-02T01:10:03Z"
   },
   {
     "retailer": "on_au",
     "category": "sneakers",
     "product_key": "on/cloudvista-2",
     "title": "Cloudvista 2",
-    "url": "https://www.on.com/en-au/products/cloudvista-2-3me3011/mens/cream-desert-shoes-3ME30113323",
-    "price_aud": 150.0,
-    "in_stock": true,
+    "url": "https://www.on.com/en-au/products/cloudvista-2-m-3mg1101/mens/eclipse-robin-shoes-3MG11014931",
+    "price_aud": null,
+    "in_stock": false,
     "size": "US M8",
-    "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/4YeOAytGZUgVbT2owaHIBR/172939124653d441c4792348d022027d/359aaa31179edb5093dc045aafa1aa89f6f8001e.png",
-    "image_path": "images/12cd5a9f34c09ce0.png",
-    "observed_at": "2026-10-01T00:55:22Z"
+    "image_url": null,
+    "image_path": null,
+    "observed_at": "2026-10-02T01:10:04Z"
   },
   {
     "retailer": "on_au",
@@ -1115,7 +1024,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/6l4sQUXB3MW1wHDeMZrTXU/01fdbc38898a60677f13c7dc4358b05b/e386434a32da667fbaa660c84052e865347500f2.png",
     "image_path": "images/431264a47002abb8.png",
-    "observed_at": "2026-10-01T00:54:06Z"
+    "observed_at": "2026-10-02T01:10:05Z"
   },
   {
     "retailer": "on_au",
@@ -1128,7 +1037,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/wLe5sfp6JZgLISKKPNQGv/98626a313ac577c4095d798af61b564e/86c5f1ef86ef6471f2f241f4e570c9621e4fe93c.png",
     "image_path": "images/0af58979b5016dbe.png",
-    "observed_at": "2026-10-01T00:54:07Z"
+    "observed_at": "2026-10-02T01:10:06Z"
   },
   {
     "retailer": "on_au",
@@ -1141,7 +1050,7 @@
     "size": "US M8",
     "image_url": "https://images.ctfassets.net/hnk2vsx53n6l/63kPMQZ9MkQciMCmKnsMkY/4a209d2b974c9249a41e2beaabe15ae3/d75565dbbde027e463e9df52d7d5a38ee6efe726.png",
     "image_path": "images/1ce6bee9ec365896.png",
-    "observed_at": "2026-10-01T00:54:08Z"
+    "observed_at": "2026-10-02T01:10:06Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1154,7 +1063,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50091662_923976.png?v=1776231517",
     "image_path": "images/57317a5d04f083eb.png",
-    "observed_at": "2026-10-01T00:56:24Z"
+    "observed_at": "2026-10-02T01:12:03Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1167,7 +1076,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50073103_737255.png?v=1776227327",
     "image_path": "images/7b56cca643d49eef.png",
-    "observed_at": "2026-10-01T00:56:23Z"
+    "observed_at": "2026-10-02T01:12:02Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1180,7 +1089,7 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50073104_737244.png?v=1776226874",
     "image_path": "images/1e786e3b48058233.png",
-    "observed_at": "2026-10-01T00:56:21Z"
+    "observed_at": "2026-10-02T01:12:01Z"
   },
   {
     "retailer": "the_good_guys",
@@ -1193,6 +1102,6 @@
     "size": null,
     "image_url": "https://cdn.shopify.com/s/files/1/0641/9388/8321/files/50091663_923975.png?v=1776227125",
     "image_path": "images/4674c5247ae0a5b0.png",
-    "observed_at": "2026-10-01T00:56:26Z"
+    "observed_at": "2026-10-02T01:12:05Z"
   }
 ]
