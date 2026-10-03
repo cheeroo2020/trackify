@@ -18,12 +18,18 @@
       "observed_at": "2026-07-30T22:55:37Z",
       "price_aud": 140.0,
       "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3md1064/mens/all-white-shoes-3MD10640108"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-03T00:49:19Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/white-wash-shoes-3MF30641443"
     }
   ],
-  "image_path": "images/cddceddbae1a1838.png",
+  "image_path": "images/1004eb7086502b28.png",
   "product_key": "on/the-roger-advantage",
   "retailer": "on_au",
   "size": "US M8",
   "title": "THE ROGER Advantage",
-  "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3md1064/mens/all-white-shoes-3MD10640108"
+  "url": "https://www.on.com/en-au/products/the-roger-advantage-m-3mf3064/mens/white-wash-shoes-3MF30641443"
 }

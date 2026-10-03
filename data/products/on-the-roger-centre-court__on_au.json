@@ -18,12 +18,18 @@
       "observed_at": "2026-10-02T01:10:06Z",
       "price_aud": 230.0,
       "url": "https://www.on.com/en-au/products/the-roger-centre-court-m-3md1127/mens/white-malibu-shoes-3MD11272840"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-03T00:49:21Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/the-roger-centre-court-m-3mg1048/mens/ivory-fern-shoes-3MG10486046"
     }
   ],
-  "image_path": "images/1ce6bee9ec365896.png",
+  "image_path": "images/b7bb1347a4d7fd06.png",
   "product_key": "on/the-roger-centre-court",
   "retailer": "on_au",
   "size": "US M8",
   "title": "THE ROGER Centre Court",
-  "url": "https://www.on.com/en-au/products/the-roger-centre-court-m-3md1127/mens/white-malibu-shoes-3MD11272840"
+  "url": "https://www.on.com/en-au/products/the-roger-centre-court-m-3mg1048/mens/ivory-fern-shoes-3MG10486046"
 }
