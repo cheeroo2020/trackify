@@ -18,12 +18,18 @@
       "observed_at": "2026-10-05T00:18:12Z",
       "price_aud": 380.0,
       "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/juniper-limelight-shoes-3ME30484834"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-06T01:58:56Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/limelight-wolf-shoes-3ME30483331"
     }
   ],
-  "image_path": "images/7a7b4d0bf5e444fe.png",
+  "image_path": "images/c9201bd33d677076.png",
   "product_key": "on/cloudboom-strike",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudboom Strike",
-  "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/juniper-limelight-shoes-3ME30484834"
+  "url": "https://www.on.com/en-au/products/cloudboom-strike-3me3048/mens/limelight-wolf-shoes-3ME30483331"
 }

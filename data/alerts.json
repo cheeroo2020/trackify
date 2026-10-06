@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "product_key": "on/cloudflow-5",
+    "retailer": "on_au",
+    "title": "Cloudflow 5",
+    "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/arctic-stone-shoes-3MF10113306",
+    "new_price": 140.0,
+    "previous_low": 165.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  },
+  {
+    "product_key": "on/cloudrock-low-beams-rei",
+    "retailer": "on_au",
+    "title": "Cloudrock Low BEAMS REI",
+    "url": "https://www.on.com/en-au/products/cloudrock-low-beams-rei-m-3mf3071/mens/earth-black-shoes-3MF30714228",
+    "new_price": 220.0,
+    "previous_low": 320.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]

@@ -18,12 +18,18 @@
       "observed_at": "2026-10-05T00:18:12Z",
       "price_aud": 280.0,
       "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/black-black-shoes-3MF10111043"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-06T01:59:37Z",
+      "price_aud": 140.0,
+      "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/arctic-stone-shoes-3MF10113306"
     }
   ],
-  "image_path": "images/c58d290e7a12600c.png",
+  "image_path": "images/c1c87eb747b42111.png",
   "product_key": "on/cloudflow-5",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudflow 5",
-  "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/black-black-shoes-3MF10111043"
+  "url": "https://www.on.com/en-au/products/cloudflow-5-m-3mf1011/mens/arctic-stone-shoes-3MF10113306"
 }
