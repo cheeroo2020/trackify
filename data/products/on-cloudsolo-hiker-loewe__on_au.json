@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-16T00:00:26Z",
+      "price_aud": 1310.0,
+      "url": "https://www.on.com/en-au/products/cloudsolo-hiker-m-3mg3091/mens/black-shoes-3MG30910553"
+    }
+  ],
+  "image_path": "images/6d4c973ec87e434a.png",
+  "product_key": "on/cloudsolo-hiker-loewe",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsolo Hiker LOEWE",
+  "url": "https://www.on.com/en-au/products/cloudsolo-hiker-m-3mg3091/mens/black-shoes-3MG30910553"
+}

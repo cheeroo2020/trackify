@@ -24,12 +24,18 @@
       "observed_at": "2026-10-15T00:11:26Z",
       "price_aud": null,
       "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1106/mens/black-pebble-shoes-3MG11060082"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-16T00:00:01Z",
+      "price_aud": 230.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1005/mens/black-black-shoes-3MG10051043"
     }
   ],
-  "image_path": "images/0bf745e847981418.png",
+  "image_path": "images/0ee766b12c527042.png",
   "product_key": "on/cloudmonster-3",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudmonster 3",
-  "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1106/mens/black-pebble-shoes-3MG11060082"
+  "url": "https://www.on.com/en-au/products/cloudmonster-3-m-3mg1005/mens/black-black-shoes-3MG10051043"
 }
