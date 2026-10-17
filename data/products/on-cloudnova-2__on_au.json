@@ -12,6 +12,12 @@
       "observed_at": "2026-10-15T23:59:13Z",
       "price_aud": 270.0,
       "url": "https://www.on.com/en-au/products/cloudnova-2-3me3021/mens/all-black-shoes-3ME30210485"
+    },
+    {
+      "in_stock": false,
+      "observed_at": "2026-10-17T00:01:42Z",
+      "price_aud": null,
+      "url": "https://www.on.com/en-au/products/cloudnova-2-m-3mg1108/mens/black-eclipse-shoes-3MG11080106"
     }
   ],
   "image_path": "images/effe90e138dbb9c1.png",
@@ -19,5 +25,5 @@
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudnova 2",
-  "url": "https://www.on.com/en-au/products/cloudnova-2-3me3021/mens/glacier-robin-shoes-3ME30214563"
+  "url": "https://www.on.com/en-au/products/cloudnova-2-m-3mg1108/mens/black-eclipse-shoes-3MG11080106"
 }
