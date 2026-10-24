@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-24T23:51:42Z",
+      "price_aud": 179.95,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudtilt-remix-men-shoes/244210130704.html"
+    }
+  ],
+  "image_path": "images/33934b62bdbb0e51.jpg",
+  "product_key": "on/cloudtilt-remix",
+  "retailer": "foot_locker_au",
+  "size": "US M8",
+  "title": "Cloudtilt Remix",
+  "url": "https://www.footlocker.com.au/en/product/on-cloudtilt-remix-men-shoes/244210130704.html"
+}
