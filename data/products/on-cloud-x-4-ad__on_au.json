@@ -6,12 +6,18 @@
       "observed_at": "2026-10-28T00:48:54Z",
       "price_aud": 175.0,
       "url": "https://www.on.com/en-au/products/cloud-x-4-ad-3mf1026/mens/white-wolf-shoes-3MF10262852"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-10-29T01:22:26Z",
+      "price_aud": 250.0,
+      "url": "https://www.on.com/en-au/products/cloud-x-4-ad-3mf1026/mens/black-asphalt-shoes-3MF10260397"
     }
   ],
-  "image_path": "images/15cd6fc5814f3df9.png",
+  "image_path": "images/a22d9c524386b2ab.png",
   "product_key": "on/cloud-x-4-ad",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloud X 4 AD",
-  "url": "https://www.on.com/en-au/products/cloud-x-4-ad-3mf1026/mens/white-wolf-shoes-3MF10262852"
+  "url": "https://www.on.com/en-au/products/cloud-x-4-ad-3mf1026/mens/black-asphalt-shoes-3MF10260397"
 }
