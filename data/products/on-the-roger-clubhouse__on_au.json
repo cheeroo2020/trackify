@@ -18,9 +18,15 @@
       "observed_at": "2026-11-02T01:07:15Z",
       "price_aud": 240.0,
       "url": "https://www.on.com/en-au/products/the-roger-clubhouse-3mf1054/mens/black-white-shoes-3MF10540299"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-03T03:09:17Z",
+      "price_aud": 165.0,
+      "url": "https://www.on.com/en-au/products/the-roger-clubhouse-3mf1054/mens/white-chalk-shoes-3MF10544880"
     }
   ],
-  "image_path": "images/22127c0d587918c5.png",
+  "image_path": "images/9902f120dcb65220.png",
   "product_key": "on/the-roger-clubhouse",
   "retailer": "on_au",
   "size": "US M8",
