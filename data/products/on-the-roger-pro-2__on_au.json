@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-05T01:53:59Z",
+      "price_aud": 210.0,
+      "url": "https://www.on.com/en-au/products/the-roger-pro-2-m-3me1030/mens/pink-grenadine-shoes-3ME10303602"
+    }
+  ],
+  "image_path": "images/6c4589bd2a9f3296.png",
+  "product_key": "on/the-roger-pro-2",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "THE ROGER Pro 2",
+  "url": "https://www.on.com/en-au/products/the-roger-pro-2-m-3me1030/mens/pink-grenadine-shoes-3ME10303602"
+}
