@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-06T01:53:09Z",
+      "price_aud": 360.0,
+      "url": "https://www.on.com/en-au/products/cloud-low-wp-shfg-m-3mg3093/mens/black-black-shoes-3MG30931043"
+    }
+  ],
+  "image_path": "images/ce01a6179102ba54.png",
+  "product_key": "on/cloud-low-waterproof-shg",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloud Low Waterproof SHG",
+  "url": "https://www.on.com/en-au/products/cloud-low-wp-shfg-m-3mg3093/mens/black-black-shoes-3MG30931043"
+}
