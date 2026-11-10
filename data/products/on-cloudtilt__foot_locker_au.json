@@ -6,6 +6,12 @@
       "observed_at": "2026-11-09T01:18:53Z",
       "price_aud": 199.95,
       "url": "https://www.footlocker.com.au/en/product/on-cloudtilt-men-shoes/244210125704.html"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-10T03:54:50Z",
+      "price_aud": 179.95,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudtilt-men-shoes/244210127304.html"
     }
   ],
   "image_path": "images/5b121858d92305f4.jpg",
@@ -13,5 +19,5 @@
   "retailer": "foot_locker_au",
   "size": "US M8",
   "title": "Cloudtilt",
-  "url": "https://www.footlocker.com.au/en/product/on-cloudtilt-men-shoes/244210126504.html"
+  "url": "https://www.footlocker.com.au/en/product/on-cloudtilt-men-shoes/244210127304.html"
 }

@@ -12,12 +12,18 @@
       "observed_at": "2026-11-09T01:18:02Z",
       "price_aud": null,
       "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1103/mens/black-gourami-shoes-3MG11035615"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-10T03:54:47Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1046/mens/black-black-shoes-3MG10461043"
     }
   ],
-  "image_path": "images/31b819ef5c49fba5.png",
+  "image_path": "images/2788326266e3155c.png",
   "product_key": "on/cloudswift-amp",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudswift Amp",
-  "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1103/mens/black-gourami-shoes-3MG11035615"
+  "url": "https://www.on.com/en-au/products/cloudswift-amp-m-3mg1046/mens/black-black-shoes-3MG10461043"
 }

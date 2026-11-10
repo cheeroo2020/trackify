@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-10T03:54:45Z",
+      "price_aud": 135.0,
+      "url": "https://www.on.com/en-au/products/cloudswift-4-ad-3mf1057/mens/alloy-frost-shoes-3MF10572303"
+    }
+  ],
+  "image_path": "images/44c2125d568d0f37.png",
+  "product_key": "on/cloudswift-4-ad",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudswift 4 AD",
+  "url": "https://www.on.com/en-au/products/cloudswift-4-ad-3mf1057/mens/alloy-frost-shoes-3MF10572303"
+}
