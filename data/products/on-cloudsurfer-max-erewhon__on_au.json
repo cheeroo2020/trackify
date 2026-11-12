@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-12T02:37:07Z",
+      "price_aud": 300.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-max-erewhon-m-3mg1094/mens/cinder-black-shoes-3MG10942986"
+    }
+  ],
+  "image_path": "images/74d2f21e6a8cab29.png",
+  "product_key": "on/cloudsurfer-max-erewhon",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudsurfer Max Erewhon",
+  "url": "https://www.on.com/en-au/products/cloudsurfer-max-erewhon-m-3mg1094/mens/cinder-black-shoes-3MG10942986"
+}
