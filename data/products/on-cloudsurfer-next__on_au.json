@@ -12,12 +12,18 @@
       "observed_at": "2026-11-12T02:37:11Z",
       "price_aud": 250.0,
       "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/black-black-shoes-3ME30021043"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-13T02:13:54Z",
+      "price_aud": 125.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/sailor-iceberg-shoes-3ME30024476"
     }
   ],
-  "image_path": "images/b02efa9fa56617a8.png",
+  "image_path": "images/86fb2406ebbf251b.png",
   "product_key": "on/cloudsurfer-next",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudsurfer Next",
-  "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/black-black-shoes-3ME30021043"
+  "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/sailor-iceberg-shoes-3ME30024476"
 }

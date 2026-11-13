@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "product_key": "on/cloudsurfer-next",
+    "retailer": "on_au",
+    "title": "Cloudsurfer Next",
+    "url": "https://www.on.com/en-au/products/cloudsurfer-next-3me3002/mens/sailor-iceberg-shoes-3ME30024476",
+    "new_price": 125.0,
+    "previous_low": 200.0,
+    "reason": "new-all-time-low",
+    "drop_pct": null
+  }
+]
