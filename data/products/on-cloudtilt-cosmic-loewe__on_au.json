@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-14T01:55:35Z",
+      "price_aud": 1120.0,
+      "url": "https://www.on.com/en-au/products/cloudtilt-cosmic-loewe-m-3mg3092/mens/black-shoes-3MG30920553"
+    }
+  ],
+  "image_path": "images/70bfe36d7ffbbf14.png",
+  "product_key": "on/cloudtilt-cosmic-loewe",
+  "retailer": "on_au",
+  "size": "US M8",
+  "title": "Cloudtilt Cosmic LOEWE",
+  "url": "https://www.on.com/en-au/products/cloudtilt-cosmic-loewe-m-3mg3092/mens/black-shoes-3MG30920553"
+}
