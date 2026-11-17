@@ -36,12 +36,18 @@
       "observed_at": "2026-11-16T01:28:55Z",
       "price_aud": 195.0,
       "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/asphalt-ice-shoes-3MF30433396"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-17T04:15:15Z",
+      "price_aud": 280.0,
+      "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/sienna-dew-shoes-3MF30434829"
     }
   ],
-  "image_path": "images/fe5baee9f373b5df.png",
+  "image_path": "images/4330c00a76c03b74.png",
   "product_key": "on/cloudsurfer-max",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudsurfer Max",
-  "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/asphalt-ice-shoes-3MF30433396"
+  "url": "https://www.on.com/en-au/products/cloudsurfer-max-m-3mf3043/mens/sienna-dew-shoes-3MF30434829"
 }

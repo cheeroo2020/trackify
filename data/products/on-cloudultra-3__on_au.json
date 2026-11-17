@@ -24,12 +24,18 @@
       "observed_at": "2026-10-05T00:18:30Z",
       "price_aud": 230.0,
       "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-17T04:15:20Z",
+      "price_aud": 145.0,
+      "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/cinder-pearl-shoes-3MF30233626"
     }
   ],
-  "image_path": "images/0b0373190be5dd19.png",
+  "image_path": "images/1993ff331da61ff1.png",
   "product_key": "on/cloudultra-3",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudultra 3",
-  "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/black-black-shoes-3MF30231043"
+  "url": "https://www.on.com/en-au/products/cloudultra-3-m-3mf3023/mens/cinder-pearl-shoes-3MF30233626"
 }
