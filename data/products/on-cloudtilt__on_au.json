@@ -12,12 +12,18 @@
       "observed_at": "2026-11-09T01:18:04Z",
       "price_aud": null,
       "url": "https://www.on.com/en-au/products/cloudtilt-m-3mg1098/mens/black-white-shoes-3MG10980299"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-18T03:14:49Z",
+      "price_aud": 260.0,
+      "url": "https://www.on.com/en-au/products/cloudtilt-m-3me1010/mens/black-ivory-shoes-3ME10101430"
     }
   ],
-  "image_path": "images/3c5bab95029a5273.png",
+  "image_path": "images/c915150b040224ca.png",
   "product_key": "on/cloudtilt",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudtilt",
-  "url": "https://www.on.com/en-au/products/cloudtilt-m-3mg1098/mens/black-white-shoes-3MG10980299"
+  "url": "https://www.on.com/en-au/products/cloudtilt-m-3me1010/mens/black-ivory-shoes-3ME10101430"
 }

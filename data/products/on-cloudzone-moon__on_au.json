@@ -36,6 +36,12 @@
       "observed_at": "2026-11-16T01:29:01Z",
       "price_aud": 180.0,
       "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-18T03:15:04Z",
+      "price_aud": 150.0,
+      "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/alloy-rock-shoes-3MF30843295"
     }
   ],
   "image_path": "images/431264a47002abb8.png",
@@ -43,5 +49,5 @@
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudzone Moon",
-  "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/black-dew-shoes-3MF30843714"
+  "url": "https://www.on.com/en-au/products/cloudzone-moon-m-3mf3084/mens/alloy-rock-shoes-3MF30843295"
 }
