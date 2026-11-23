@@ -1,0 +1,17 @@
+{
+  "category": "sneakers",
+  "history": [
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-23T02:05:05Z",
+      "price_aud": 290.0,
+      "url": "https://www.footlocker.com.au/en/product/on-cloudzone-99-men-shoes/244210120804.html"
+    }
+  ],
+  "image_path": "images/299dd7da2f4503fc.jpg",
+  "product_key": "on/cloudzone-99",
+  "retailer": "foot_locker_au",
+  "size": "US M8",
+  "title": "Cloudzone 99",
+  "url": "https://www.footlocker.com.au/en/product/on-cloudzone-99-men-shoes/244210120804.html"
+}
