@@ -12,11 +12,17 @@
       "observed_at": "2026-11-23T02:05:08Z",
       "price_aud": null,
       "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-console"
+    },
+    {
+      "in_stock": false,
+      "observed_at": "2026-11-24T05:42:49Z",
+      "price_aud": 999.0,
+      "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-console"
     }
   ],
-  "image_path": "images/d017adc2de41e390.png",
+  "image_path": "images/09f0f5e42ebb99cb.jpg",
   "product_key": "ps5/slim-disc",
   "retailer": "jb_hifi",
-  "title": "JB Hi-Fi - Australia's Largest Home Entertainment Retailer",
+  "title": "PS5 PlayStation 5 Slim Console",
   "url": "https://www.jbhifi.com.au/products/ps5-playstation-5-slim-console"
 }
