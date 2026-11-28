@@ -48,12 +48,18 @@
       "observed_at": "2026-11-27T03:54:28Z",
       "price_aud": 140.0,
       "url": "https://www.on.com/en-au/products/cloudmonster-void-m-3mg1091/mens/fog-pearl-shoes-3MG10911344"
+    },
+    {
+      "in_stock": true,
+      "observed_at": "2026-11-28T03:38:58Z",
+      "price_aud": 135.0,
+      "url": "https://www.on.com/en-au/products/cloudmonster-void-3mf1067/mens/alloy-glacier-shoes-3MF10671014"
     }
   ],
-  "image_path": "images/9986402e865a8bdf.png",
+  "image_path": "images/a29f073729750c7f.png",
   "product_key": "on/cloudmonster-void",
   "retailer": "on_au",
   "size": "US M8",
   "title": "Cloudmonster Void",
-  "url": "https://www.on.com/en-au/products/cloudmonster-void-m-3mg1091/mens/iceberg-tin-shoes-3MG10914415"
+  "url": "https://www.on.com/en-au/products/cloudmonster-void-3mf1067/mens/alloy-glacier-shoes-3MF10671014"
 }
